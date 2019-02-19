@@ -1,5 +1,5 @@
 # My LeetCode
-Current Progress: **4** / **945** problems while **140** are still locked.
+Current Progress: **5** / **945** problems while **140** are still locked.
 
 Note: :lock: means you need to buy a book from LeetCode
 
@@ -26,7 +26,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |017|[Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/description/) |Medium|NaN|NaN|NaN|NaN|NaN|
 |018|[4Sum](https://leetcode.com/problems/4sum/description/) |Medium|NaN|NaN|NaN|NaN|NaN|
 |019|[Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/description/) |Medium|NaN|NaN|NaN|NaN|NaN|
-|020|[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/description/) |Easy|NaN|NaN|NaN|NaN|NaN|
+|020|[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/description/) |Easy|NaN|NaN|[.py](https://github.com/TheoKlein/leetcode/blob/master/src/020.%20Valid%20Parentheses/20.valid-parentheses.py)|NaN|NaN|
 |021|[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/description/) |Easy|NaN|NaN|NaN|NaN|NaN|
 |022|[Generate Parentheses](https://leetcode.com/problems/generate-parentheses/description/) |Medium|NaN|NaN|NaN|NaN|NaN|
 |023|[Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/description/) |Hard|NaN|NaN|NaN|NaN|NaN|
