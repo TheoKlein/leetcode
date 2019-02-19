@@ -46,7 +46,6 @@
 class Solution:
     # TODO: solve it without converting the integer to a string
     def isPalindrome(self, x: 'int') -> 'bool':
-        rev = str(x)[::-1]
-        if rev == str(x):
+        if str(x) == str(x)[::-1]:
             return True
         return False
