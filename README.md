@@ -7,7 +7,7 @@ Note: :lock: means you need to buy a book from LeetCode
 ## LeetCode Solution Table
 | ID | Title | Difficulty | C | C++ | Python | JavaScript | Java |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|001|[Two Sum](https://leetcode.com/problems/two-sum/description/) |Easy|NaN|NaN|[.py](https://github.com/TheoKlein/leetcode/blob/master/src/001.%20Two%20Sum/1.two-sum.py)|NaN|NaN|
+|001|[Two Sum](https://leetcode.com/problems/two-sum/description/) |Easy|[.c](https://github.com/TheoKlein/leetcode/blob/master/src/001.%20Two%20Sum/1.two-sum.c)|NaN|[.py](https://github.com/TheoKlein/leetcode/blob/master/src/001.%20Two%20Sum/1.two-sum.py)|NaN|NaN|
 |002|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers/description/) |Medium|NaN|NaN|NaN|NaN|NaN|
 |003|[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/description/) |Medium|NaN|NaN|NaN|NaN|NaN|
 |004|[Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/description/) |Hard|NaN|NaN|NaN|NaN|NaN|
