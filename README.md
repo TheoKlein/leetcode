@@ -1,5 +1,5 @@
 # My LeetCode
-Current Progress: **1** / **945** problems while **140** are still locked.
+Current Progress: **2** / **945** problems while **140** are still locked.
 
 Note: :lock: means you need to buy a book from LeetCode
 
@@ -13,7 +13,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |004|[Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/description/) |Hard|NaN|NaN|NaN|NaN|NaN|
 |005|[Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/description/) |Medium|NaN|NaN|NaN|NaN|NaN|
 |006|[ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion/description/) |Medium|NaN|NaN|NaN|NaN|NaN|
-|007|[Reverse Integer](https://leetcode.com/problems/reverse-integer/description/) |Easy|NaN|NaN|NaN|NaN|NaN|
+|007|[Reverse Integer](https://leetcode.com/problems/reverse-integer/description/) |Easy|NaN|NaN|[.py](https://github.com/TheoKlein/leetcode/blob/master/src/007.%20Reverse%20Integer/7.reverse-integer.py)|NaN|NaN|
 |008|[String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/description/) |Medium|NaN|NaN|NaN|NaN|NaN|
 |009|[Palindrome Number](https://leetcode.com/problems/palindrome-number/description/) |Easy|NaN|NaN|NaN|NaN|NaN|
 |010|[Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/description/) |Hard|NaN|NaN|NaN|NaN|NaN|
