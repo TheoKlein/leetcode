@@ -32,7 +32,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |023|[Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/description/) |Hard|NaN|NaN|NaN|NaN|NaN|
 |024|[Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/description/) |Medium|NaN|NaN|NaN|NaN|NaN|
 |025|[Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/description/) |Hard|NaN|NaN|NaN|NaN|NaN|
-|026|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/) |Easy|NaN|NaN|[.py](https://github.com/TheoKlein/leetcode/blob/master/src/026.%20Remove%20Duplicates%20from%20Sorted%20Array/26.remove-duplicates-from-sorted-array.py)|NaN|NaN|
+|026|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/) |Easy|[.c](https://github.com/TheoKlein/leetcode/blob/master/src/026.%20Remove%20Duplicates%20from%20Sorted%20Array/26.remove-duplicates-from-sorted-array.c)|NaN|[.py](https://github.com/TheoKlein/leetcode/blob/master/src/026.%20Remove%20Duplicates%20from%20Sorted%20Array/26.remove-duplicates-from-sorted-array.py)|NaN|NaN|
 |027|[Remove Element](https://leetcode.com/problems/remove-element/description/) |Easy|NaN|NaN|NaN|NaN|NaN|
 |028|[Implement strStr()](https://leetcode.com/problems/implement-strstr/description/) |Easy|NaN|NaN|NaN|NaN|NaN|
 |029|[Divide Two Integers](https://leetcode.com/problems/divide-two-integers/description/) |Medium|NaN|NaN|NaN|NaN|NaN|
