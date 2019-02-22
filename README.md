@@ -1,5 +1,5 @@
 # My LeetCode
-Current Progress: **8** / **945** problems while **140** are still locked.
+Current Progress: **9** / **945** problems while **140** are still locked.
 
 Note: :lock: means you need to buy a book from LeetCode
 
@@ -33,7 +33,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |024|[Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/description/) |Medium|NaN|NaN|NaN|NaN|NaN|
 |025|[Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/description/) |Hard|NaN|NaN|NaN|NaN|NaN|
 |026|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/) |Easy|[.c](https://github.com/TheoKlein/leetcode/blob/master/src/026.%20Remove%20Duplicates%20from%20Sorted%20Array/26.remove-duplicates-from-sorted-array.c)|NaN|[.py](https://github.com/TheoKlein/leetcode/blob/master/src/026.%20Remove%20Duplicates%20from%20Sorted%20Array/26.remove-duplicates-from-sorted-array.py)|NaN|NaN|
-|027|[Remove Element](https://leetcode.com/problems/remove-element/description/) |Easy|NaN|NaN|NaN|NaN|NaN|
+|027|[Remove Element](https://leetcode.com/problems/remove-element/description/) |Easy|NaN|NaN|[.py](https://github.com/TheoKlein/leetcode/blob/master/src/027.%20Remove%20Element/27.remove-element.py)|NaN|NaN|
 |028|[Implement strStr()](https://leetcode.com/problems/implement-strstr/description/) |Easy|NaN|NaN|NaN|NaN|NaN|
 |029|[Divide Two Integers](https://leetcode.com/problems/divide-two-integers/description/) |Medium|NaN|NaN|NaN|NaN|NaN|
 |030|[Substring with Concatenation of All Words](https://leetcode.com/problems/substring-with-concatenation-of-all-words/description/) |Hard|NaN|NaN|NaN|NaN|NaN|
