@@ -1,5 +1,5 @@
 # My LeetCode
-Current Progress: **12** / **945** problems while **140** are still locked.
+Current Progress: **13** / **945** problems while **140** are still locked.
 
 Note: :lock: means you need to buy a book from LeetCode
 
@@ -64,7 +64,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |055|[Jump Game](https://leetcode.com/problems/jump-game/description/) |Medium|NaN|NaN|NaN|NaN|NaN|
 |056|[Merge Intervals](https://leetcode.com/problems/merge-intervals/description/) |Medium|NaN|NaN|NaN|NaN|NaN|
 |057|[Insert Interval](https://leetcode.com/problems/insert-interval/description/) |Hard|NaN|NaN|NaN|NaN|NaN|
-|058|[Length of Last Word](https://leetcode.com/problems/length-of-last-word/description/) |Easy|NaN|NaN|NaN|NaN|NaN|
+|058|[Length of Last Word](https://leetcode.com/problems/length-of-last-word/description/) |Easy|NaN|NaN|[.py](https://github.com/TheoKlein/leetcode/blob/master/src/058.%20Length%20of%20Last%20Word/58.length-of-last-word.py)|NaN|NaN|
 |059|[Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii/description/) |Medium|NaN|NaN|NaN|NaN|NaN|
 |060|[Permutation Sequence](https://leetcode.com/problems/permutation-sequence/description/) |Medium|NaN|NaN|NaN|NaN|NaN|
 |061|[Rotate List](https://leetcode.com/problems/rotate-list/description/) |Medium|NaN|NaN|NaN|NaN|NaN|
