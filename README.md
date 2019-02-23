@@ -1,5 +1,5 @@
 # My LeetCode
-Current Progress: **11** / **945** problems while **140** are still locked.
+Current Progress: **12** / **945** problems while **140** are still locked.
 
 Note: :lock: means you need to buy a book from LeetCode
 
@@ -59,7 +59,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |050|[Pow(x, n)](https://leetcode.com/problems/powx-n/description/) |Medium|NaN|NaN|NaN|NaN|NaN|
 |051|[N-Queens](https://leetcode.com/problems/n-queens/description/) |Hard|NaN|NaN|NaN|NaN|NaN|
 |052|[N-Queens II](https://leetcode.com/problems/n-queens-ii/description/) |Hard|NaN|NaN|NaN|NaN|NaN|
-|053|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/description/) |Easy|NaN|NaN|NaN|NaN|NaN|
+|053|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/description/) |Easy|[.c](https://github.com/TheoKlein/leetcode/blob/master/src/053.%20Maximum%20Subarray/53.maximum-subarray.c)|NaN|NaN|NaN|NaN|
 |054|[Spiral Matrix](https://leetcode.com/problems/spiral-matrix/description/) |Medium|NaN|NaN|NaN|NaN|NaN|
 |055|[Jump Game](https://leetcode.com/problems/jump-game/description/) |Medium|NaN|NaN|NaN|NaN|NaN|
 |056|[Merge Intervals](https://leetcode.com/problems/merge-intervals/description/) |Medium|NaN|NaN|NaN|NaN|NaN|
