@@ -30,7 +30,7 @@
  */
 
 #ifndef max
-	#define max( a, b ) ( ((a) > (b)) ? (a) : (b) )
+    #define max( a, b ) ( ((a) > (b)) ? (a) : (b) )
 #endif
 
 int maxSubArray(int* nums, int numsSize) {
