@@ -1,5 +1,5 @@
 # My LeetCode
-Current Progress: **13** / **945** problems while **140** are still locked.
+Current Progress: **14** / **949** problems while **140** are still locked.
 
 Note: :lock: means you need to buy a book from LeetCode
 
@@ -72,7 +72,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |063|[Unique Paths II](https://leetcode.com/problems/unique-paths-ii/description/) |Medium|NaN|NaN|NaN|NaN|NaN|
 |064|[Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/description/) |Medium|NaN|NaN|NaN|NaN|NaN|
 |065|[Valid Number](https://leetcode.com/problems/valid-number/description/) |Hard|NaN|NaN|NaN|NaN|NaN|
-|066|[Plus One](https://leetcode.com/problems/plus-one/description/) |Easy|NaN|NaN|NaN|NaN|NaN|
+|066|[Plus One](https://leetcode.com/problems/plus-one/description/) |Easy|NaN|NaN|[.py](https://github.com/TheoKlein/leetcode/blob/master/src/066.%20Plus%20One/66.plus-one.py)|NaN|NaN|
 |067|[Add Binary](https://leetcode.com/problems/add-binary/description/) |Easy|NaN|NaN|NaN|NaN|NaN|
 |068|[Text Justification](https://leetcode.com/problems/text-justification/description/) |Hard|NaN|NaN|NaN|NaN|NaN|
 |069|[Sqrt(x)](https://leetcode.com/problems/sqrtx/description/) |Easy|NaN|NaN|NaN|NaN|NaN|
@@ -952,3 +952,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |994|[Rotting Oranges](https://leetcode.com/problems/rotting-oranges/description/) |Easy|NaN|NaN|NaN|NaN|NaN|
 |995|[Minimum Number of K Consecutive Bit Flips](https://leetcode.com/problems/minimum-number-of-k-consecutive-bit-flips/description/) |Hard|NaN|NaN|NaN|NaN|NaN|
 |996|[Number of Squareful Arrays](https://leetcode.com/problems/number-of-squareful-arrays/description/) |Hard|NaN|NaN|NaN|NaN|NaN|
+|997|[Find the Town Judge](https://leetcode.com/problems/find-the-town-judge/description/) |Easy|NaN|NaN|NaN|NaN|NaN|
+|998|[Maximum Binary Tree II](https://leetcode.com/problems/maximum-binary-tree-ii/description/) |Medium|NaN|NaN|NaN|NaN|NaN|
+|999|[Available Captures for Rook](https://leetcode.com/problems/available-captures-for-rook/description/) |Easy|NaN|NaN|NaN|NaN|NaN|
+|1001|[Grid Illumination](https://leetcode.com/problems/grid-illumination/description/) |Hard|NaN|NaN|NaN|NaN|NaN|
