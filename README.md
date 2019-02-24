@@ -1,5 +1,5 @@
 # My LeetCode
-Current Progress: **14** / **949** problems while **140** are still locked.
+Current Progress: **15** / **949** problems while **140** are still locked.
 
 Note: :lock: means you need to buy a book from LeetCode
 
@@ -75,7 +75,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |066|[Plus One](https://leetcode.com/problems/plus-one/description/) |Easy|NaN|NaN|[.py](https://github.com/TheoKlein/leetcode/blob/master/src/066.%20Plus%20One/66.plus-one.py)|NaN|NaN|
 |067|[Add Binary](https://leetcode.com/problems/add-binary/description/) |Easy|NaN|NaN|NaN|NaN|NaN|
 |068|[Text Justification](https://leetcode.com/problems/text-justification/description/) |Hard|NaN|NaN|NaN|NaN|NaN|
-|069|[Sqrt(x)](https://leetcode.com/problems/sqrtx/description/) |Easy|NaN|NaN|NaN|NaN|NaN|
+|069|[Sqrt(x)](https://leetcode.com/problems/sqrtx/description/) |Easy|NaN|NaN|[.py](https://github.com/TheoKlein/leetcode/blob/master/src/069.%20Sqrt(x)/69.sqrt-x.py)|NaN|NaN|
 |070|[Climbing Stairs](https://leetcode.com/problems/climbing-stairs/description/) |Easy|NaN|NaN|NaN|NaN|NaN|
 |071|[Simplify Path](https://leetcode.com/problems/simplify-path/description/) |Medium|NaN|NaN|NaN|NaN|NaN|
 |072|[Edit Distance](https://leetcode.com/problems/edit-distance/description/) |Hard|NaN|NaN|NaN|NaN|NaN|
