@@ -1,5 +1,5 @@
 # My LeetCode
-Current Progress: **15** / **949** problems while **140** are still locked.
+Current Progress: **16** / **949** problems while **140** are still locked.
 
 Note: :lock: means you need to buy a book from LeetCode
 
@@ -89,7 +89,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |080|[Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/description/) |Medium|NaN|NaN|NaN|NaN|NaN|
 |081|[Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/description/) |Medium|NaN|NaN|NaN|NaN|NaN|
 |082|[Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/description/) |Medium|NaN|NaN|NaN|NaN|NaN|
-|083|[Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/description/) |Easy|NaN|NaN|NaN|NaN|NaN|
+|083|[Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/description/) |Easy|NaN|NaN|[.py](https://github.com/TheoKlein/leetcode/blob/master/src/083.%20Remove%20Duplicates%20from%20Sorted%20List/83.remove-duplicates-from-sorted-list.py)|NaN|NaN|
 |084|[Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/description/) |Hard|NaN|NaN|NaN|NaN|NaN|
 |085|[Maximal Rectangle](https://leetcode.com/problems/maximal-rectangle/description/) |Hard|NaN|NaN|NaN|NaN|NaN|
 |086|[Partition List](https://leetcode.com/problems/partition-list/description/) |Medium|NaN|NaN|NaN|NaN|NaN|
@@ -441,7 +441,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |455|[Assign Cookies](https://leetcode.com/problems/assign-cookies/description/) |Easy|NaN|NaN|NaN|NaN|NaN|
 |456|[132 Pattern](https://leetcode.com/problems/132-pattern/description/) |Medium|NaN|NaN|NaN|NaN|NaN|
 |457|[Circular Array Loop](https://leetcode.com/problems/circular-array-loop/description/) |Medium|NaN|NaN|NaN|NaN|NaN|
-|458|[Poor Pigs](https://leetcode.com/problems/poor-pigs/description/) |Easy|NaN|NaN|NaN|NaN|NaN|
+|458|[Poor Pigs](https://leetcode.com/problems/poor-pigs/description/) |Hard|NaN|NaN|NaN|NaN|NaN|
 |459|[Repeated Substring Pattern](https://leetcode.com/problems/repeated-substring-pattern/description/) |Easy|NaN|NaN|NaN|NaN|NaN|
 |460|[LFU Cache](https://leetcode.com/problems/lfu-cache/description/) |Hard|NaN|NaN|NaN|NaN|NaN|
 |461|[Hamming Distance](https://leetcode.com/problems/hamming-distance/description/) |Easy|NaN|NaN|NaN|NaN|NaN|
