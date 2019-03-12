@@ -1,5 +1,5 @@
 # My LeetCode
-Current Progress: **16** / **949** problems while **140** are still locked.
+Current Progress: **17** / **957** problems while **140** are still locked.
 
 Note: :lock: means you need to buy a book from LeetCode
 
@@ -142,7 +142,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |133|[Clone Graph](https://leetcode.com/problems/clone-graph/description/) |Medium|NaN|NaN|NaN|NaN|NaN|
 |134|[Gas Station](https://leetcode.com/problems/gas-station/description/) |Medium|NaN|NaN|NaN|NaN|NaN|
 |135|[Candy](https://leetcode.com/problems/candy/description/) |Hard|NaN|NaN|NaN|NaN|NaN|
-|136|[Single Number](https://leetcode.com/problems/single-number/description/) |Easy|NaN|NaN|NaN|NaN|NaN|
+|136|[Single Number](https://leetcode.com/problems/single-number/description/) |Easy|NaN|NaN|[.py](https://github.com/TheoKlein/leetcode/blob/master/src/136.%20Single%20Number/136.single-number.py)|NaN|NaN|
 |137|[Single Number II](https://leetcode.com/problems/single-number-ii/description/) |Medium|NaN|NaN|NaN|NaN|NaN|
 |138|[Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/description/) |Medium|NaN|NaN|NaN|NaN|NaN|
 |139|[Word Break](https://leetcode.com/problems/word-break/description/) |Medium|NaN|NaN|NaN|NaN|NaN|
@@ -928,7 +928,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |971|[Flip Binary Tree To Match Preorder Traversal](https://leetcode.com/problems/flip-binary-tree-to-match-preorder-traversal/description/) |Medium|NaN|NaN|NaN|NaN|NaN|
 |972|[Equal Rational Numbers](https://leetcode.com/problems/equal-rational-numbers/description/) |Hard|NaN|NaN|NaN|NaN|NaN|
 |509|[Fibonacci Number](https://leetcode.com/problems/fibonacci-number/description/) |Easy|NaN|NaN|NaN|NaN|NaN|
-|973|[K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/description/) |Easy|NaN|NaN|NaN|NaN|NaN|
+|973|[K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/description/) |Medium|NaN|NaN|NaN|NaN|NaN|
 |974|[Subarray Sums Divisible by K](https://leetcode.com/problems/subarray-sums-divisible-by-k/description/) |Medium|NaN|NaN|NaN|NaN|NaN|
 |975|[Odd Even Jump](https://leetcode.com/problems/odd-even-jump/description/) |Hard|NaN|NaN|NaN|NaN|NaN|
 |976|[Largest Perimeter Triangle](https://leetcode.com/problems/largest-perimeter-triangle/description/) |Easy|NaN|NaN|NaN|NaN|NaN|
@@ -939,7 +939,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |981|[Time Based Key-Value Store](https://leetcode.com/problems/time-based-key-value-store/description/) |Medium|NaN|NaN|NaN|NaN|NaN|
 |982|[Triples with Bitwise AND Equal To Zero](https://leetcode.com/problems/triples-with-bitwise-and-equal-to-zero/description/) |Hard|NaN|NaN|NaN|NaN|NaN|
 |983|[Minimum Cost For Tickets](https://leetcode.com/problems/minimum-cost-for-tickets/description/) |Medium|NaN|NaN|NaN|NaN|NaN|
-|984|[String Without AAA or BBB](https://leetcode.com/problems/string-without-aaa-or-bbb/description/) |Easy|NaN|NaN|NaN|NaN|NaN|
+|984|[String Without AAA or BBB](https://leetcode.com/problems/string-without-aaa-or-bbb/description/) |Medium|NaN|NaN|NaN|NaN|NaN|
 |985|[Sum of Even Numbers After Queries](https://leetcode.com/problems/sum-of-even-numbers-after-queries/description/) |Easy|NaN|NaN|NaN|NaN|NaN|
 |986|[Interval List Intersections](https://leetcode.com/problems/interval-list-intersections/description/) |Medium|NaN|NaN|NaN|NaN|NaN|
 |987|[Vertical Order Traversal of a Binary Tree](https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree/description/) |Medium|NaN|NaN|NaN|NaN|NaN|
@@ -955,4 +955,12 @@ Note: :lock: means you need to buy a book from LeetCode
 |997|[Find the Town Judge](https://leetcode.com/problems/find-the-town-judge/description/) |Easy|NaN|NaN|NaN|NaN|NaN|
 |998|[Maximum Binary Tree II](https://leetcode.com/problems/maximum-binary-tree-ii/description/) |Medium|NaN|NaN|NaN|NaN|NaN|
 |999|[Available Captures for Rook](https://leetcode.com/problems/available-captures-for-rook/description/) |Easy|NaN|NaN|NaN|NaN|NaN|
+|1000|[Minimum Cost to Merge Stones](https://leetcode.com/problems/minimum-cost-to-merge-stones/description/) |Hard|NaN|NaN|NaN|NaN|NaN|
 |1001|[Grid Illumination](https://leetcode.com/problems/grid-illumination/description/) |Hard|NaN|NaN|NaN|NaN|NaN|
+|1002|[Find Common Characters](https://leetcode.com/problems/find-common-characters/description/) |Easy|NaN|NaN|NaN|NaN|NaN|
+|1003|[Check If Word Is Valid After Substitutions](https://leetcode.com/problems/check-if-word-is-valid-after-substitutions/description/) |Medium|NaN|NaN|NaN|NaN|NaN|
+|1004|[Max Consecutive Ones III](https://leetcode.com/problems/max-consecutive-ones-iii/description/) |Medium|NaN|NaN|NaN|NaN|NaN|
+|1005|[Maximize Sum Of Array After K Negations](https://leetcode.com/problems/maximize-sum-of-array-after-k-negations/description/) |Easy|NaN|NaN|NaN|NaN|NaN|
+|1006|[Clumsy Factorial](https://leetcode.com/problems/clumsy-factorial/description/) |Medium|NaN|NaN|NaN|NaN|NaN|
+|1007|[Minimum Domino Rotations For Equal Row](https://leetcode.com/problems/minimum-domino-rotations-for-equal-row/description/) |Medium|NaN|NaN|NaN|NaN|NaN|
+|1008|[Construct Binary Search Tree from Preorder Traversal](https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal/description/) |Medium|NaN|NaN|NaN|NaN|NaN|
