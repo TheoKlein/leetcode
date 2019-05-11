@@ -29,9 +29,19 @@
 # 
 # 
 #
-class Solution:
+class Solution_1:
     def twoSum(self, nums: 'List[int]', target: 'int') -> 'List[int]':
+        # brutforce the possible sets
         for i, n1 in enumerate(nums):
             for j, n2 in enumerate(nums):
                 if i != j and n1 + n2 == target:
                     return [i, j]
+
+class Solution:
+    def twoSum(self, nums: 'List[int]', target: 'int') -> 'List[int]':
+        # use extra space to reduce loop times
+        buffer = dict()
+        for i in range(len(nums)):
+            if nums[i] in buffer:
+                return [buffer[nums[i]], i]
+            buffer[target - nums[i]] = i
