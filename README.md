@@ -1,5 +1,5 @@
 # My LeetCode
-Current Progress: **18** / **957** problems while **140** are still locked.
+Current Progress: **19** / **990** problems while **140** are still locked.
 
 Note: :lock: means you need to buy a book from LeetCode
 
@@ -44,7 +44,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |035|[Search Insert Position](https://leetcode.com/problems/search-insert-position/description/) |Easy|NaN|NaN|[.py](https://github.com/TheoKlein/leetcode/blob/master/src/035.%20Search%20Insert%20Position/35.search-insert-position.py)|NaN|NaN|
 |036|[Valid Sudoku](https://leetcode.com/problems/valid-sudoku/description/) |Medium|NaN|NaN|NaN|NaN|NaN|
 |037|[Sudoku Solver](https://leetcode.com/problems/sudoku-solver/description/) |Hard|NaN|NaN|NaN|NaN|NaN|
-|038|[Count and Say](https://leetcode.com/problems/count-and-say/description/) |Easy|NaN|NaN|NaN|NaN|NaN|
+|038|[Count and Say](https://leetcode.com/problems/count-and-say/description/) |Easy|NaN|NaN|[.py](https://github.com/TheoKlein/leetcode/blob/master/src/038.%20Count%20and%20Say/38.count-and-say.py)|NaN|NaN|
 |039|[Combination Sum](https://leetcode.com/problems/combination-sum/description/) |Medium|NaN|NaN|NaN|NaN|NaN|
 |040|[Combination Sum II](https://leetcode.com/problems/combination-sum-ii/description/) |Medium|NaN|NaN|NaN|NaN|NaN|
 |041|[First Missing Positive](https://leetcode.com/problems/first-missing-positive/description/) |Hard|NaN|NaN|NaN|NaN|NaN|
@@ -867,6 +867,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |909|[Snakes and Ladders](https://leetcode.com/problems/snakes-and-ladders/description/) |Medium|NaN|NaN|NaN|NaN|NaN|
 |910|[Smallest Range II](https://leetcode.com/problems/smallest-range-ii/description/) |Medium|NaN|NaN|NaN|NaN|NaN|
 |911|[Online Election](https://leetcode.com/problems/online-election/description/) |Medium|NaN|NaN|NaN|NaN|NaN|
+|912|[Sort an Array](https://leetcode.com/problems/sort-an-array/description/) |Medium|NaN|NaN|NaN|NaN|NaN|
 |913|[Cat and Mouse](https://leetcode.com/problems/cat-and-mouse/description/) |Hard|NaN|NaN|NaN|NaN|NaN|
 |914|[X of a Kind in a Deck of Cards](https://leetcode.com/problems/x-of-a-kind-in-a-deck-of-cards/description/) |Easy|NaN|NaN|NaN|NaN|NaN|
 |915|[Partition Array into Disjoint Intervals](https://leetcode.com/problems/partition-array-into-disjoint-intervals/description/) |Medium|NaN|NaN|NaN|NaN|NaN|
@@ -892,7 +893,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |935|[Knight Dialer](https://leetcode.com/problems/knight-dialer/description/) |Medium|NaN|NaN|NaN|NaN|NaN|
 |936|[Stamping The Sequence](https://leetcode.com/problems/stamping-the-sequence/description/) |Hard|NaN|NaN|NaN|NaN|NaN|
 |937|[Reorder Log Files](https://leetcode.com/problems/reorder-log-files/description/) |Easy|NaN|NaN|NaN|NaN|NaN|
-|938|[Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/description/) |Medium|NaN|NaN|NaN|NaN|NaN|
+|938|[Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/description/) |Easy|NaN|NaN|NaN|NaN|NaN|
 |939|[Minimum Area Rectangle](https://leetcode.com/problems/minimum-area-rectangle/description/) |Medium|NaN|NaN|NaN|NaN|NaN|
 |940|[Distinct Subsequences II](https://leetcode.com/problems/distinct-subsequences-ii/description/) |Hard|NaN|NaN|NaN|NaN|NaN|
 |941|[Valid Mountain Array](https://leetcode.com/problems/valid-mountain-array/description/) |Easy|NaN|NaN|NaN|NaN|NaN|
@@ -964,3 +965,35 @@ Note: :lock: means you need to buy a book from LeetCode
 |1006|[Clumsy Factorial](https://leetcode.com/problems/clumsy-factorial/description/) |Medium|NaN|NaN|NaN|NaN|NaN|
 |1007|[Minimum Domino Rotations For Equal Row](https://leetcode.com/problems/minimum-domino-rotations-for-equal-row/description/) |Medium|NaN|NaN|NaN|NaN|NaN|
 |1008|[Construct Binary Search Tree from Preorder Traversal](https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal/description/) |Medium|NaN|NaN|NaN|NaN|NaN|
+|1009|[Complement of Base 10 Integer](https://leetcode.com/problems/complement-of-base-10-integer/description/) |Easy|NaN|NaN|NaN|NaN|NaN|
+|1010|[Pairs of Songs With Total Durations Divisible by 60](https://leetcode.com/problems/pairs-of-songs-with-total-durations-divisible-by-60/description/) |Easy|NaN|NaN|NaN|NaN|NaN|
+|1011|[Capacity To Ship Packages Within D Days](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/description/) |Medium|NaN|NaN|NaN|NaN|NaN|
+|1012|[Numbers With Repeated Digits](https://leetcode.com/problems/numbers-with-repeated-digits/description/) |Hard|NaN|NaN|NaN|NaN|NaN|
+|1013|[Partition Array Into Three Parts With Equal Sum](https://leetcode.com/problems/partition-array-into-three-parts-with-equal-sum/description/) |Easy|NaN|NaN|NaN|NaN|NaN|
+|1014|[Best Sightseeing Pair](https://leetcode.com/problems/best-sightseeing-pair/description/) |Medium|NaN|NaN|NaN|NaN|NaN|
+|1015|[Smallest Integer Divisible by K](https://leetcode.com/problems/smallest-integer-divisible-by-k/description/) |Medium|NaN|NaN|NaN|NaN|NaN|
+|1016|[Binary String With Substrings Representing 1 To N](https://leetcode.com/problems/binary-string-with-substrings-representing-1-to-n/description/) |Medium|NaN|NaN|NaN|NaN|NaN|
+|1017|[Convert to Base -2](https://leetcode.com/problems/convert-to-base-2/description/) |Medium|NaN|NaN|NaN|NaN|NaN|
+|1018|[Binary Prefix Divisible By 5](https://leetcode.com/problems/binary-prefix-divisible-by-5/description/) |Easy|NaN|NaN|NaN|NaN|NaN|
+|1019|[Next Greater Node In Linked List](https://leetcode.com/problems/next-greater-node-in-linked-list/description/) |Medium|NaN|NaN|NaN|NaN|NaN|
+|1020|[Number of Enclaves](https://leetcode.com/problems/number-of-enclaves/description/) |Medium|NaN|NaN|NaN|NaN|NaN|
+|1021|[Remove Outermost Parentheses](https://leetcode.com/problems/remove-outermost-parentheses/description/) |Easy|NaN|NaN|NaN|NaN|NaN|
+|1022|[Sum of Root To Leaf Binary Numbers](https://leetcode.com/problems/sum-of-root-to-leaf-binary-numbers/description/) |Easy|NaN|NaN|NaN|NaN|NaN|
+|1023|[Camelcase Matching](https://leetcode.com/problems/camelcase-matching/description/) |Medium|NaN|NaN|NaN|NaN|NaN|
+|1024|[Video Stitching](https://leetcode.com/problems/video-stitching/description/) |Medium|NaN|NaN|NaN|NaN|NaN|
+|1025|[Divisor Game](https://leetcode.com/problems/divisor-game/description/) |Easy|NaN|NaN|NaN|NaN|NaN|
+|1027|[Longest Arithmetic Sequence](https://leetcode.com/problems/longest-arithmetic-sequence/description/) |Medium|NaN|NaN|NaN|NaN|NaN|
+|1026|[Maximum Difference Between Node and Ancestor](https://leetcode.com/problems/maximum-difference-between-node-and-ancestor/description/) |Medium|NaN|NaN|NaN|NaN|NaN|
+|1028|[Recover a Tree From Preorder Traversal](https://leetcode.com/problems/recover-a-tree-from-preorder-traversal/description/) |Hard|NaN|NaN|NaN|NaN|NaN|
+|1030|[Matrix Cells in Distance Order](https://leetcode.com/problems/matrix-cells-in-distance-order/description/) |Easy|NaN|NaN|NaN|NaN|NaN|
+|1029|[Two City Scheduling](https://leetcode.com/problems/two-city-scheduling/description/) |Easy|NaN|NaN|NaN|NaN|NaN|
+|1031|[Maximum Sum of Two Non-Overlapping Subarrays](https://leetcode.com/problems/maximum-sum-of-two-non-overlapping-subarrays/description/) |Medium|NaN|NaN|NaN|NaN|NaN|
+|1032|[Stream of Characters](https://leetcode.com/problems/stream-of-characters/description/) |Hard|NaN|NaN|NaN|NaN|NaN|
+|1033|[Moving Stones Until Consecutive](https://leetcode.com/problems/moving-stones-until-consecutive/description/) |Easy|NaN|NaN|NaN|NaN|NaN|
+|1034|[Coloring A Border](https://leetcode.com/problems/coloring-a-border/description/) |Medium|NaN|NaN|NaN|NaN|NaN|
+|1035|[Uncrossed Lines](https://leetcode.com/problems/uncrossed-lines/description/) |Medium|NaN|NaN|NaN|NaN|NaN|
+|1036|[Escape a Large Maze](https://leetcode.com/problems/escape-a-large-maze/description/) |Hard|NaN|NaN|NaN|NaN|NaN|
+|1039|[Minimum Score Triangulation of Polygon](https://leetcode.com/problems/minimum-score-triangulation-of-polygon/description/) |Medium|NaN|NaN|NaN|NaN|NaN|
+|1040|[Moving Stones Until Consecutive II](https://leetcode.com/problems/moving-stones-until-consecutive-ii/description/) |Medium|NaN|NaN|NaN|NaN|NaN|
+|1038|[Binary Search Tree to Greater Sum Tree](https://leetcode.com/problems/binary-search-tree-to-greater-sum-tree/description/) |Medium|NaN|NaN|NaN|NaN|NaN|
+|1037|[Valid Boomerang](https://leetcode.com/problems/valid-boomerang/description/) |Easy|NaN|NaN|NaN|NaN|NaN|
