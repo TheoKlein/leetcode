@@ -1,5 +1,5 @@
 # My LeetCode
-Current Progress: **20** / **994** problems while **140** are still locked.
+Current Progress: **21** / **994** problems while **140** are still locked.
 
 Note: :lock: means you need to buy a book from LeetCode
 
@@ -94,7 +94,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |085|[Maximal Rectangle](https://leetcode.com/problems/maximal-rectangle/description/) |Hard|NaN|NaN|NaN|NaN|NaN|
 |086|[Partition List](https://leetcode.com/problems/partition-list/description/) |Medium|NaN|NaN|NaN|NaN|NaN|
 |087|[Scramble String](https://leetcode.com/problems/scramble-string/description/) |Hard|NaN|NaN|NaN|NaN|NaN|
-|088|[Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/description/) |Easy|NaN|NaN|NaN|NaN|NaN|
+|088|[Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/description/) |Easy|NaN|NaN|[.py](https://github.com/TheoKlein/leetcode/blob/master/src/088.%20Merge%20Sorted%20Array/88.merge-sorted-array.py)|NaN|NaN|
 |089|[Gray Code](https://leetcode.com/problems/gray-code/description/) |Medium|NaN|NaN|NaN|NaN|NaN|
 |090|[Subsets II](https://leetcode.com/problems/subsets-ii/description/) |Medium|NaN|NaN|NaN|NaN|NaN|
 |091|[Decode Ways](https://leetcode.com/problems/decode-ways/description/) |Medium|NaN|NaN|NaN|NaN|NaN|
