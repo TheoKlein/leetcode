@@ -1,5 +1,5 @@
 # My LeetCode
-Current Progress: **28** / **994** problems while **140** are still locked.
+Current Progress: **29** / **994** problems while **140** are still locked.
 
 Note: :lock: means you need to buy a book from LeetCode
 
@@ -147,7 +147,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |138|[Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/description/) |Medium|NaN|NaN|NaN|NaN|NaN|
 |139|[Word Break](https://leetcode.com/problems/word-break/description/) |Medium|NaN|NaN|NaN|NaN|NaN|
 |140|[Word Break II](https://leetcode.com/problems/word-break-ii/description/) |Hard|NaN|NaN|NaN|NaN|NaN|
-|141|[Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/description/) |Easy|NaN|NaN|NaN|NaN|NaN|
+|141|[Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/description/) |Easy|NaN|NaN|[.py](https://github.com/TheoKlein/leetcode/blob/master/src/141.%20Linked%20List%20Cycle/141.linked-list-cycle.py)|NaN|NaN|
 |142|[Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/description/) |Medium|NaN|NaN|NaN|NaN|NaN|
 |143|[Reorder List](https://leetcode.com/problems/reorder-list/description/) |Medium|NaN|NaN|NaN|NaN|NaN|
 |144|[Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/description/) |Medium|NaN|NaN|NaN|NaN|NaN|
