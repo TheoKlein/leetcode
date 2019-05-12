@@ -1,5 +1,5 @@
 # My LeetCode
-Current Progress: **19** / **990** problems while **140** are still locked.
+Current Progress: **20** / **994** problems while **140** are still locked.
 
 Note: :lock: means you need to buy a book from LeetCode
 
@@ -76,7 +76,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |067|[Add Binary](https://leetcode.com/problems/add-binary/description/) |Easy|NaN|NaN|NaN|NaN|NaN|
 |068|[Text Justification](https://leetcode.com/problems/text-justification/description/) |Hard|NaN|NaN|NaN|NaN|NaN|
 |069|[Sqrt(x)](https://leetcode.com/problems/sqrtx/description/) |Easy|NaN|NaN|[.py](https://github.com/TheoKlein/leetcode/blob/master/src/069.%20Sqrt(x)/69.sqrt-x.py)|NaN|NaN|
-|070|[Climbing Stairs](https://leetcode.com/problems/climbing-stairs/description/) |Easy|NaN|NaN|NaN|NaN|NaN|
+|070|[Climbing Stairs](https://leetcode.com/problems/climbing-stairs/description/) |Easy|NaN|NaN|[.py](https://github.com/TheoKlein/leetcode/blob/master/src/070.%20Climbing%20Stairs/70.climbing-stairs.py)|NaN|NaN|
 |071|[Simplify Path](https://leetcode.com/problems/simplify-path/description/) |Medium|NaN|NaN|NaN|NaN|NaN|
 |072|[Edit Distance](https://leetcode.com/problems/edit-distance/description/) |Hard|NaN|NaN|NaN|NaN|NaN|
 |073|[Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/description/) |Medium|NaN|NaN|NaN|NaN|NaN|
@@ -997,3 +997,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |1040|[Moving Stones Until Consecutive II](https://leetcode.com/problems/moving-stones-until-consecutive-ii/description/) |Medium|NaN|NaN|NaN|NaN|NaN|
 |1038|[Binary Search Tree to Greater Sum Tree](https://leetcode.com/problems/binary-search-tree-to-greater-sum-tree/description/) |Medium|NaN|NaN|NaN|NaN|NaN|
 |1037|[Valid Boomerang](https://leetcode.com/problems/valid-boomerang/description/) |Easy|NaN|NaN|NaN|NaN|NaN|
+|1041|[Robot Bounded In Circle](https://leetcode.com/problems/robot-bounded-in-circle/description/) |Easy|NaN|NaN|NaN|NaN|NaN|
+|1042|[Flower Planting With No Adjacent](https://leetcode.com/problems/flower-planting-with-no-adjacent/description/) |Easy|NaN|NaN|NaN|NaN|NaN|
+|1043|[Partition Array for Maximum Sum](https://leetcode.com/problems/partition-array-for-maximum-sum/description/) |Medium|NaN|NaN|NaN|NaN|NaN|
+|1044|[Longest Duplicate Substring](https://leetcode.com/problems/longest-duplicate-substring/description/) |Hard|NaN|NaN|NaN|NaN|NaN|
