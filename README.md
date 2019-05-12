@@ -1,5 +1,5 @@
 # My LeetCode
-Current Progress: **25** / **994** problems while **140** are still locked.
+Current Progress: **26** / **994** problems while **140** are still locked.
 
 Note: :lock: means you need to buy a book from LeetCode
 
@@ -127,7 +127,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |118|[Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/description/) |Easy|NaN|NaN|[.py](https://github.com/TheoKlein/leetcode/blob/master/src/118.%20Pascal's%20Triangle/118.pascals-triangle.py)|NaN|NaN|
 |119|[Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/description/) |Easy|NaN|NaN|NaN|NaN|NaN|
 |120|[Triangle](https://leetcode.com/problems/triangle/description/) |Medium|NaN|NaN|NaN|NaN|NaN|
-|121|[Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/) |Easy|NaN|NaN|NaN|NaN|NaN|
+|121|[Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/) |Easy|NaN|NaN|[.py](https://github.com/TheoKlein/leetcode/blob/master/src/121.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock/121.best-time-to-buy-and-sell-stock.py)|NaN|NaN|
 |122|[Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/description/) |Easy|NaN|NaN|NaN|NaN|NaN|
 |123|[Best Time to Buy and Sell Stock III](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/description/) |Hard|NaN|NaN|NaN|NaN|NaN|
 |124|[Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/description/) |Hard|NaN|NaN|NaN|NaN|NaN|
