@@ -1,5 +1,5 @@
 # My LeetCode
-Current Progress: **22** / **994** problems while **140** are still locked.
+Current Progress: **23** / **994** problems while **140** are still locked.
 
 Note: :lock: means you need to buy a book from LeetCode
 
@@ -110,7 +110,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |101|[Symmetric Tree](https://leetcode.com/problems/symmetric-tree/description/) |Easy|NaN|NaN|[.py](https://github.com/TheoKlein/leetcode/blob/master/src/101.%20Symmetric%20Tree/101.symmetric-tree.py)|NaN|NaN|
 |102|[Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/description/) |Medium|NaN|NaN|NaN|NaN|NaN|
 |103|[Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/description/) |Medium|NaN|NaN|NaN|NaN|NaN|
-|104|[Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/description/) |Easy|NaN|NaN|NaN|NaN|NaN|
+|104|[Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/description/) |Easy|NaN|NaN|[.py](https://github.com/TheoKlein/leetcode/blob/master/src/104.%20Maximum%20Depth%20of%20Binary%20Tree/104.maximum-depth-of-binary-tree.py)|NaN|NaN|
 |105|[Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/description/) |Medium|NaN|NaN|NaN|NaN|NaN|
 |106|[Construct Binary Tree from Inorder and Postorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/description/) |Medium|NaN|NaN|NaN|NaN|NaN|
 |107|[Binary Tree Level Order Traversal II](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/description/) |Easy|NaN|NaN|NaN|NaN|NaN|
