@@ -1,5 +1,5 @@
 # My LeetCode
-Current Progress: **24** / **994** problems while **140** are still locked.
+Current Progress: **25** / **994** problems while **140** are still locked.
 
 Note: :lock: means you need to buy a book from LeetCode
 
@@ -124,7 +124,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |115|[Distinct Subsequences](https://leetcode.com/problems/distinct-subsequences/description/) |Hard|NaN|NaN|NaN|NaN|NaN|
 |116|[Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/description/) |Medium|NaN|NaN|NaN|NaN|NaN|
 |117|[Populating Next Right Pointers in Each Node II](https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii/description/) |Medium|NaN|NaN|NaN|NaN|NaN|
-|118|[Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/description/) |Easy|NaN|NaN|NaN|NaN|NaN|
+|118|[Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/description/) |Easy|NaN|NaN|[.py](https://github.com/TheoKlein/leetcode/blob/master/src/118.%20Pascal's%20Triangle/118.pascals-triangle.py)|NaN|NaN|
 |119|[Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/description/) |Easy|NaN|NaN|NaN|NaN|NaN|
 |120|[Triangle](https://leetcode.com/problems/triangle/description/) |Medium|NaN|NaN|NaN|NaN|NaN|
 |121|[Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/) |Easy|NaN|NaN|NaN|NaN|NaN|
