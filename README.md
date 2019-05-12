@@ -1,5 +1,5 @@
 # My LeetCode
-Current Progress: **27** / **994** problems while **140** are still locked.
+Current Progress: **28** / **994** problems while **140** are still locked.
 
 Note: :lock: means you need to buy a book from LeetCode
 
@@ -131,7 +131,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |122|[Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/description/) |Easy|NaN|NaN|[.py](https://github.com/TheoKlein/leetcode/blob/master/src/122.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock%20II/122.best-time-to-buy-and-sell-stock-ii.py)|NaN|NaN|
 |123|[Best Time to Buy and Sell Stock III](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/description/) |Hard|NaN|NaN|NaN|NaN|NaN|
 |124|[Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/description/) |Hard|NaN|NaN|NaN|NaN|NaN|
-|125|[Valid Palindrome](https://leetcode.com/problems/valid-palindrome/description/) |Easy|NaN|NaN|NaN|NaN|NaN|
+|125|[Valid Palindrome](https://leetcode.com/problems/valid-palindrome/description/) |Easy|NaN|NaN|[.py](https://github.com/TheoKlein/leetcode/blob/master/src/125.%20Valid%20Palindrome/125.valid-palindrome.py)|NaN|NaN|
 |126|[Word Ladder II](https://leetcode.com/problems/word-ladder-ii/description/) |Hard|NaN|NaN|NaN|NaN|NaN|
 |127|[Word Ladder](https://leetcode.com/problems/word-ladder/description/) |Medium|NaN|NaN|NaN|NaN|NaN|
 |128|[Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/description/) |Hard|NaN|NaN|NaN|NaN|NaN|
