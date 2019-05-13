@@ -1,5 +1,5 @@
 # My LeetCode
-Current Progress: **40** / **994** problems while **140** are still locked.
+Current Progress: **41** / **994** problems while **140** are still locked.
 
 Note: :lock: means you need to buy a book from LeetCode
 
@@ -207,7 +207,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |214|[Shortest Palindrome](https://leetcode.com/problems/shortest-palindrome/description/) |Hard|NaN|NaN|NaN|NaN|NaN|
 |215|[Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/description/) |Medium|NaN|NaN|NaN|NaN|NaN|
 |216|[Combination Sum III](https://leetcode.com/problems/combination-sum-iii/description/) |Medium|NaN|NaN|NaN|NaN|NaN|
-|217|[Contains Duplicate](https://leetcode.com/problems/contains-duplicate/description/) |Easy|NaN|NaN|NaN|NaN|NaN|
+|217|[Contains Duplicate](https://leetcode.com/problems/contains-duplicate/description/) |Easy|NaN|NaN|[.py](https://github.com/TheoKlein/leetcode/blob/master/src/217.%20Contains%20Duplicate/217.contains-duplicate.py)|NaN|NaN|
 |218|[The Skyline Problem](https://leetcode.com/problems/the-skyline-problem/description/) |Hard|NaN|NaN|NaN|NaN|NaN|
 |219|[Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/description/) |Easy|NaN|NaN|NaN|NaN|NaN|
 |220|[Contains Duplicate III](https://leetcode.com/problems/contains-duplicate-iii/description/) |Medium|NaN|NaN|NaN|NaN|NaN|
