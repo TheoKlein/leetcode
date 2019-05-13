@@ -1,5 +1,5 @@
 # My LeetCode
-Current Progress: **38** / **994** problems while **140** are still locked.
+Current Progress: **39** / **994** problems while **140** are still locked.
 
 Note: :lock: means you need to buy a book from LeetCode
 
@@ -194,7 +194,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |201|[Bitwise AND of Numbers Range](https://leetcode.com/problems/bitwise-and-of-numbers-range/description/) |Medium|NaN|NaN|NaN|NaN|NaN|
 |202|[Happy Number](https://leetcode.com/problems/happy-number/description/) |Easy|NaN|NaN|[.py](https://github.com/TheoKlein/leetcode/blob/master/src/202.%20Happy%20Number/202.happy-number.py)|NaN|NaN|
 |203|[Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/description/) |Easy|NaN|NaN|NaN|NaN|NaN|
-|204|[Count Primes](https://leetcode.com/problems/count-primes/description/) |Easy|NaN|NaN|NaN|NaN|NaN|
+|204|[Count Primes](https://leetcode.com/problems/count-primes/description/) |Easy|NaN|NaN|[.py](https://github.com/TheoKlein/leetcode/blob/master/src/204.%20Count%20Primes/204.count-primes.py)|NaN|NaN|
 |205|[Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/description/) |Easy|NaN|NaN|NaN|NaN|NaN|
 |206|[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/description/) |Easy|NaN|NaN|NaN|NaN|NaN|
 |207|[Course Schedule](https://leetcode.com/problems/course-schedule/description/) |Medium|NaN|NaN|NaN|NaN|NaN|
