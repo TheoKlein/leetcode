@@ -1,5 +1,5 @@
 # My LeetCode
-Current Progress: **49** / **994** problems (4%) while **140** problems are still locked.
+Current Progress: **50** / **994** problems (5%) while **140** problems are still locked.
 
 Note: :lock: means you need to buy a book from LeetCode
 
@@ -401,7 +401,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |409|[Longest Palindrome](https://leetcode.com/problems/longest-palindrome/description/) |Easy|NaN|NaN|NaN|NaN|
 |410|[Split Array Largest Sum](https://leetcode.com/problems/split-array-largest-sum/description/) |Hard|NaN|NaN|NaN|NaN|
 |411|[Minimum Unique Word Abbreviation](https://leetcode.com/problems/minimum-unique-word-abbreviation/description/) :lock:|Hard|NaN|NaN|NaN|NaN|
-|412|[Fizz Buzz](https://leetcode.com/problems/fizz-buzz/description/) |Easy|NaN|NaN|NaN|NaN|
+|412|[Fizz Buzz](https://leetcode.com/problems/fizz-buzz/description/) |Easy|NaN|NaN|[.py](https://github.com/TheoKlein/leetcode/blob/master/src/412.%20Fizz%20Buzz/412.fizz-buzz.py)|NaN|
 |413|[Arithmetic Slices](https://leetcode.com/problems/arithmetic-slices/description/) |Medium|NaN|NaN|NaN|NaN|
 |414|[Third Maximum Number](https://leetcode.com/problems/third-maximum-number/description/) |Easy|NaN|NaN|NaN|NaN|
 |415|[Add Strings](https://leetcode.com/problems/add-strings/description/) |Easy|NaN|NaN|NaN|NaN|
