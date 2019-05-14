@@ -1,5 +1,5 @@
 # My LeetCode
-Current Progress: **46** / **994** problems while **140** are still locked.
+Current Progress: **47** / **994** problems while **140** are still locked.
 
 Note: :lock: means you need to buy a book from LeetCode
 
@@ -333,7 +333,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |341|[Flatten Nested List Iterator](https://leetcode.com/problems/flatten-nested-list-iterator/description/) |Medium|NaN|NaN|NaN|NaN|NaN|
 |342|[Power of Four](https://leetcode.com/problems/power-of-four/description/) |Easy|NaN|NaN|NaN|NaN|NaN|
 |343|[Integer Break](https://leetcode.com/problems/integer-break/description/) |Medium|NaN|NaN|NaN|NaN|NaN|
-|344|[Reverse String](https://leetcode.com/problems/reverse-string/description/) |Easy|NaN|NaN|NaN|NaN|NaN|
+|344|[Reverse String](https://leetcode.com/problems/reverse-string/description/) |Easy|NaN|NaN|[.py](https://github.com/TheoKlein/leetcode/blob/master/src/344.%20Reverse%20String/344.reverse-string.py)|NaN|NaN|
 |345|[Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/description/) |Easy|NaN|NaN|NaN|NaN|NaN|
 |346|[Moving Average from Data Stream](https://leetcode.com/problems/moving-average-from-data-stream/description/) :lock:|Easy|NaN|NaN|NaN|NaN|NaN|
 |347|[Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/description/) |Medium|NaN|NaN|NaN|NaN|NaN|
