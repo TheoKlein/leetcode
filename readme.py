@@ -201,10 +201,10 @@ class Readme:
         self.others = others
         self.locked = locked
         self.msg = '# My LeetCode\n' \
-                   'Current Progress: **{}** / **{}** problems ' \
-                   'while **{}** are still locked.' \
+                   'Current Progress: **{}** / **{}** problems ({}%) ' \
+                   'while **{}** problems are still locked.' \
                    '\n\nNote: :lock: means you need to buy a book from LeetCode\n'.format(
-                    self.solved, self.total, self.locked)
+                    self.solved, self.total, (100 * self.solved // self.total) ,self.locked)
 
     def create_leetcode_readme(self, table_instance):
         """

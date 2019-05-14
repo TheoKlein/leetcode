@@ -1,5 +1,5 @@
 # My LeetCode
-Current Progress: **47** / **994** problems while **140** are still locked.
+Current Progress: **47** / **994** problems (4%) while **140** problems are still locked.
 
 Note: :lock: means you need to buy a book from LeetCode
 
