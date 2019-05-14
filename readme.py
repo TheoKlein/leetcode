@@ -219,8 +219,8 @@ class Readme:
 
         with open(file_path, 'a') as f:
             f.write('## LeetCode Solution Table\n')
-            f.write('| ID | Title | Difficulty | C | C++ | Python | JavaScript | Java |\n')
-            f.write('|:---:' * 8 + '|\n')
+            f.write('| ID | Title | Difficulty | C | C++ | Python | Java |\n')
+            f.write('|:---:' * 7 + '|\n')
             table, table_item = table_instance
             # print(table)
             # for i in range(2):
@@ -236,13 +236,13 @@ class Readme:
                     'id': item.id_,
                     'title': '[{}]({}) {}'.format(item.title, item.url, _lock),
                     'difficulty': item.difficulty,
-                    'js': item.javascript if item.javascript else 'NaN',
+                    #'js': item.javascript if item.javascript else 'NaN',
                     'python': item.python if item.python else 'NaN',
                     'c': item.c if item.c else 'NaN',
                     'c++': item.c_plus_plus if item.c_plus_plus else 'NaN',
                     'java': item.java if item.java else 'NaN'
                 }
-                line = '|{id}|{title}|{difficulty}|{c}|{c++}|{python}|{js}|{java}|\n'.format(**data)
+                line = '|{id}|{title}|{difficulty}|{c}|{c++}|{python}|{java}|\n'.format(**data)
                 f.write(line)
             print('README.md was created.....')
 
