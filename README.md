@@ -1,5 +1,5 @@
 # My LeetCode
-Current Progress: **51** / **994** problems (5%) while **140** problems are still locked.
+Current Progress: **52** / **994** problems (5%) while **140** problems are still locked.
 
 Note: :lock: means you need to buy a book from LeetCode
 
@@ -224,7 +224,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |231|[Power of Two](https://leetcode.com/problems/power-of-two/description/) |Easy|NaN|NaN|NaN|NaN|
 |232|[Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/description/) |Easy|NaN|NaN|NaN|NaN|
 |233|[Number of Digit One](https://leetcode.com/problems/number-of-digit-one/description/) |Hard|NaN|NaN|NaN|NaN|
-|234|[Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/description/) |Easy|NaN|NaN|NaN|NaN|
+|234|[Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/description/) |Easy|NaN|NaN|[.py](https://github.com/TheoKlein/leetcode/blob/master/src/234.%20Palindrome%20Linked%20List/234.palindrome-linked-list.py)|NaN|
 |235|[Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/description/) |Easy|NaN|NaN|NaN|NaN|
 |236|[Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/description/) |Medium|NaN|NaN|NaN|NaN|
 |237|[Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/description/) |Easy|NaN|NaN|[.py](https://github.com/TheoKlein/leetcode/blob/master/src/237.%20Delete%20Node%20in%20a%20Linked%20List/237.delete-node-in-a-linked-list.py)|NaN|
