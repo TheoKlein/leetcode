@@ -1,5 +1,5 @@
 # My LeetCode
-Current Progress: **44** / **994** problems while **140** are still locked.
+Current Progress: **45** / **994** problems while **140** are still locked.
 
 Note: :lock: means you need to buy a book from LeetCode
 
@@ -272,7 +272,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |280|[Wiggle Sort](https://leetcode.com/problems/wiggle-sort/description/) :lock:|Medium|NaN|NaN|NaN|NaN|NaN|
 |281|[Zigzag Iterator](https://leetcode.com/problems/zigzag-iterator/description/) :lock:|Medium|NaN|NaN|NaN|NaN|NaN|
 |282|[Expression Add Operators](https://leetcode.com/problems/expression-add-operators/description/) |Hard|NaN|NaN|NaN|NaN|NaN|
-|283|[Move Zeroes](https://leetcode.com/problems/move-zeroes/description/) |Easy|NaN|NaN|NaN|NaN|NaN|
+|283|[Move Zeroes](https://leetcode.com/problems/move-zeroes/description/) |Easy|NaN|NaN|[.py](https://github.com/TheoKlein/leetcode/blob/master/src/283.%20Move%20Zeroes/283.move-zeroes.py)|NaN|NaN|
 |284|[Peeking Iterator](https://leetcode.com/problems/peeking-iterator/description/) |Medium|NaN|NaN|NaN|NaN|NaN|
 |285|[Inorder Successor in BST](https://leetcode.com/problems/inorder-successor-in-bst/description/) :lock:|Medium|NaN|NaN|NaN|NaN|NaN|
 |286|[Walls and Gates](https://leetcode.com/problems/walls-and-gates/description/) :lock:|Medium|NaN|NaN|NaN|NaN|NaN|
