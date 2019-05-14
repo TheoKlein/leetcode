@@ -1,5 +1,5 @@
 # My LeetCode
-Current Progress: **47** / **994** problems (4%) while **140** problems are still locked.
+Current Progress: **48** / **994** problems (4%) while **140** problems are still locked.
 
 Note: :lock: means you need to buy a book from LeetCode
 
@@ -360,7 +360,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |368|[Largest Divisible Subset](https://leetcode.com/problems/largest-divisible-subset/description/) |Medium|NaN|NaN|NaN|NaN|
 |369|[Plus One Linked List](https://leetcode.com/problems/plus-one-linked-list/description/) :lock:|Medium|NaN|NaN|NaN|NaN|
 |370|[Range Addition](https://leetcode.com/problems/range-addition/description/) :lock:|Medium|NaN|NaN|NaN|NaN|
-|371|[Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/description/) |Easy|NaN|NaN|NaN|NaN|
+|371|[Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/description/) |Easy|[.c](https://github.com/TheoKlein/leetcode/blob/master/src/371.%20Sum%20of%20Two%20Integers/371.sum-of-two-integers.c)|NaN|NaN|NaN|
 |372|[Super Pow](https://leetcode.com/problems/super-pow/description/) |Medium|NaN|NaN|NaN|NaN|
 |373|[Find K Pairs with Smallest Sums](https://leetcode.com/problems/find-k-pairs-with-smallest-sums/description/) |Medium|NaN|NaN|NaN|NaN|
 |374|[Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower/description/) |Easy|NaN|NaN|NaN|NaN|
