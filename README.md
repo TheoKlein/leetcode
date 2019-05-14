@@ -1,5 +1,5 @@
 # My LeetCode
-Current Progress: **48** / **994** problems (4%) while **140** problems are still locked.
+Current Progress: **49** / **994** problems (4%) while **140** problems are still locked.
 
 Note: :lock: means you need to buy a book from LeetCode
 
@@ -376,7 +376,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |384|[Shuffle an Array](https://leetcode.com/problems/shuffle-an-array/description/) |Medium|NaN|NaN|NaN|NaN|
 |385|[Mini Parser](https://leetcode.com/problems/mini-parser/description/) |Medium|NaN|NaN|NaN|NaN|
 |386|[Lexicographical Numbers](https://leetcode.com/problems/lexicographical-numbers/description/) |Medium|NaN|NaN|NaN|NaN|
-|387|[First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/description/) |Easy|NaN|NaN|NaN|NaN|
+|387|[First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/description/) |Easy|NaN|NaN|[.py](https://github.com/TheoKlein/leetcode/blob/master/src/387.%20First%20Unique%20Character%20in%20a%20String/387.first-unique-character-in-a-string.py)|NaN|
 |388|[Longest Absolute File Path](https://leetcode.com/problems/longest-absolute-file-path/description/) |Medium|NaN|NaN|NaN|NaN|
 |389|[Find the Difference](https://leetcode.com/problems/find-the-difference/description/) |Easy|NaN|NaN|NaN|NaN|
 |390|[Elimination Game](https://leetcode.com/problems/elimination-game/description/) |Medium|NaN|NaN|NaN|NaN|
