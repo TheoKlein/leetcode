@@ -1,5 +1,5 @@
 # My LeetCode
-Current Progress: **42** / **994** problems while **140** are still locked.
+Current Progress: **43** / **994** problems while **140** are still locked.
 
 Note: :lock: means you need to buy a book from LeetCode
 
@@ -232,7 +232,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |239|[Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/description/) |Hard|NaN|NaN|NaN|NaN|NaN|
 |240|[Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/description/) |Medium|NaN|NaN|NaN|NaN|NaN|
 |241|[Different Ways to Add Parentheses](https://leetcode.com/problems/different-ways-to-add-parentheses/description/) |Medium|NaN|NaN|NaN|NaN|NaN|
-|242|[Valid Anagram](https://leetcode.com/problems/valid-anagram/description/) |Easy|NaN|NaN|NaN|NaN|NaN|
+|242|[Valid Anagram](https://leetcode.com/problems/valid-anagram/description/) |Easy|NaN|NaN|[.py](https://github.com/TheoKlein/leetcode/blob/master/src/242.%20Valid%20Anagram/242.valid-anagram.py)|NaN|NaN|
 |243|[Shortest Word Distance](https://leetcode.com/problems/shortest-word-distance/description/) :lock:|Easy|NaN|NaN|NaN|NaN|NaN|
 |244|[Shortest Word Distance II](https://leetcode.com/problems/shortest-word-distance-ii/description/) :lock:|Medium|NaN|NaN|NaN|NaN|NaN|
 |245|[Shortest Word Distance III](https://leetcode.com/problems/shortest-word-distance-iii/description/) :lock:|Medium|NaN|NaN|NaN|NaN|NaN|
