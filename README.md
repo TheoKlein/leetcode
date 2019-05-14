@@ -1,5 +1,5 @@
 # My LeetCode
-Current Progress: **45** / **994** problems while **140** are still locked.
+Current Progress: **46** / **994** problems while **140** are still locked.
 
 Note: :lock: means you need to buy a book from LeetCode
 
@@ -315,7 +315,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |323|[Number of Connected Components in an Undirected Graph](https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph/description/) :lock:|Medium|NaN|NaN|NaN|NaN|NaN|
 |324|[Wiggle Sort II](https://leetcode.com/problems/wiggle-sort-ii/description/) |Medium|NaN|NaN|NaN|NaN|NaN|
 |325|[Maximum Size Subarray Sum Equals k](https://leetcode.com/problems/maximum-size-subarray-sum-equals-k/description/) :lock:|Medium|NaN|NaN|NaN|NaN|NaN|
-|326|[Power of Three](https://leetcode.com/problems/power-of-three/description/) |Easy|NaN|NaN|NaN|NaN|NaN|
+|326|[Power of Three](https://leetcode.com/problems/power-of-three/description/) |Easy|NaN|NaN|[.py](https://github.com/TheoKlein/leetcode/blob/master/src/326.%20Power%20of%20Three/326.power-of-three.py)|NaN|NaN|
 |327|[Count of Range Sum](https://leetcode.com/problems/count-of-range-sum/description/) |Hard|NaN|NaN|NaN|NaN|NaN|
 |328|[Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/description/) |Medium|NaN|NaN|NaN|NaN|NaN|
 |329|[Longest Increasing Path in a Matrix](https://leetcode.com/problems/longest-increasing-path-in-a-matrix/description/) |Hard|NaN|NaN|NaN|NaN|NaN|
