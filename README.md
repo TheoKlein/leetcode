@@ -1,5 +1,5 @@
 # My LeetCode
-Current Progress: **43** / **994** problems while **140** are still locked.
+Current Progress: **44** / **994** problems while **140** are still locked.
 
 Note: :lock: means you need to buy a book from LeetCode
 
@@ -257,7 +257,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |265|[Paint House II](https://leetcode.com/problems/paint-house-ii/description/) :lock:|Hard|NaN|NaN|NaN|NaN|NaN|
 |266|[Palindrome Permutation](https://leetcode.com/problems/palindrome-permutation/description/) :lock:|Easy|NaN|NaN|NaN|NaN|NaN|
 |267|[Palindrome Permutation II](https://leetcode.com/problems/palindrome-permutation-ii/description/) :lock:|Medium|NaN|NaN|NaN|NaN|NaN|
-|268|[Missing Number](https://leetcode.com/problems/missing-number/description/) |Easy|NaN|NaN|NaN|NaN|NaN|
+|268|[Missing Number](https://leetcode.com/problems/missing-number/description/) |Easy|NaN|NaN|[.py](https://github.com/TheoKlein/leetcode/blob/master/src/268.%20Missing%20Number/268.missing-number.py)|NaN|NaN|
 |269|[Alien Dictionary](https://leetcode.com/problems/alien-dictionary/description/) :lock:|Hard|NaN|NaN|NaN|NaN|NaN|
 |270|[Closest Binary Search Tree Value](https://leetcode.com/problems/closest-binary-search-tree-value/description/) :lock:|Easy|NaN|NaN|NaN|NaN|NaN|
 |271|[Encode and Decode Strings](https://leetcode.com/problems/encode-and-decode-strings/description/) :lock:|Medium|NaN|NaN|NaN|NaN|NaN|
