@@ -1,5 +1,5 @@
 # My LeetCode
-Current Progress: **57** / **994** problems (5%) while **140** problems are still locked.
+Current Progress: **58** / **994** problems (5%) while **140** problems are still locked.
 
 Note: :lock: means you need to buy a book from LeetCode
 
@@ -28,7 +28,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |019|[Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/description/) |Medium|NaN|NaN|NaN|NaN|
 |020|[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/description/) |Easy|NaN|NaN|[.py](https://github.com/TheoKlein/leetcode/blob/master/src/020.%20Valid%20Parentheses/20.valid-parentheses.py)|NaN|
 |021|[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/description/) |Easy|[.c](https://github.com/TheoKlein/leetcode/blob/master/src/021.%20Merge%20Two%20Sorted%20Lists/21.merge-two-sorted-lists.c)|NaN|[.py](https://github.com/TheoKlein/leetcode/blob/master/src/021.%20Merge%20Two%20Sorted%20Lists/21.merge-two-sorted-lists.py)|NaN|
-|022|[Generate Parentheses](https://leetcode.com/problems/generate-parentheses/description/) |Medium|NaN|NaN|NaN|NaN|
+|022|[Generate Parentheses](https://leetcode.com/problems/generate-parentheses/description/) |Medium|NaN|NaN|[.py](https://github.com/TheoKlein/leetcode/blob/master/src/022.%20Generate%20Parentheses/22.generate-parentheses.py)|NaN|
 |023|[Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/description/) |Hard|NaN|NaN|NaN|NaN|
 |024|[Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/description/) |Medium|NaN|NaN|NaN|NaN|
 |025|[Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/description/) |Hard|NaN|NaN|NaN|NaN|
