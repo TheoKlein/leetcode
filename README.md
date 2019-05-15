@@ -1,5 +1,5 @@
 # My LeetCode
-Current Progress: **55** / **994** problems (5%) while **140** problems are still locked.
+Current Progress: **56** / **994** problems (5%) while **140** problems are still locked.
 
 Note: :lock: means you need to buy a book from LeetCode
 
@@ -23,7 +23,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |014|[Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/description/) |Easy|NaN|NaN|[.py](https://github.com/TheoKlein/leetcode/blob/master/src/014.%20Longest%20Common%20Prefix/14.longest-common-prefix.py)|NaN|
 |015|[3Sum](https://leetcode.com/problems/3sum/description/) |Medium|NaN|NaN|NaN|NaN|
 |016|[3Sum Closest](https://leetcode.com/problems/3sum-closest/description/) |Medium|NaN|NaN|NaN|NaN|
-|017|[Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/description/) |Medium|NaN|NaN|NaN|NaN|
+|017|[Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/description/) |Medium|NaN|NaN|[.py](https://github.com/TheoKlein/leetcode/blob/master/src/017.%20Letter%20Combinations%20of%20a%20Phone%20Number/17.letter-combinations-of-a-phone-number.py)|NaN|
 |018|[4Sum](https://leetcode.com/problems/4sum/description/) |Medium|NaN|NaN|NaN|NaN|
 |019|[Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/description/) |Medium|NaN|NaN|NaN|NaN|
 |020|[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/description/) |Easy|NaN|NaN|[.py](https://github.com/TheoKlein/leetcode/blob/master/src/020.%20Valid%20Parentheses/20.valid-parentheses.py)|NaN|
