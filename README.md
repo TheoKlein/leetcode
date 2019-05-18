@@ -1,5 +1,5 @@
 # My LeetCode
-Current Progress: **62** / **994** problems (6%) while **140** problems are still locked.
+Current Progress: **63** / **994** problems (6%) while **140** problems are still locked.
 
 Note: :lock: means you need to buy a book from LeetCode
 
@@ -68,7 +68,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |059|[Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii/description/) |Medium|NaN|NaN|NaN|NaN|
 |060|[Permutation Sequence](https://leetcode.com/problems/permutation-sequence/description/) |Medium|NaN|NaN|NaN|NaN|
 |061|[Rotate List](https://leetcode.com/problems/rotate-list/description/) |Medium|NaN|NaN|NaN|NaN|
-|062|[Unique Paths](https://leetcode.com/problems/unique-paths/description/) |Medium|NaN|NaN|NaN|NaN|
+|062|[Unique Paths](https://leetcode.com/problems/unique-paths/description/) |Medium|NaN|NaN|[.py](https://github.com/TheoKlein/leetcode/blob/master/src/062.%20Unique%20Paths/62.unique-paths.py)|NaN|
 |063|[Unique Paths II](https://leetcode.com/problems/unique-paths-ii/description/) |Medium|NaN|NaN|NaN|NaN|
 |064|[Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/description/) |Medium|NaN|NaN|NaN|NaN|
 |065|[Valid Number](https://leetcode.com/problems/valid-number/description/) |Hard|NaN|NaN|NaN|NaN|
