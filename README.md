@@ -1,5 +1,5 @@
 # My LeetCode
-Current Progress: **61** / **994** problems (6%) while **140** problems are still locked.
+Current Progress: **62** / **994** problems (6%) while **140** problems are still locked.
 
 Note: :lock: means you need to buy a book from LeetCode
 
@@ -276,7 +276,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |284|[Peeking Iterator](https://leetcode.com/problems/peeking-iterator/description/) |Medium|NaN|NaN|NaN|NaN|
 |285|[Inorder Successor in BST](https://leetcode.com/problems/inorder-successor-in-bst/description/) :lock:|Medium|NaN|NaN|NaN|NaN|
 |286|[Walls and Gates](https://leetcode.com/problems/walls-and-gates/description/) :lock:|Medium|NaN|NaN|NaN|NaN|
-|287|[Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/description/) |Medium|NaN|NaN|NaN|NaN|
+|287|[Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/description/) |Medium|NaN|NaN|[.py](https://github.com/TheoKlein/leetcode/blob/master/src/287.%20Find%20the%20Duplicate%20Number/287.find-the-duplicate-number.py)|NaN|
 |288|[Unique Word Abbreviation](https://leetcode.com/problems/unique-word-abbreviation/description/) :lock:|Medium|NaN|NaN|NaN|NaN|
 |289|[Game of Life](https://leetcode.com/problems/game-of-life/description/) |Medium|NaN|NaN|NaN|NaN|
 |290|[Word Pattern](https://leetcode.com/problems/word-pattern/description/) |Easy|NaN|NaN|NaN|NaN|
