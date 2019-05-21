@@ -1,5 +1,5 @@
 # My LeetCode
-Current Progress: **63** / **994** problems (6%) while **140** problems are still locked.
+Current Progress: **64** / **998** problems (6%) while **140** problems are still locked.
 
 Note: :lock: means you need to buy a book from LeetCode
 
@@ -100,7 +100,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |091|[Decode Ways](https://leetcode.com/problems/decode-ways/description/) |Medium|NaN|NaN|NaN|NaN|
 |092|[Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/description/) |Medium|NaN|NaN|NaN|NaN|
 |093|[Restore IP Addresses](https://leetcode.com/problems/restore-ip-addresses/description/) |Medium|NaN|NaN|NaN|NaN|
-|094|[Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/description/) |Medium|NaN|NaN|NaN|NaN|
+|094|[Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/description/) |Medium|NaN|NaN|[.py](https://github.com/TheoKlein/leetcode/blob/master/src/094.%20Binary%20Tree%20Inorder%20Traversal/94.binary-tree-inorder-traversal.py)|NaN|
 |095|[Unique Binary Search Trees II](https://leetcode.com/problems/unique-binary-search-trees-ii/description/) |Medium|NaN|NaN|NaN|NaN|
 |096|[Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees/description/) |Medium|NaN|NaN|NaN|NaN|
 |097|[Interleaving String](https://leetcode.com/problems/interleaving-string/description/) |Hard|NaN|NaN|NaN|NaN|
@@ -1001,3 +1001,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |1042|[Flower Planting With No Adjacent](https://leetcode.com/problems/flower-planting-with-no-adjacent/description/) |Easy|NaN|NaN|NaN|NaN|
 |1043|[Partition Array for Maximum Sum](https://leetcode.com/problems/partition-array-for-maximum-sum/description/) |Medium|NaN|NaN|NaN|NaN|
 |1044|[Longest Duplicate Substring](https://leetcode.com/problems/longest-duplicate-substring/description/) |Hard|NaN|NaN|NaN|NaN|
+|1046|[Last Stone Weight](https://leetcode.com/problems/last-stone-weight/description/) |Easy|NaN|NaN|NaN|NaN|
+|1047|[Remove All Adjacent Duplicates In String](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/description/) |Easy|NaN|NaN|NaN|NaN|
+|1048|[Longest String Chain](https://leetcode.com/problems/longest-string-chain/description/) |Medium|NaN|NaN|NaN|NaN|
+|1049|[Last Stone Weight II](https://leetcode.com/problems/last-stone-weight-ii/description/) |Medium|NaN|NaN|NaN|NaN|
