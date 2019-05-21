@@ -1,5 +1,5 @@
 # My LeetCode
-Current Progress: **66** / **998** problems (6%) while **140** problems are still locked.
+Current Progress: **67** / **998** problems (6%) while **140** problems are still locked.
 
 Note: :lock: means you need to buy a book from LeetCode
 
@@ -154,7 +154,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |145|[Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/description/) |Hard|NaN|NaN|NaN|NaN|
 |146|[LRU Cache](https://leetcode.com/problems/lru-cache/description/) |Hard|NaN|NaN|NaN|NaN|
 |147|[Insertion Sort List](https://leetcode.com/problems/insertion-sort-list/description/) |Medium|NaN|NaN|NaN|NaN|
-|148|[Sort List](https://leetcode.com/problems/sort-list/description/) |Medium|NaN|NaN|NaN|NaN|
+|148|[Sort List](https://leetcode.com/problems/sort-list/description/) |Medium|NaN|NaN|[.py](https://github.com/TheoKlein/leetcode/blob/master/src/148.%20Sort%20List/148.sort-list.py)|NaN|
 |149|[Max Points on a Line](https://leetcode.com/problems/max-points-on-a-line/description/) |Hard|NaN|NaN|NaN|NaN|
 |150|[Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/description/) |Medium|NaN|NaN|NaN|NaN|
 |151|[Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/description/) |Medium|NaN|NaN|NaN|NaN|
