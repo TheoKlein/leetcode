@@ -1,5 +1,5 @@
 # My LeetCode
-Current Progress: **65** / **998** problems (6%) while **140** problems are still locked.
+Current Progress: **66** / **998** problems (6%) while **140** problems are still locked.
 
 Note: :lock: means you need to buy a book from LeetCode
 
@@ -268,7 +268,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |276|[Paint Fence](https://leetcode.com/problems/paint-fence/description/) :lock:|Easy|NaN|NaN|NaN|NaN|
 |277|[Find the Celebrity](https://leetcode.com/problems/find-the-celebrity/description/) :lock:|Medium|NaN|NaN|NaN|NaN|
 |278|[First Bad Version](https://leetcode.com/problems/first-bad-version/description/) |Easy|NaN|NaN|NaN|NaN|
-|279|[Perfect Squares](https://leetcode.com/problems/perfect-squares/description/) |Medium|NaN|NaN|NaN|NaN|
+|279|[Perfect Squares](https://leetcode.com/problems/perfect-squares/description/) |Medium|NaN|NaN|[.py](https://github.com/TheoKlein/leetcode/blob/master/src/279.%20Perfect%20Squares/279.perfect-squares.py)|NaN|
 |280|[Wiggle Sort](https://leetcode.com/problems/wiggle-sort/description/) :lock:|Medium|NaN|NaN|NaN|NaN|
 |281|[Zigzag Iterator](https://leetcode.com/problems/zigzag-iterator/description/) :lock:|Medium|NaN|NaN|NaN|NaN|
 |282|[Expression Add Operators](https://leetcode.com/problems/expression-add-operators/description/) |Hard|NaN|NaN|NaN|NaN|
