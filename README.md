@@ -1,5 +1,5 @@
 # My LeetCode
-Current Progress: **69** / **998** problems (6%) while **140** problems are still locked.
+Current Progress: **70** / **998** problems (7%) while **140** problems are still locked.
 
 Note: :lock: means you need to buy a book from LeetCode
 
@@ -336,7 +336,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |344|[Reverse String](https://leetcode.com/problems/reverse-string/description/) |Easy|NaN|NaN|[.py](https://github.com/TheoKlein/leetcode/blob/master/src/344.%20Reverse%20String/344.reverse-string.py)|NaN|
 |345|[Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/description/) |Easy|NaN|NaN|NaN|NaN|
 |346|[Moving Average from Data Stream](https://leetcode.com/problems/moving-average-from-data-stream/description/) :lock:|Easy|NaN|NaN|NaN|NaN|
-|347|[Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/description/) |Medium|NaN|NaN|NaN|NaN|
+|347|[Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/description/) |Medium|NaN|NaN|[.py](https://github.com/TheoKlein/leetcode/blob/master/src/347.%20Top%20K%20Frequent%20Elements/347.top-k-frequent-elements.py)|NaN|
 |348|[Design Tic-Tac-Toe](https://leetcode.com/problems/design-tic-tac-toe/description/) :lock:|Medium|NaN|NaN|NaN|NaN|
 |349|[Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/description/) |Easy|NaN|NaN|NaN|NaN|
 |350|[Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/description/) |Easy|NaN|NaN|[.py](https://github.com/TheoKlein/leetcode/blob/master/src/350.%20Intersection%20of%20Two%20Arrays%20II/350.intersection-of-two-arrays-ii.py)|NaN|
