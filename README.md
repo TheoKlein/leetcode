@@ -1,5 +1,5 @@
 # My LeetCode
-Current Progress: **68** / **998** problems (6%) while **140** problems are still locked.
+Current Progress: **69** / **998** problems (6%) while **140** problems are still locked.
 
 Note: :lock: means you need to buy a book from LeetCode
 
@@ -81,7 +81,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |072|[Edit Distance](https://leetcode.com/problems/edit-distance/description/) |Hard|NaN|NaN|NaN|NaN|
 |073|[Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/description/) |Medium|NaN|NaN|NaN|NaN|
 |074|[Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/description/) |Medium|NaN|NaN|NaN|NaN|
-|075|[Sort Colors](https://leetcode.com/problems/sort-colors/description/) |Medium|NaN|NaN|NaN|NaN|
+|075|[Sort Colors](https://leetcode.com/problems/sort-colors/description/) |Medium|NaN|NaN|[.py](https://github.com/TheoKlein/leetcode/blob/master/src/075.%20Sort%20Colors/75.sort-colors.py)|NaN|
 |076|[Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/description/) |Hard|NaN|NaN|NaN|NaN|
 |077|[Combinations](https://leetcode.com/problems/combinations/description/) |Medium|NaN|NaN|NaN|NaN|
 |078|[Subsets](https://leetcode.com/problems/subsets/description/) |Medium|NaN|NaN|[.py](https://github.com/TheoKlein/leetcode/blob/master/src/078.%20Subsets/78.subsets.py)|NaN|
