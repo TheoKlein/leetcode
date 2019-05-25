@@ -1,5 +1,5 @@
 # My LeetCode
-Current Progress: **67** / **998** problems (6%) while **140** problems are still locked.
+Current Progress: **68** / **998** problems (6%) while **140** problems are still locked.
 
 Note: :lock: means you need to buy a book from LeetCode
 
@@ -52,7 +52,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |043|[Multiply Strings](https://leetcode.com/problems/multiply-strings/description/) |Medium|NaN|NaN|NaN|NaN|
 |044|[Wildcard Matching](https://leetcode.com/problems/wildcard-matching/description/) |Hard|NaN|NaN|NaN|NaN|
 |045|[Jump Game II](https://leetcode.com/problems/jump-game-ii/description/) |Hard|NaN|NaN|NaN|NaN|
-|046|[Permutations](https://leetcode.com/problems/permutations/description/) |Medium|NaN|NaN|NaN|NaN|
+|046|[Permutations](https://leetcode.com/problems/permutations/description/) |Medium|NaN|NaN|[.py](https://github.com/TheoKlein/leetcode/blob/master/src/046.%20Permutations/46.permutations.py)|NaN|
 |047|[Permutations II](https://leetcode.com/problems/permutations-ii/description/) |Medium|NaN|NaN|NaN|NaN|
 |048|[Rotate Image](https://leetcode.com/problems/rotate-image/description/) |Medium|NaN|NaN|[.py](https://github.com/TheoKlein/leetcode/blob/master/src/048.%20Rotate%20Image/48.rotate-image.py)|NaN|
 |049|[Group Anagrams](https://leetcode.com/problems/group-anagrams/description/) |Medium|NaN|NaN|NaN|NaN|
