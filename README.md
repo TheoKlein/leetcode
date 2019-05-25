@@ -1,5 +1,5 @@
 # My LeetCode
-Current Progress: **70** / **998** problems (7%) while **140** problems are still locked.
+Current Progress: **71** / **998** problems (7%) while **140** problems are still locked.
 
 Note: :lock: means you need to buy a book from LeetCode
 
@@ -55,7 +55,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |046|[Permutations](https://leetcode.com/problems/permutations/description/) |Medium|NaN|NaN|[.py](https://github.com/TheoKlein/leetcode/blob/master/src/046.%20Permutations/46.permutations.py)|NaN|
 |047|[Permutations II](https://leetcode.com/problems/permutations-ii/description/) |Medium|NaN|NaN|NaN|NaN|
 |048|[Rotate Image](https://leetcode.com/problems/rotate-image/description/) |Medium|NaN|NaN|[.py](https://github.com/TheoKlein/leetcode/blob/master/src/048.%20Rotate%20Image/48.rotate-image.py)|NaN|
-|049|[Group Anagrams](https://leetcode.com/problems/group-anagrams/description/) |Medium|NaN|NaN|NaN|NaN|
+|049|[Group Anagrams](https://leetcode.com/problems/group-anagrams/description/) |Medium|NaN|NaN|[.py](https://github.com/TheoKlein/leetcode/blob/master/src/049.%20Group%20Anagrams/49.group-anagrams.py)|NaN|
 |050|[Pow(x, n)](https://leetcode.com/problems/powx-n/description/) |Medium|NaN|NaN|NaN|NaN|
 |051|[N-Queens](https://leetcode.com/problems/n-queens/description/) |Hard|NaN|NaN|NaN|NaN|
 |052|[N-Queens II](https://leetcode.com/problems/n-queens-ii/description/) |Hard|NaN|NaN|NaN|NaN|
