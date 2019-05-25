@@ -1,5 +1,5 @@
 # My LeetCode
-Current Progress: **71** / **998** problems (7%) while **140** problems are still locked.
+Current Progress: **72** / **998** problems (7%) while **140** problems are still locked.
 
 Note: :lock: means you need to buy a book from LeetCode
 
@@ -111,7 +111,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |102|[Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/description/) |Medium|NaN|NaN|[.py](https://github.com/TheoKlein/leetcode/blob/master/src/102.%20Binary%20Tree%20Level%20Order%20Traversal/102.binary-tree-level-order-traversal.py)|NaN|
 |103|[Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/description/) |Medium|NaN|NaN|NaN|NaN|
 |104|[Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/description/) |Easy|NaN|NaN|[.py](https://github.com/TheoKlein/leetcode/blob/master/src/104.%20Maximum%20Depth%20of%20Binary%20Tree/104.maximum-depth-of-binary-tree.py)|NaN|
-|105|[Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/description/) |Medium|NaN|NaN|NaN|NaN|
+|105|[Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/description/) |Medium|NaN|NaN|[.py](https://github.com/TheoKlein/leetcode/blob/master/src/105.%20Construct%20Binary%20Tree%20from%20Preorder%20and%20Inorder%20Traversal/105.construct-binary-tree-from-preorder-and-inorder-traversal.py)|NaN|
 |106|[Construct Binary Tree from Inorder and Postorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/description/) |Medium|NaN|NaN|NaN|NaN|
 |107|[Binary Tree Level Order Traversal II](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/description/) |Easy|NaN|NaN|NaN|NaN|
 |108|[Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/description/) |Easy|NaN|NaN|[.py](https://github.com/TheoKlein/leetcode/blob/master/src/108.%20Convert%20Sorted%20Array%20to%20Binary%20Search%20Tree/108.convert-sorted-array-to-binary-search-tree.py)|NaN|
