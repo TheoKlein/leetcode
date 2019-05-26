@@ -48,3 +48,15 @@ class Solution:
             result.append(n.val)
             root = n.right
 
+    def inorderTraversal_v2(self, root: TreeNode) -> List[int]:
+        res, buff = [], []
+        while root or buff:
+            if root:
+                buff.append(root)
+                root = root.left
+            else:
+                node = buff.pop()
+                res.append(node.val)
+                root = node.right
+        return res
+
