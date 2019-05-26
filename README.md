@@ -1,5 +1,5 @@
 # My LeetCode
-Current Progress: **73** / **1002** problems (7%) while **140** problems are still locked.
+Current Progress: **74** / **1002** problems (7%) while **140** problems are still locked.
 
 Note: :lock: means you need to buy a book from LeetCode
 
@@ -743,7 +743,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |798|[Smallest Rotation with Highest Score](https://leetcode.com/problems/smallest-rotation-with-highest-score/description/) |Hard|NaN|NaN|NaN|NaN|
 |799|[Champagne Tower](https://leetcode.com/problems/champagne-tower/description/) |Medium|NaN|NaN|NaN|NaN|
 |705|[Design HashSet](https://leetcode.com/problems/design-hashset/description/) |Easy|NaN|NaN|NaN|NaN|
-|706|[Design HashMap](https://leetcode.com/problems/design-hashmap/description/) |Easy|NaN|NaN|NaN|NaN|
+|706|[Design HashMap](https://leetcode.com/problems/design-hashmap/description/) |Easy|NaN|NaN|[.py](https://github.com/TheoKlein/leetcode/blob/master/src/706.%20Design%20HashMap/706.design-hash-map.py)|NaN|
 |800|[Similar RGB Color](https://leetcode.com/problems/similar-rgb-color/description/) :lock:|Easy|NaN|NaN|NaN|NaN|
 |801|[Minimum Swaps To Make Sequences Increasing](https://leetcode.com/problems/minimum-swaps-to-make-sequences-increasing/description/) |Medium|NaN|NaN|NaN|NaN|
 |802|[Find Eventual Safe States](https://leetcode.com/problems/find-eventual-safe-states/description/) |Medium|NaN|NaN|NaN|NaN|
