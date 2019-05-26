@@ -1,5 +1,5 @@
 # My LeetCode
-Current Progress: **72** / **998** problems (7%) while **140** problems are still locked.
+Current Progress: **73** / **1002** problems (7%) while **140** problems are still locked.
 
 Note: :lock: means you need to buy a book from LeetCode
 
@@ -248,7 +248,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |255|[Verify Preorder Sequence in Binary Search Tree](https://leetcode.com/problems/verify-preorder-sequence-in-binary-search-tree/description/) :lock:|Medium|NaN|NaN|NaN|NaN|
 |256|[Paint House](https://leetcode.com/problems/paint-house/description/) :lock:|Easy|NaN|NaN|NaN|NaN|
 |257|[Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/description/) |Easy|NaN|NaN|NaN|NaN|
-|258|[Add Digits](https://leetcode.com/problems/add-digits/description/) |Easy|NaN|NaN|NaN|NaN|
+|258|[Add Digits](https://leetcode.com/problems/add-digits/description/) |Easy|NaN|NaN|[.py](https://github.com/TheoKlein/leetcode/blob/master/src/258.%20Add%20Digits/258.add-digits.py)|NaN|
 |259|[3Sum Smaller](https://leetcode.com/problems/3sum-smaller/description/) :lock:|Medium|NaN|NaN|NaN|NaN|
 |260|[Single Number III](https://leetcode.com/problems/single-number-iii/description/) |Medium|NaN|NaN|NaN|NaN|
 |261|[Graph Valid Tree](https://leetcode.com/problems/graph-valid-tree/description/) :lock:|Medium|NaN|NaN|NaN|NaN|
@@ -1005,3 +1005,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |1047|[Remove All Adjacent Duplicates In String](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/description/) |Easy|NaN|NaN|NaN|NaN|
 |1048|[Longest String Chain](https://leetcode.com/problems/longest-string-chain/description/) |Medium|NaN|NaN|NaN|NaN|
 |1049|[Last Stone Weight II](https://leetcode.com/problems/last-stone-weight-ii/description/) |Medium|NaN|NaN|NaN|NaN|
+|1051|[Height Checker](https://leetcode.com/problems/height-checker/description/) |Easy|NaN|NaN|NaN|NaN|
+|1052|[Grumpy Bookstore Owner](https://leetcode.com/problems/grumpy-bookstore-owner/description/) |Medium|NaN|NaN|NaN|NaN|
+|1053|[Previous Permutation With One Swap](https://leetcode.com/problems/previous-permutation-with-one-swap/description/) |Medium|NaN|NaN|NaN|NaN|
+|1054|[Distant Barcodes](https://leetcode.com/problems/distant-barcodes/description/) |Medium|NaN|NaN|NaN|NaN|
