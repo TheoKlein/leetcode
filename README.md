@@ -1,5 +1,5 @@
 # My LeetCode
-Current Progress: **74** / **1002** problems (7%) while **140** problems are still locked.
+Current Progress: **75** / **1002** problems (7%) while **140** problems are still locked.
 
 Note: :lock: means you need to buy a book from LeetCode
 
@@ -21,7 +21,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |012|[Integer to Roman](https://leetcode.com/problems/integer-to-roman/description/) |Medium|NaN|NaN|NaN|NaN|
 |013|[Roman to Integer](https://leetcode.com/problems/roman-to-integer/description/) |Easy|NaN|NaN|[.py](https://github.com/TheoKlein/leetcode/blob/master/src/013.%20Roman%20to%20Integer/13.roman-to-integer.py)|NaN|
 |014|[Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/description/) |Easy|NaN|NaN|[.py](https://github.com/TheoKlein/leetcode/blob/master/src/014.%20Longest%20Common%20Prefix/14.longest-common-prefix.py)|NaN|
-|015|[3Sum](https://leetcode.com/problems/3sum/description/) |Medium|NaN|NaN|NaN|NaN|
+|015|[3Sum](https://leetcode.com/problems/3sum/description/) |Medium|NaN|NaN|[.py](https://github.com/TheoKlein/leetcode/blob/master/src/015.%203Sum/15.3-sum.py)|NaN|
 |016|[3Sum Closest](https://leetcode.com/problems/3sum-closest/description/) |Medium|NaN|NaN|NaN|NaN|
 |017|[Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/description/) |Medium|NaN|NaN|[.py](https://github.com/TheoKlein/leetcode/blob/master/src/017.%20Letter%20Combinations%20of%20a%20Phone%20Number/17.letter-combinations-of-a-phone-number.py)|NaN|
 |018|[4Sum](https://leetcode.com/problems/4sum/description/) |Medium|NaN|NaN|NaN|NaN|
