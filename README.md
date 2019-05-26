@@ -1,5 +1,5 @@
 # My LeetCode
-Current Progress: **75** / **1002** problems (7%) while **140** problems are still locked.
+Current Progress: **76** / **1002** problems (7%) while **140** problems are still locked.
 
 Note: :lock: means you need to buy a book from LeetCode
 
@@ -37,7 +37,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |028|[Implement strStr()](https://leetcode.com/problems/implement-strstr/description/) |Easy|NaN|NaN|[.py](https://github.com/TheoKlein/leetcode/blob/master/src/028.%20Implement%20strStr()/28.implement-strstr.py)|NaN|
 |029|[Divide Two Integers](https://leetcode.com/problems/divide-two-integers/description/) |Medium|NaN|NaN|NaN|NaN|
 |030|[Substring with Concatenation of All Words](https://leetcode.com/problems/substring-with-concatenation-of-all-words/description/) |Hard|NaN|NaN|NaN|NaN|
-|031|[Next Permutation](https://leetcode.com/problems/next-permutation/description/) |Medium|NaN|NaN|NaN|NaN|
+|031|[Next Permutation](https://leetcode.com/problems/next-permutation/description/) |Medium|NaN|NaN|[.py](https://github.com/TheoKlein/leetcode/blob/master/src/031.%20Next%20Permutation/31.next-permutation.py)|NaN|
 |032|[Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/description/) |Hard|NaN|NaN|NaN|NaN|
 |033|[Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/description/) |Medium|NaN|NaN|NaN|NaN|
 |034|[Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/description/) |Medium|NaN|NaN|NaN|NaN|
