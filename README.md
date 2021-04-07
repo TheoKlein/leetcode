@@ -1,5 +1,5 @@
 # My LeetCode
-Current Progress: **77** / **1318** problems (5%) while **213** problems are still locked.
+Current Progress: **77** / **1650** problems (4%) while **257** problems are still locked.
 
 Note: :lock: means you need to buy a book from LeetCode
 
@@ -44,14 +44,14 @@ Note: :lock: means you need to buy a book from LeetCode
 |035|[Search Insert Position](https://leetcode.com/problems/search-insert-position/description/) |Easy|NaN|NaN|[.py](https://github.com/TheoKlein/leetcode/blob/master/src/035.%20Search%20Insert%20Position/35.search-insert-position.py)|NaN|
 |036|[Valid Sudoku](https://leetcode.com/problems/valid-sudoku/description/) |Medium|NaN|NaN|NaN|NaN|
 |037|[Sudoku Solver](https://leetcode.com/problems/sudoku-solver/description/) |Hard|NaN|NaN|NaN|NaN|
-|038|[Count and Say](https://leetcode.com/problems/count-and-say/description/) |Easy|NaN|NaN|[.py](https://github.com/TheoKlein/leetcode/blob/master/src/038.%20Count%20and%20Say/38.count-and-say.py)|NaN|
+|038|[Count and Say](https://leetcode.com/problems/count-and-say/description/) |Medium|NaN|NaN|[.py](https://github.com/TheoKlein/leetcode/blob/master/src/038.%20Count%20and%20Say/38.count-and-say.py)|NaN|
 |039|[Combination Sum](https://leetcode.com/problems/combination-sum/description/) |Medium|NaN|NaN|NaN|NaN|
 |040|[Combination Sum II](https://leetcode.com/problems/combination-sum-ii/description/) |Medium|NaN|NaN|NaN|NaN|
 |041|[First Missing Positive](https://leetcode.com/problems/first-missing-positive/description/) |Hard|NaN|NaN|NaN|NaN|
 |042|[Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/description/) |Hard|NaN|NaN|NaN|NaN|
 |043|[Multiply Strings](https://leetcode.com/problems/multiply-strings/description/) |Medium|NaN|NaN|NaN|NaN|
 |044|[Wildcard Matching](https://leetcode.com/problems/wildcard-matching/description/) |Hard|NaN|NaN|NaN|NaN|
-|045|[Jump Game II](https://leetcode.com/problems/jump-game-ii/description/) |Hard|NaN|NaN|NaN|NaN|
+|045|[Jump Game II](https://leetcode.com/problems/jump-game-ii/description/) |Medium|NaN|NaN|NaN|NaN|
 |046|[Permutations](https://leetcode.com/problems/permutations/description/) |Medium|NaN|NaN|[.py](https://github.com/TheoKlein/leetcode/blob/master/src/046.%20Permutations/46.permutations.py)|NaN|
 |047|[Permutations II](https://leetcode.com/problems/permutations-ii/description/) |Medium|NaN|NaN|NaN|NaN|
 |048|[Rotate Image](https://leetcode.com/problems/rotate-image/description/) |Medium|NaN|NaN|[.py](https://github.com/TheoKlein/leetcode/blob/master/src/048.%20Rotate%20Image/48.rotate-image.py)|NaN|
@@ -63,10 +63,10 @@ Note: :lock: means you need to buy a book from LeetCode
 |054|[Spiral Matrix](https://leetcode.com/problems/spiral-matrix/description/) |Medium|NaN|NaN|NaN|NaN|
 |055|[Jump Game](https://leetcode.com/problems/jump-game/description/) |Medium|NaN|NaN|NaN|NaN|
 |056|[Merge Intervals](https://leetcode.com/problems/merge-intervals/description/) |Medium|NaN|NaN|NaN|NaN|
-|057|[Insert Interval](https://leetcode.com/problems/insert-interval/description/) |Hard|NaN|NaN|NaN|NaN|
+|057|[Insert Interval](https://leetcode.com/problems/insert-interval/description/) |Medium|NaN|NaN|NaN|NaN|
 |058|[Length of Last Word](https://leetcode.com/problems/length-of-last-word/description/) |Easy|NaN|NaN|[.py](https://github.com/TheoKlein/leetcode/blob/master/src/058.%20Length%20of%20Last%20Word/58.length-of-last-word.py)|NaN|
 |059|[Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii/description/) |Medium|NaN|NaN|NaN|NaN|
-|060|[Permutation Sequence](https://leetcode.com/problems/permutation-sequence/description/) |Medium|NaN|NaN|NaN|NaN|
+|060|[Permutation Sequence](https://leetcode.com/problems/permutation-sequence/description/) |Hard|NaN|NaN|NaN|NaN|
 |061|[Rotate List](https://leetcode.com/problems/rotate-list/description/) |Medium|NaN|NaN|NaN|NaN|
 |062|[Unique Paths](https://leetcode.com/problems/unique-paths/description/) |Medium|NaN|NaN|[.py](https://github.com/TheoKlein/leetcode/blob/master/src/062.%20Unique%20Paths/62.unique-paths.py)|NaN|
 |063|[Unique Paths II](https://leetcode.com/problems/unique-paths-ii/description/) |Medium|NaN|NaN|NaN|NaN|
@@ -103,7 +103,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |094|[Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/description/) |Medium|NaN|NaN|[.py](https://github.com/TheoKlein/leetcode/blob/master/src/094.%20Binary%20Tree%20Inorder%20Traversal/94.binary-tree-inorder-traversal.py)|NaN|
 |095|[Unique Binary Search Trees II](https://leetcode.com/problems/unique-binary-search-trees-ii/description/) |Medium|NaN|NaN|NaN|NaN|
 |096|[Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees/description/) |Medium|NaN|NaN|NaN|NaN|
-|097|[Interleaving String](https://leetcode.com/problems/interleaving-string/description/) |Hard|NaN|NaN|NaN|NaN|
+|097|[Interleaving String](https://leetcode.com/problems/interleaving-string/description/) |Medium|NaN|NaN|NaN|NaN|
 |098|[Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/description/) |Medium|NaN|NaN|NaN|NaN|
 |099|[Recover Binary Search Tree](https://leetcode.com/problems/recover-binary-search-tree/description/) |Hard|NaN|NaN|NaN|NaN|
 |100|[Same Tree](https://leetcode.com/problems/same-tree/description/) |Easy|NaN|NaN|NaN|NaN|
@@ -113,7 +113,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |104|[Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/description/) |Easy|NaN|NaN|[.py](https://github.com/TheoKlein/leetcode/blob/master/src/104.%20Maximum%20Depth%20of%20Binary%20Tree/104.maximum-depth-of-binary-tree.py)|NaN|
 |105|[Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/description/) |Medium|NaN|NaN|[.py](https://github.com/TheoKlein/leetcode/blob/master/src/105.%20Construct%20Binary%20Tree%20from%20Preorder%20and%20Inorder%20Traversal/105.construct-binary-tree-from-preorder-and-inorder-traversal.py)|NaN|
 |106|[Construct Binary Tree from Inorder and Postorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/description/) |Medium|NaN|NaN|NaN|NaN|
-|107|[Binary Tree Level Order Traversal II](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/description/) |Easy|NaN|NaN|NaN|NaN|
+|107|[Binary Tree Level Order Traversal II](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/description/) |Medium|NaN|NaN|NaN|NaN|
 |108|[Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/description/) |Easy|NaN|NaN|[.py](https://github.com/TheoKlein/leetcode/blob/master/src/108.%20Convert%20Sorted%20Array%20to%20Binary%20Search%20Tree/108.convert-sorted-array-to-binary-search-tree.py)|NaN|
 |109|[Convert Sorted List to Binary Search Tree](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/description/) |Medium|NaN|NaN|NaN|NaN|
 |110|[Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/description/) |Easy|NaN|NaN|NaN|NaN|
@@ -133,7 +133,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |124|[Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/description/) |Hard|NaN|NaN|NaN|NaN|
 |125|[Valid Palindrome](https://leetcode.com/problems/valid-palindrome/description/) |Easy|NaN|NaN|[.py](https://github.com/TheoKlein/leetcode/blob/master/src/125.%20Valid%20Palindrome/125.valid-palindrome.py)|NaN|
 |126|[Word Ladder II](https://leetcode.com/problems/word-ladder-ii/description/) |Hard|NaN|NaN|NaN|NaN|
-|127|[Word Ladder](https://leetcode.com/problems/word-ladder/description/) |Medium|NaN|NaN|NaN|NaN|
+|127|[Word Ladder](https://leetcode.com/problems/word-ladder/description/) |Hard|NaN|NaN|NaN|NaN|
 |128|[Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/description/) |Hard|NaN|NaN|NaN|NaN|
 |129|[Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers/description/) |Medium|NaN|NaN|NaN|NaN|
 |130|[Surrounded Regions](https://leetcode.com/problems/surrounded-regions/description/) |Medium|NaN|NaN|NaN|NaN|
@@ -151,7 +151,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |142|[Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/description/) |Medium|NaN|NaN|NaN|NaN|
 |143|[Reorder List](https://leetcode.com/problems/reorder-list/description/) |Medium|NaN|NaN|NaN|NaN|
 |144|[Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/description/) |Medium|NaN|NaN|NaN|NaN|
-|145|[Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/description/) |Hard|NaN|NaN|NaN|NaN|
+|145|[Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/description/) |Medium|NaN|NaN|NaN|NaN|
 |146|[LRU Cache](https://leetcode.com/problems/lru-cache/description/) |Medium|NaN|NaN|NaN|NaN|
 |147|[Insertion Sort List](https://leetcode.com/problems/insertion-sort-list/description/) |Medium|NaN|NaN|NaN|NaN|
 |148|[Sort List](https://leetcode.com/problems/sort-list/description/) |Medium|NaN|NaN|[.py](https://github.com/TheoKlein/leetcode/blob/master/src/148.%20Sort%20List/148.sort-list.py)|NaN|
@@ -169,7 +169,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |160|[Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/description/) |Easy|NaN|NaN|[.py](https://github.com/TheoKlein/leetcode/blob/master/src/160.%20Intersection%20of%20Two%20Linked%20Lists/160.intersection-of-two-linked-lists.py)|NaN|
 |161|[One Edit Distance](https://leetcode.com/problems/one-edit-distance/description/) :lock:|Medium|NaN|NaN|NaN|NaN|
 |162|[Find Peak Element](https://leetcode.com/problems/find-peak-element/description/) |Medium|NaN|NaN|NaN|NaN|
-|163|[Missing Ranges](https://leetcode.com/problems/missing-ranges/description/) :lock:|Medium|NaN|NaN|NaN|NaN|
+|163|[Missing Ranges](https://leetcode.com/problems/missing-ranges/description/) :lock:|Easy|NaN|NaN|NaN|NaN|
 |164|[Maximum Gap](https://leetcode.com/problems/maximum-gap/description/) |Hard|NaN|NaN|NaN|NaN|
 |165|[Compare Version Numbers](https://leetcode.com/problems/compare-version-numbers/description/) |Medium|NaN|NaN|NaN|NaN|
 |166|[Fraction to Recurring Decimal](https://leetcode.com/problems/fraction-to-recurring-decimal/description/) |Medium|NaN|NaN|NaN|NaN|
@@ -185,10 +185,10 @@ Note: :lock: means you need to buy a book from LeetCode
 |186|[Reverse Words in a String II](https://leetcode.com/problems/reverse-words-in-a-string-ii/description/) :lock:|Medium|NaN|NaN|NaN|NaN|
 |187|[Repeated DNA Sequences](https://leetcode.com/problems/repeated-dna-sequences/description/) |Medium|NaN|NaN|NaN|NaN|
 |188|[Best Time to Buy and Sell Stock IV](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/description/) |Hard|NaN|NaN|NaN|NaN|
-|189|[Rotate Array](https://leetcode.com/problems/rotate-array/description/) |Easy|NaN|NaN|[.py](https://github.com/TheoKlein/leetcode/blob/master/src/189.%20Rotate%20Array/189.rotate-array.py)|NaN|
+|189|[Rotate Array](https://leetcode.com/problems/rotate-array/description/) |Medium|NaN|NaN|[.py](https://github.com/TheoKlein/leetcode/blob/master/src/189.%20Rotate%20Array/189.rotate-array.py)|NaN|
 |190|[Reverse Bits](https://leetcode.com/problems/reverse-bits/description/) |Easy|NaN|NaN|[.py](https://github.com/TheoKlein/leetcode/blob/master/src/190.%20Reverse%20Bits/190.reverse-bits.py)|NaN|
 |191|[Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/description/) |Easy|NaN|NaN|[.py](https://github.com/TheoKlein/leetcode/blob/master/src/191.%20Number%20of%201%20Bits/191.number-of-1-bits.py)|NaN|
-|198|[House Robber](https://leetcode.com/problems/house-robber/description/) |Easy|NaN|NaN|[.py](https://github.com/TheoKlein/leetcode/blob/master/src/198.%20House%20Robber/198.house-robber.py)|NaN|
+|198|[House Robber](https://leetcode.com/problems/house-robber/description/) |Medium|NaN|NaN|[.py](https://github.com/TheoKlein/leetcode/blob/master/src/198.%20House%20Robber/198.house-robber.py)|NaN|
 |199|[Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/description/) |Medium|NaN|NaN|NaN|NaN|
 |200|[Number of Islands](https://leetcode.com/problems/number-of-islands/description/) |Medium|NaN|NaN|NaN|NaN|
 |201|[Bitwise AND of Numbers Range](https://leetcode.com/problems/bitwise-and-of-numbers-range/description/) |Medium|NaN|NaN|NaN|NaN|
@@ -201,7 +201,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |208|[Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/description/) |Medium|NaN|NaN|NaN|NaN|
 |209|[Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/description/) |Medium|NaN|NaN|NaN|NaN|
 |210|[Course Schedule II](https://leetcode.com/problems/course-schedule-ii/description/) |Medium|NaN|NaN|NaN|NaN|
-|211|[Add and Search Word - Data structure design](https://leetcode.com/problems/add-and-search-word-data-structure-design/description/) |Medium|NaN|NaN|NaN|NaN|
+|211|[Design Add and Search Words Data Structure](https://leetcode.com/problems/design-add-and-search-words-data-structure/description/) |Medium|NaN|NaN|NaN|NaN|
 |212|[Word Search II](https://leetcode.com/problems/word-search-ii/description/) |Hard|NaN|NaN|NaN|NaN|
 |213|[House Robber II](https://leetcode.com/problems/house-robber-ii/description/) |Medium|NaN|NaN|NaN|NaN|
 |214|[Shortest Palindrome](https://leetcode.com/problems/shortest-palindrome/description/) |Hard|NaN|NaN|NaN|NaN|
@@ -218,7 +218,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |225|[Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/description/) |Easy|NaN|NaN|NaN|NaN|
 |226|[Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/description/) |Easy|NaN|NaN|NaN|NaN|
 |227|[Basic Calculator II](https://leetcode.com/problems/basic-calculator-ii/description/) |Medium|NaN|NaN|NaN|NaN|
-|228|[Summary Ranges](https://leetcode.com/problems/summary-ranges/description/) |Medium|NaN|NaN|NaN|NaN|
+|228|[Summary Ranges](https://leetcode.com/problems/summary-ranges/description/) |Easy|NaN|NaN|NaN|NaN|
 |229|[Majority Element II](https://leetcode.com/problems/majority-element-ii/description/) |Medium|NaN|NaN|NaN|NaN|
 |230|[Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/description/) |Medium|NaN|NaN|[.py](https://github.com/TheoKlein/leetcode/blob/master/src/230.%20Kth%20Smallest%20Element%20in%20a%20BST/230.kth-smallest-element-in-a-bst.py)|NaN|
 |231|[Power of Two](https://leetcode.com/problems/power-of-two/description/) |Easy|NaN|NaN|NaN|NaN|
@@ -246,7 +246,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |253|[Meeting Rooms II](https://leetcode.com/problems/meeting-rooms-ii/description/) :lock:|Medium|NaN|NaN|NaN|NaN|
 |254|[Factor Combinations](https://leetcode.com/problems/factor-combinations/description/) :lock:|Medium|NaN|NaN|NaN|NaN|
 |255|[Verify Preorder Sequence in Binary Search Tree](https://leetcode.com/problems/verify-preorder-sequence-in-binary-search-tree/description/) :lock:|Medium|NaN|NaN|NaN|NaN|
-|256|[Paint House](https://leetcode.com/problems/paint-house/description/) :lock:|Easy|NaN|NaN|NaN|NaN|
+|256|[Paint House](https://leetcode.com/problems/paint-house/description/) :lock:|Medium|NaN|NaN|NaN|NaN|
 |257|[Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/description/) |Easy|NaN|NaN|NaN|NaN|
 |258|[Add Digits](https://leetcode.com/problems/add-digits/description/) |Easy|NaN|NaN|[.py](https://github.com/TheoKlein/leetcode/blob/master/src/258.%20Add%20Digits/258.add-digits.py)|NaN|
 |259|[3Sum Smaller](https://leetcode.com/problems/3sum-smaller/description/) :lock:|Medium|NaN|NaN|NaN|NaN|
@@ -265,7 +265,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |273|[Integer to English Words](https://leetcode.com/problems/integer-to-english-words/description/) |Hard|NaN|NaN|NaN|NaN|
 |274|[H-Index](https://leetcode.com/problems/h-index/description/) |Medium|NaN|NaN|NaN|NaN|
 |275|[H-Index II](https://leetcode.com/problems/h-index-ii/description/) |Medium|NaN|NaN|NaN|NaN|
-|276|[Paint Fence](https://leetcode.com/problems/paint-fence/description/) :lock:|Easy|NaN|NaN|NaN|NaN|
+|276|[Paint Fence](https://leetcode.com/problems/paint-fence/description/) :lock:|Medium|NaN|NaN|NaN|NaN|
 |277|[Find the Celebrity](https://leetcode.com/problems/find-the-celebrity/description/) :lock:|Medium|NaN|NaN|NaN|NaN|
 |278|[First Bad Version](https://leetcode.com/problems/first-bad-version/description/) |Easy|NaN|NaN|NaN|NaN|
 |279|[Perfect Squares](https://leetcode.com/problems/perfect-squares/description/) |Medium|NaN|NaN|[.py](https://github.com/TheoKlein/leetcode/blob/master/src/279.%20Perfect%20Squares/279.perfect-squares.py)|NaN|
@@ -280,7 +280,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |288|[Unique Word Abbreviation](https://leetcode.com/problems/unique-word-abbreviation/description/) :lock:|Medium|NaN|NaN|NaN|NaN|
 |289|[Game of Life](https://leetcode.com/problems/game-of-life/description/) |Medium|NaN|NaN|NaN|NaN|
 |290|[Word Pattern](https://leetcode.com/problems/word-pattern/description/) |Easy|NaN|NaN|NaN|NaN|
-|291|[Word Pattern II](https://leetcode.com/problems/word-pattern-ii/description/) :lock:|Hard|NaN|NaN|NaN|NaN|
+|291|[Word Pattern II](https://leetcode.com/problems/word-pattern-ii/description/) :lock:|Medium|NaN|NaN|NaN|NaN|
 |292|[Nim Game](https://leetcode.com/problems/nim-game/description/) |Easy|NaN|NaN|NaN|NaN|
 |293|[Flip Game](https://leetcode.com/problems/flip-game/description/) :lock:|Easy|NaN|NaN|NaN|NaN|
 |294|[Flip Game II](https://leetcode.com/problems/flip-game-ii/description/) :lock:|Medium|NaN|NaN|NaN|NaN|
@@ -288,7 +288,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |296|[Best Meeting Point](https://leetcode.com/problems/best-meeting-point/description/) :lock:|Hard|NaN|NaN|NaN|NaN|
 |297|[Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/description/) |Hard|NaN|NaN|NaN|NaN|
 |298|[Binary Tree Longest Consecutive Sequence](https://leetcode.com/problems/binary-tree-longest-consecutive-sequence/description/) :lock:|Medium|NaN|NaN|NaN|NaN|
-|299|[Bulls and Cows](https://leetcode.com/problems/bulls-and-cows/description/) |Easy|NaN|NaN|NaN|NaN|
+|299|[Bulls and Cows](https://leetcode.com/problems/bulls-and-cows/description/) |Medium|NaN|NaN|NaN|NaN|
 |300|[Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/description/) |Medium|NaN|NaN|NaN|NaN|
 |301|[Remove Invalid Parentheses](https://leetcode.com/problems/remove-invalid-parentheses/description/) |Hard|NaN|NaN|NaN|NaN|
 |302|[Smallest Rectangle Enclosing Black Pixels](https://leetcode.com/problems/smallest-rectangle-enclosing-black-pixels/description/) :lock:|Hard|NaN|NaN|NaN|NaN|
@@ -305,7 +305,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |313|[Super Ugly Number](https://leetcode.com/problems/super-ugly-number/description/) |Medium|NaN|NaN|NaN|NaN|
 |314|[Binary Tree Vertical Order Traversal](https://leetcode.com/problems/binary-tree-vertical-order-traversal/description/) :lock:|Medium|NaN|NaN|NaN|NaN|
 |315|[Count of Smaller Numbers After Self](https://leetcode.com/problems/count-of-smaller-numbers-after-self/description/) |Hard|NaN|NaN|NaN|NaN|
-|316|[Remove Duplicate Letters](https://leetcode.com/problems/remove-duplicate-letters/description/) |Hard|NaN|NaN|NaN|NaN|
+|316|[Remove Duplicate Letters](https://leetcode.com/problems/remove-duplicate-letters/description/) |Medium|NaN|NaN|NaN|NaN|
 |317|[Shortest Distance from All Buildings](https://leetcode.com/problems/shortest-distance-from-all-buildings/description/) :lock:|Hard|NaN|NaN|NaN|NaN|
 |318|[Maximum Product of Word Lengths](https://leetcode.com/problems/maximum-product-of-word-lengths/description/) |Medium|NaN|NaN|NaN|NaN|
 |319|[Bulb Switcher](https://leetcode.com/problems/bulb-switcher/description/) |Medium|NaN|NaN|NaN|NaN|
@@ -328,8 +328,8 @@ Note: :lock: means you need to buy a book from LeetCode
 |336|[Palindrome Pairs](https://leetcode.com/problems/palindrome-pairs/description/) |Hard|NaN|NaN|NaN|NaN|
 |337|[House Robber III](https://leetcode.com/problems/house-robber-iii/description/) |Medium|NaN|NaN|NaN|NaN|
 |338|[Counting Bits](https://leetcode.com/problems/counting-bits/description/) |Medium|NaN|NaN|NaN|NaN|
-|339|[Nested List Weight Sum](https://leetcode.com/problems/nested-list-weight-sum/description/) :lock:|Easy|NaN|NaN|NaN|NaN|
-|340|[Longest Substring with At Most K Distinct Characters](https://leetcode.com/problems/longest-substring-with-at-most-k-distinct-characters/description/) :lock:|Hard|NaN|NaN|NaN|NaN|
+|339|[Nested List Weight Sum](https://leetcode.com/problems/nested-list-weight-sum/description/) :lock:|Medium|NaN|NaN|NaN|NaN|
+|340|[Longest Substring with At Most K Distinct Characters](https://leetcode.com/problems/longest-substring-with-at-most-k-distinct-characters/description/) :lock:|Medium|NaN|NaN|NaN|NaN|
 |341|[Flatten Nested List Iterator](https://leetcode.com/problems/flatten-nested-list-iterator/description/) |Medium|NaN|NaN|NaN|NaN|
 |342|[Power of Four](https://leetcode.com/problems/power-of-four/description/) |Easy|NaN|NaN|NaN|NaN|
 |343|[Integer Break](https://leetcode.com/problems/integer-break/description/) |Medium|NaN|NaN|NaN|NaN|
@@ -360,7 +360,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |368|[Largest Divisible Subset](https://leetcode.com/problems/largest-divisible-subset/description/) |Medium|NaN|NaN|NaN|NaN|
 |369|[Plus One Linked List](https://leetcode.com/problems/plus-one-linked-list/description/) :lock:|Medium|NaN|NaN|NaN|NaN|
 |370|[Range Addition](https://leetcode.com/problems/range-addition/description/) :lock:|Medium|NaN|NaN|NaN|NaN|
-|371|[Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/description/) |Easy|[.c](https://github.com/TheoKlein/leetcode/blob/master/src/371.%20Sum%20of%20Two%20Integers/371.sum-of-two-integers.c)|NaN|NaN|NaN|
+|371|[Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/description/) |Medium|[.c](https://github.com/TheoKlein/leetcode/blob/master/src/371.%20Sum%20of%20Two%20Integers/371.sum-of-two-integers.c)|NaN|NaN|NaN|
 |372|[Super Pow](https://leetcode.com/problems/super-pow/description/) |Medium|NaN|NaN|NaN|NaN|
 |373|[Find K Pairs with Smallest Sums](https://leetcode.com/problems/find-k-pairs-with-smallest-sums/description/) |Medium|NaN|NaN|NaN|NaN|
 |374|[Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower/description/) |Easy|NaN|NaN|NaN|NaN|
@@ -420,17 +420,17 @@ Note: :lock: means you need to buy a book from LeetCode
 |434|[Number of Segments in a String](https://leetcode.com/problems/number-of-segments-in-a-string/description/) |Easy|NaN|NaN|NaN|NaN|
 |435|[Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals/description/) |Medium|NaN|NaN|NaN|NaN|
 |436|[Find Right Interval](https://leetcode.com/problems/find-right-interval/description/) |Medium|NaN|NaN|NaN|NaN|
-|437|[Path Sum III](https://leetcode.com/problems/path-sum-iii/description/) |Easy|NaN|NaN|NaN|NaN|
+|437|[Path Sum III](https://leetcode.com/problems/path-sum-iii/description/) |Medium|NaN|NaN|NaN|NaN|
 |438|[Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/description/) |Medium|NaN|NaN|NaN|NaN|
 |439|[Ternary Expression Parser](https://leetcode.com/problems/ternary-expression-parser/description/) :lock:|Medium|NaN|NaN|NaN|NaN|
 |440|[K-th Smallest in Lexicographical Order](https://leetcode.com/problems/k-th-smallest-in-lexicographical-order/description/) |Hard|NaN|NaN|NaN|NaN|
 |441|[Arranging Coins](https://leetcode.com/problems/arranging-coins/description/) |Easy|NaN|NaN|NaN|NaN|
 |442|[Find All Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array/description/) |Medium|NaN|NaN|NaN|NaN|
-|443|[String Compression](https://leetcode.com/problems/string-compression/description/) |Easy|NaN|NaN|NaN|NaN|
+|443|[String Compression](https://leetcode.com/problems/string-compression/description/) |Medium|NaN|NaN|NaN|NaN|
 |444|[Sequence Reconstruction](https://leetcode.com/problems/sequence-reconstruction/description/) :lock:|Medium|NaN|NaN|NaN|NaN|
 |445|[Add Two Numbers II](https://leetcode.com/problems/add-two-numbers-ii/description/) |Medium|NaN|NaN|NaN|NaN|
 |446|[Arithmetic Slices II - Subsequence](https://leetcode.com/problems/arithmetic-slices-ii-subsequence/description/) |Hard|NaN|NaN|NaN|NaN|
-|447|[Number of Boomerangs](https://leetcode.com/problems/number-of-boomerangs/description/) |Easy|NaN|NaN|NaN|NaN|
+|447|[Number of Boomerangs](https://leetcode.com/problems/number-of-boomerangs/description/) |Medium|NaN|NaN|NaN|NaN|
 |448|[Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/description/) |Easy|NaN|NaN|NaN|NaN|
 |449|[Serialize and Deserialize BST](https://leetcode.com/problems/serialize-and-deserialize-bst/description/) |Medium|NaN|NaN|NaN|NaN|
 |450|[Delete Node in a BST](https://leetcode.com/problems/delete-node-in-a-bst/description/) |Medium|NaN|NaN|NaN|NaN|
@@ -457,7 +457,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |472|[Concatenated Words](https://leetcode.com/problems/concatenated-words/description/) |Hard|NaN|NaN|NaN|NaN|
 |473|[Matchsticks to Square](https://leetcode.com/problems/matchsticks-to-square/description/) |Medium|NaN|NaN|NaN|NaN|
 |474|[Ones and Zeroes](https://leetcode.com/problems/ones-and-zeroes/description/) |Medium|NaN|NaN|NaN|NaN|
-|475|[Heaters](https://leetcode.com/problems/heaters/description/) |Easy|NaN|NaN|NaN|NaN|
+|475|[Heaters](https://leetcode.com/problems/heaters/description/) |Medium|NaN|NaN|NaN|NaN|
 |476|[Number Complement](https://leetcode.com/problems/number-complement/description/) |Easy|NaN|NaN|NaN|NaN|
 |477|[Total Hamming Distance](https://leetcode.com/problems/total-hamming-distance/description/) |Medium|NaN|NaN|NaN|NaN|
 |479|[Largest Palindrome Product](https://leetcode.com/problems/largest-palindrome-product/description/) |Hard|NaN|NaN|NaN|NaN|
@@ -470,6 +470,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |486|[Predict the Winner](https://leetcode.com/problems/predict-the-winner/description/) |Medium|NaN|NaN|NaN|NaN|
 |487|[Max Consecutive Ones II](https://leetcode.com/problems/max-consecutive-ones-ii/description/) :lock:|Medium|NaN|NaN|NaN|NaN|
 |488|[Zuma Game](https://leetcode.com/problems/zuma-game/description/) |Hard|NaN|NaN|NaN|NaN|
+|1643|[Kth Smallest Instructions](https://leetcode.com/problems/kth-smallest-instructions/description/) |Hard|NaN|NaN|NaN|NaN|
 |490|[The Maze](https://leetcode.com/problems/the-maze/description/) :lock:|Medium|NaN|NaN|NaN|NaN|
 |491|[Increasing Subsequences](https://leetcode.com/problems/increasing-subsequences/description/) |Medium|NaN|NaN|NaN|NaN|
 |492|[Construct the Rectangle](https://leetcode.com/problems/construct-the-rectangle/description/) |Easy|NaN|NaN|NaN|NaN|
@@ -497,22 +498,23 @@ Note: :lock: means you need to buy a book from LeetCode
 |517|[Super Washing Machines](https://leetcode.com/problems/super-washing-machines/description/) |Hard|NaN|NaN|NaN|NaN|
 |518|[Coin Change 2](https://leetcode.com/problems/coin-change-2/description/) |Medium|NaN|NaN|NaN|NaN|
 |520|[Detect Capital](https://leetcode.com/problems/detect-capital/description/) |Easy|NaN|NaN|NaN|NaN|
-|521|[Longest Uncommon Subsequence I ](https://leetcode.com/problems/longest-uncommon-subsequence-i/description/) |Easy|NaN|NaN|NaN|NaN|
+|521|[Longest Uncommon Subsequence I](https://leetcode.com/problems/longest-uncommon-subsequence-i/description/) |Easy|NaN|NaN|NaN|NaN|
 |522|[Longest Uncommon Subsequence II](https://leetcode.com/problems/longest-uncommon-subsequence-ii/description/) |Medium|NaN|NaN|NaN|NaN|
 |523|[Continuous Subarray Sum](https://leetcode.com/problems/continuous-subarray-sum/description/) |Medium|NaN|NaN|NaN|NaN|
 |524|[Longest Word in Dictionary through Deleting](https://leetcode.com/problems/longest-word-in-dictionary-through-deleting/description/) |Medium|NaN|NaN|NaN|NaN|
 |525|[Contiguous Array](https://leetcode.com/problems/contiguous-array/description/) |Medium|NaN|NaN|NaN|NaN|
 |526|[Beautiful Arrangement](https://leetcode.com/problems/beautiful-arrangement/description/) |Medium|NaN|NaN|NaN|NaN|
 |527|[Word Abbreviation](https://leetcode.com/problems/word-abbreviation/description/) :lock:|Hard|NaN|NaN|NaN|NaN|
+|1721|[Swapping Nodes in a Linked List](https://leetcode.com/problems/swapping-nodes-in-a-linked-list/description/) |Medium|NaN|NaN|NaN|NaN|
 |529|[Minesweeper](https://leetcode.com/problems/minesweeper/description/) |Medium|NaN|NaN|NaN|NaN|
 |530|[Minimum Absolute Difference in BST](https://leetcode.com/problems/minimum-absolute-difference-in-bst/description/) |Easy|NaN|NaN|NaN|NaN|
 |531|[Lonely Pixel I](https://leetcode.com/problems/lonely-pixel-i/description/) :lock:|Medium|NaN|NaN|NaN|NaN|
-|532|[K-diff Pairs in an Array](https://leetcode.com/problems/k-diff-pairs-in-an-array/description/) |Easy|NaN|NaN|NaN|NaN|
+|532|[K-diff Pairs in an Array](https://leetcode.com/problems/k-diff-pairs-in-an-array/description/) |Medium|NaN|NaN|NaN|NaN|
 |533|[Lonely Pixel II](https://leetcode.com/problems/lonely-pixel-ii/description/) :lock:|Medium|NaN|NaN|NaN|NaN|
 |535|[Encode and Decode TinyURL](https://leetcode.com/problems/encode-and-decode-tinyurl/description/) |Medium|NaN|NaN|NaN|NaN|
 |536|[Construct Binary Tree from String](https://leetcode.com/problems/construct-binary-tree-from-string/description/) :lock:|Medium|NaN|NaN|NaN|NaN|
 |537|[Complex Number Multiplication](https://leetcode.com/problems/complex-number-multiplication/description/) |Medium|NaN|NaN|NaN|NaN|
-|538|[Convert BST to Greater Tree](https://leetcode.com/problems/convert-bst-to-greater-tree/description/) |Easy|NaN|NaN|NaN|NaN|
+|538|[Convert BST to Greater Tree](https://leetcode.com/problems/convert-bst-to-greater-tree/description/) |Medium|NaN|NaN|NaN|NaN|
 |539|[Minimum Time Difference](https://leetcode.com/problems/minimum-time-difference/description/) |Medium|NaN|NaN|NaN|NaN|
 |540|[Single Element in a Sorted Array](https://leetcode.com/problems/single-element-in-a-sorted-array/description/) |Medium|NaN|NaN|NaN|NaN|
 |541|[Reverse String II](https://leetcode.com/problems/reverse-string-ii/description/) |Easy|NaN|NaN|NaN|NaN|
@@ -521,9 +523,10 @@ Note: :lock: means you need to buy a book from LeetCode
 |544|[Output Contest Matches](https://leetcode.com/problems/output-contest-matches/description/) :lock:|Medium|NaN|NaN|NaN|NaN|
 |545|[Boundary of Binary Tree](https://leetcode.com/problems/boundary-of-binary-tree/description/) :lock:|Medium|NaN|NaN|NaN|NaN|
 |546|[Remove Boxes](https://leetcode.com/problems/remove-boxes/description/) |Hard|NaN|NaN|NaN|NaN|
-|547|[Friend Circles](https://leetcode.com/problems/friend-circles/description/) |Medium|NaN|NaN|NaN|NaN|
+|547|[Number of Provinces](https://leetcode.com/problems/number-of-provinces/description/) |Medium|NaN|NaN|NaN|NaN|
 |548|[Split Array with Equal Sum](https://leetcode.com/problems/split-array-with-equal-sum/description/) :lock:|Medium|NaN|NaN|NaN|NaN|
 |549|[Binary Tree Longest Consecutive Sequence II](https://leetcode.com/problems/binary-tree-longest-consecutive-sequence-ii/description/) :lock:|Medium|NaN|NaN|NaN|NaN|
+|1730|[Shortest Path to Get Food](https://leetcode.com/problems/shortest-path-to-get-food/description/) :lock:|Medium|NaN|NaN|NaN|NaN|
 |551|[Student Attendance Record I](https://leetcode.com/problems/student-attendance-record-i/description/) |Easy|NaN|NaN|NaN|NaN|
 |552|[Student Attendance Record II](https://leetcode.com/problems/student-attendance-record-ii/description/) |Hard|NaN|NaN|NaN|NaN|
 |553|[Optimal Division](https://leetcode.com/problems/optimal-division/description/) |Medium|NaN|NaN|NaN|NaN|
@@ -544,7 +547,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |573|[Squirrel Simulation](https://leetcode.com/problems/squirrel-simulation/description/) :lock:|Medium|NaN|NaN|NaN|NaN|
 |575|[Distribute Candies](https://leetcode.com/problems/distribute-candies/description/) |Easy|NaN|NaN|NaN|NaN|
 |576|[Out of Boundary Paths](https://leetcode.com/problems/out-of-boundary-paths/description/) |Medium|NaN|NaN|NaN|NaN|
-|581|[Shortest Unsorted Continuous Subarray](https://leetcode.com/problems/shortest-unsorted-continuous-subarray/description/) |Easy|NaN|NaN|NaN|NaN|
+|581|[Shortest Unsorted Continuous Subarray](https://leetcode.com/problems/shortest-unsorted-continuous-subarray/description/) |Medium|NaN|NaN|NaN|NaN|
 |582|[Kill Process](https://leetcode.com/problems/kill-process/description/) :lock:|Medium|NaN|NaN|NaN|NaN|
 |583|[Delete Operation for Two Strings](https://leetcode.com/problems/delete-operation-for-two-strings/description/) |Medium|NaN|NaN|NaN|NaN|
 |587|[Erect the Fence](https://leetcode.com/problems/erect-the-fence/description/) |Hard|NaN|NaN|NaN|NaN|
@@ -565,14 +568,14 @@ Note: :lock: means you need to buy a book from LeetCode
 |617|[Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees/description/) |Easy|NaN|NaN|NaN|NaN|
 |621|[Task Scheduler](https://leetcode.com/problems/task-scheduler/description/) |Medium|NaN|NaN|NaN|NaN|
 |623|[Add One Row to Tree](https://leetcode.com/problems/add-one-row-to-tree/description/) |Medium|NaN|NaN|NaN|NaN|
-|624|[Maximum Distance in Arrays](https://leetcode.com/problems/maximum-distance-in-arrays/description/) :lock:|Easy|NaN|NaN|NaN|NaN|
+|624|[Maximum Distance in Arrays](https://leetcode.com/problems/maximum-distance-in-arrays/description/) :lock:|Medium|NaN|NaN|NaN|NaN|
 |625|[Minimum Factorization](https://leetcode.com/problems/minimum-factorization/description/) :lock:|Medium|NaN|NaN|NaN|NaN|
 |628|[Maximum Product of Three Numbers](https://leetcode.com/problems/maximum-product-of-three-numbers/description/) |Easy|NaN|NaN|NaN|NaN|
 |629|[K Inverse Pairs Array](https://leetcode.com/problems/k-inverse-pairs-array/description/) |Hard|NaN|NaN|NaN|NaN|
 |630|[Course Schedule III](https://leetcode.com/problems/course-schedule-iii/description/) |Hard|NaN|NaN|NaN|NaN|
 |631|[Design Excel Sum Formula](https://leetcode.com/problems/design-excel-sum-formula/description/) :lock:|Hard|NaN|NaN|NaN|NaN|
 |632|[Smallest Range Covering Elements from K Lists](https://leetcode.com/problems/smallest-range-covering-elements-from-k-lists/description/) |Hard|NaN|NaN|NaN|NaN|
-|633|[Sum of Square Numbers](https://leetcode.com/problems/sum-of-square-numbers/description/) |Easy|NaN|NaN|NaN|NaN|
+|633|[Sum of Square Numbers](https://leetcode.com/problems/sum-of-square-numbers/description/) |Medium|NaN|NaN|NaN|NaN|
 |634|[Find the Derangement of An Array](https://leetcode.com/problems/find-the-derangement-of-an-array/description/) :lock:|Medium|NaN|NaN|NaN|NaN|
 |635|[Design Log Storage System](https://leetcode.com/problems/design-log-storage-system/description/) :lock:|Medium|NaN|NaN|NaN|NaN|
 |636|[Exclusive Time of Functions](https://leetcode.com/problems/exclusive-time-of-functions/description/) |Medium|NaN|NaN|NaN|NaN|
@@ -603,11 +606,11 @@ Note: :lock: means you need to buy a book from LeetCode
 |662|[Maximum Width of Binary Tree](https://leetcode.com/problems/maximum-width-of-binary-tree/description/) |Medium|NaN|NaN|NaN|NaN|
 |663|[Equal Tree Partition](https://leetcode.com/problems/equal-tree-partition/description/) :lock:|Medium|NaN|NaN|NaN|NaN|
 |664|[Strange Printer](https://leetcode.com/problems/strange-printer/description/) |Hard|NaN|NaN|NaN|NaN|
-|665|[Non-decreasing Array](https://leetcode.com/problems/non-decreasing-array/description/) |Easy|NaN|NaN|NaN|NaN|
+|665|[Non-decreasing Array](https://leetcode.com/problems/non-decreasing-array/description/) |Medium|NaN|NaN|NaN|NaN|
 |666|[Path Sum IV](https://leetcode.com/problems/path-sum-iv/description/) :lock:|Medium|NaN|NaN|NaN|NaN|
 |667|[Beautiful Arrangement II](https://leetcode.com/problems/beautiful-arrangement-ii/description/) |Medium|NaN|NaN|NaN|NaN|
 |668|[Kth Smallest Number in Multiplication Table](https://leetcode.com/problems/kth-smallest-number-in-multiplication-table/description/) |Hard|NaN|NaN|NaN|NaN|
-|669|[Trim a Binary Search Tree](https://leetcode.com/problems/trim-a-binary-search-tree/description/) |Easy|NaN|NaN|NaN|NaN|
+|669|[Trim a Binary Search Tree](https://leetcode.com/problems/trim-a-binary-search-tree/description/) |Medium|NaN|NaN|NaN|NaN|
 |670|[Maximum Swap](https://leetcode.com/problems/maximum-swap/description/) |Medium|NaN|NaN|NaN|NaN|
 |671|[Second Minimum Node In a Binary Tree](https://leetcode.com/problems/second-minimum-node-in-a-binary-tree/description/) |Easy|NaN|NaN|NaN|NaN|
 |672|[Bulb Switcher II](https://leetcode.com/problems/bulb-switcher-ii/description/) |Medium|NaN|NaN|NaN|NaN|
@@ -624,8 +627,8 @@ Note: :lock: means you need to buy a book from LeetCode
 |683|[K Empty Slots](https://leetcode.com/problems/k-empty-slots/description/) :lock:|Hard|NaN|NaN|NaN|NaN|
 |684|[Redundant Connection](https://leetcode.com/problems/redundant-connection/description/) |Medium|NaN|NaN|NaN|NaN|
 |685|[Redundant Connection II](https://leetcode.com/problems/redundant-connection-ii/description/) |Hard|NaN|NaN|NaN|NaN|
-|686|[Repeated String Match](https://leetcode.com/problems/repeated-string-match/description/) |Easy|NaN|NaN|NaN|NaN|
-|687|[Longest Univalue Path](https://leetcode.com/problems/longest-univalue-path/description/) |Easy|NaN|NaN|NaN|NaN|
+|686|[Repeated String Match](https://leetcode.com/problems/repeated-string-match/description/) |Medium|NaN|NaN|NaN|NaN|
+|687|[Longest Univalue Path](https://leetcode.com/problems/longest-univalue-path/description/) |Medium|NaN|NaN|NaN|NaN|
 |688|[Knight Probability in Chessboard](https://leetcode.com/problems/knight-probability-in-chessboard/description/) |Medium|NaN|NaN|NaN|NaN|
 |689|[Maximum Sum of 3 Non-Overlapping Subarrays](https://leetcode.com/problems/maximum-sum-of-3-non-overlapping-subarrays/description/) |Hard|NaN|NaN|NaN|NaN|
 |690|[Employee Importance](https://leetcode.com/problems/employee-importance/description/) |Easy|NaN|NaN|NaN|NaN|
@@ -679,7 +682,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |748|[Shortest Completing Word](https://leetcode.com/problems/shortest-completing-word/description/) |Easy|NaN|NaN|NaN|NaN|
 |749|[Contain Virus](https://leetcode.com/problems/contain-virus/description/) |Hard|NaN|NaN|NaN|NaN|
 |750|[Number Of Corner Rectangles](https://leetcode.com/problems/number-of-corner-rectangles/description/) :lock:|Medium|NaN|NaN|NaN|NaN|
-|751|[IP to CIDR](https://leetcode.com/problems/ip-to-cidr/description/) :lock:|Easy|NaN|NaN|NaN|NaN|
+|751|[IP to CIDR](https://leetcode.com/problems/ip-to-cidr/description/) :lock:|Medium|NaN|NaN|NaN|NaN|
 |752|[Open the Lock](https://leetcode.com/problems/open-the-lock/description/) |Medium|NaN|NaN|NaN|NaN|
 |753|[Cracking the Safe](https://leetcode.com/problems/cracking-the-safe/description/) |Hard|NaN|NaN|NaN|NaN|
 |754|[Reach a Number](https://leetcode.com/problems/reach-a-number/description/) |Medium|NaN|NaN|NaN|NaN|
@@ -727,7 +730,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |781|[Rabbits in Forest](https://leetcode.com/problems/rabbits-in-forest/description/) |Medium|NaN|NaN|NaN|NaN|
 |782|[Transform to Chessboard](https://leetcode.com/problems/transform-to-chessboard/description/) |Hard|NaN|NaN|NaN|NaN|
 |783|[Minimum Distance Between BST Nodes](https://leetcode.com/problems/minimum-distance-between-bst-nodes/description/) |Easy|NaN|NaN|NaN|NaN|
-|784|[Letter Case Permutation](https://leetcode.com/problems/letter-case-permutation/description/) |Easy|NaN|NaN|NaN|NaN|
+|784|[Letter Case Permutation](https://leetcode.com/problems/letter-case-permutation/description/) |Medium|NaN|NaN|NaN|NaN|
 |785|[Is Graph Bipartite?](https://leetcode.com/problems/is-graph-bipartite/description/) |Medium|NaN|NaN|NaN|NaN|
 |786|[K-th Smallest Prime Fraction](https://leetcode.com/problems/k-th-smallest-prime-fraction/description/) |Hard|NaN|NaN|NaN|NaN|
 |787|[Cheapest Flights Within K Stops](https://leetcode.com/problems/cheapest-flights-within-k-stops/description/) |Medium|NaN|NaN|NaN|NaN|
@@ -790,7 +793,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |837|[New 21 Game](https://leetcode.com/problems/new-21-game/description/) |Medium|NaN|NaN|NaN|NaN|
 |838|[Push Dominoes](https://leetcode.com/problems/push-dominoes/description/) |Medium|NaN|NaN|NaN|NaN|
 |839|[Similar String Groups](https://leetcode.com/problems/similar-string-groups/description/) |Hard|NaN|NaN|NaN|NaN|
-|840|[Magic Squares In Grid](https://leetcode.com/problems/magic-squares-in-grid/description/) |Easy|NaN|NaN|NaN|NaN|
+|840|[Magic Squares In Grid](https://leetcode.com/problems/magic-squares-in-grid/description/) |Medium|NaN|NaN|NaN|NaN|
 |841|[Keys and Rooms](https://leetcode.com/problems/keys-and-rooms/description/) |Medium|NaN|NaN|NaN|NaN|
 |842|[Split Array into Fibonacci Sequence](https://leetcode.com/problems/split-array-into-fibonacci-sequence/description/) |Medium|NaN|NaN|NaN|NaN|
 |843|[Guess the Word](https://leetcode.com/problems/guess-the-word/description/) |Hard|NaN|NaN|NaN|NaN|
@@ -799,7 +802,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |846|[Hand of Straights](https://leetcode.com/problems/hand-of-straights/description/) |Medium|NaN|NaN|NaN|NaN|
 |847|[Shortest Path Visiting All Nodes](https://leetcode.com/problems/shortest-path-visiting-all-nodes/description/) |Hard|NaN|NaN|NaN|NaN|
 |848|[Shifting Letters](https://leetcode.com/problems/shifting-letters/description/) |Medium|NaN|NaN|NaN|NaN|
-|849|[Maximize Distance to Closest Person](https://leetcode.com/problems/maximize-distance-to-closest-person/description/) |Easy|NaN|NaN|NaN|NaN|
+|849|[Maximize Distance to Closest Person](https://leetcode.com/problems/maximize-distance-to-closest-person/description/) |Medium|NaN|NaN|NaN|NaN|
 |850|[Rectangle Area II](https://leetcode.com/problems/rectangle-area-ii/description/) |Hard|NaN|NaN|NaN|NaN|
 |851|[Loud and Rich](https://leetcode.com/problems/loud-and-rich/description/) |Medium|NaN|NaN|NaN|NaN|
 |852|[Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array/description/) |Easy|NaN|NaN|NaN|NaN|
@@ -905,7 +908,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |946|[Validate Stack Sequences](https://leetcode.com/problems/validate-stack-sequences/description/) |Medium|NaN|NaN|NaN|NaN|
 |947|[Most Stones Removed with Same Row or Column](https://leetcode.com/problems/most-stones-removed-with-same-row-or-column/description/) |Medium|NaN|NaN|NaN|NaN|
 |948|[Bag of Tokens](https://leetcode.com/problems/bag-of-tokens/description/) |Medium|NaN|NaN|NaN|NaN|
-|949|[Largest Time for Given Digits](https://leetcode.com/problems/largest-time-for-given-digits/description/) |Easy|NaN|NaN|NaN|NaN|
+|949|[Largest Time for Given Digits](https://leetcode.com/problems/largest-time-for-given-digits/description/) |Medium|NaN|NaN|NaN|NaN|
 |950|[Reveal Cards In Increasing Order](https://leetcode.com/problems/reveal-cards-in-increasing-order/description/) |Medium|NaN|NaN|NaN|NaN|
 |951|[Flip Equivalent Binary Trees](https://leetcode.com/problems/flip-equivalent-binary-trees/description/) |Medium|NaN|NaN|NaN|NaN|
 |952|[Largest Component Size by Common Factor](https://leetcode.com/problems/largest-component-size-by-common-factor/description/) |Hard|NaN|NaN|NaN|NaN|
@@ -926,7 +929,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |967|[Numbers With Same Consecutive Differences](https://leetcode.com/problems/numbers-with-same-consecutive-differences/description/) |Medium|NaN|NaN|NaN|NaN|
 |968|[Binary Tree Cameras](https://leetcode.com/problems/binary-tree-cameras/description/) |Hard|NaN|NaN|NaN|NaN|
 |969|[Pancake Sorting](https://leetcode.com/problems/pancake-sorting/description/) |Medium|NaN|NaN|NaN|NaN|
-|970|[Powerful Integers](https://leetcode.com/problems/powerful-integers/description/) |Easy|NaN|NaN|NaN|NaN|
+|970|[Powerful Integers](https://leetcode.com/problems/powerful-integers/description/) |Medium|NaN|NaN|NaN|NaN|
 |971|[Flip Binary Tree To Match Preorder Traversal](https://leetcode.com/problems/flip-binary-tree-to-match-preorder-traversal/description/) |Medium|NaN|NaN|NaN|NaN|
 |972|[Equal Rational Numbers](https://leetcode.com/problems/equal-rational-numbers/description/) |Hard|NaN|NaN|NaN|NaN|
 |509|[Fibonacci Number](https://leetcode.com/problems/fibonacci-number/description/) |Easy|NaN|NaN|NaN|NaN|
@@ -944,7 +947,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |984|[String Without AAA or BBB](https://leetcode.com/problems/string-without-aaa-or-bbb/description/) |Medium|NaN|NaN|NaN|NaN|
 |985|[Sum of Even Numbers After Queries](https://leetcode.com/problems/sum-of-even-numbers-after-queries/description/) |Easy|NaN|NaN|NaN|NaN|
 |986|[Interval List Intersections](https://leetcode.com/problems/interval-list-intersections/description/) |Medium|NaN|NaN|NaN|NaN|
-|987|[Vertical Order Traversal of a Binary Tree](https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree/description/) |Medium|NaN|NaN|NaN|NaN|
+|987|[Vertical Order Traversal of a Binary Tree](https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree/description/) |Hard|NaN|NaN|NaN|NaN|
 |988|[Smallest String Starting From Leaf](https://leetcode.com/problems/smallest-string-starting-from-leaf/description/) |Medium|NaN|NaN|NaN|NaN|
 |989|[Add to Array-Form of Integer](https://leetcode.com/problems/add-to-array-form-of-integer/description/) |Easy|NaN|NaN|NaN|NaN|
 |990|[Satisfiability of Equality Equations](https://leetcode.com/problems/satisfiability-of-equality-equations/description/) |Medium|NaN|NaN|NaN|NaN|
@@ -970,7 +973,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |1057|[Campus Bikes](https://leetcode.com/problems/campus-bikes/description/) :lock:|Medium|NaN|NaN|NaN|NaN|
 |1058|[Minimize Rounding Error to Meet Target](https://leetcode.com/problems/minimize-rounding-error-to-meet-target/description/) :lock:|Medium|NaN|NaN|NaN|NaN|
 |1009|[Complement of Base 10 Integer](https://leetcode.com/problems/complement-of-base-10-integer/description/) |Easy|NaN|NaN|NaN|NaN|
-|1010|[Pairs of Songs With Total Durations Divisible by 60](https://leetcode.com/problems/pairs-of-songs-with-total-durations-divisible-by-60/description/) |Easy|NaN|NaN|NaN|NaN|
+|1010|[Pairs of Songs With Total Durations Divisible by 60](https://leetcode.com/problems/pairs-of-songs-with-total-durations-divisible-by-60/description/) |Medium|NaN|NaN|NaN|NaN|
 |1011|[Capacity To Ship Packages Within D Days](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/description/) |Medium|NaN|NaN|NaN|NaN|
 |1012|[Numbers With Repeated Digits](https://leetcode.com/problems/numbers-with-repeated-digits/description/) |Hard|NaN|NaN|NaN|NaN|
 |1061|[Lexicographically Smallest Equivalent String](https://leetcode.com/problems/lexicographically-smallest-equivalent-string/description/) :lock:|Medium|NaN|NaN|NaN|NaN|
@@ -1002,7 +1005,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |1100|[Find K-Length Substrings With No Repeated Characters](https://leetcode.com/problems/find-k-length-substrings-with-no-repeated-characters/description/) :lock:|Medium|NaN|NaN|NaN|NaN|
 |1101|[The Earliest Moment When Everyone Become Friends](https://leetcode.com/problems/the-earliest-moment-when-everyone-become-friends/description/) :lock:|Medium|NaN|NaN|NaN|NaN|
 |1025|[Divisor Game](https://leetcode.com/problems/divisor-game/description/) |Easy|NaN|NaN|NaN|NaN|
-|1027|[Longest Arithmetic Sequence](https://leetcode.com/problems/longest-arithmetic-sequence/description/) |Medium|NaN|NaN|NaN|NaN|
+|1027|[Longest Arithmetic Subsequence](https://leetcode.com/problems/longest-arithmetic-subsequence/description/) |Medium|NaN|NaN|NaN|NaN|
 |1118|[Number of Days in a Month](https://leetcode.com/problems/number-of-days-in-a-month/description/) :lock:|Easy|NaN|NaN|NaN|NaN|
 |1119|[Remove Vowels from a String](https://leetcode.com/problems/remove-vowels-from-a-string/description/) :lock:|Easy|NaN|NaN|NaN|NaN|
 |1134|[Armstrong Number](https://leetcode.com/problems/armstrong-number/description/) :lock:|Easy|NaN|NaN|NaN|NaN|
@@ -1010,13 +1013,13 @@ Note: :lock: means you need to buy a book from LeetCode
 |1026|[Maximum Difference Between Node and Ancestor](https://leetcode.com/problems/maximum-difference-between-node-and-ancestor/description/) |Medium|NaN|NaN|NaN|NaN|
 |1028|[Recover a Tree From Preorder Traversal](https://leetcode.com/problems/recover-a-tree-from-preorder-traversal/description/) |Hard|NaN|NaN|NaN|NaN|
 |1030|[Matrix Cells in Distance Order](https://leetcode.com/problems/matrix-cells-in-distance-order/description/) |Easy|NaN|NaN|NaN|NaN|
-|1029|[Two City Scheduling](https://leetcode.com/problems/two-city-scheduling/description/) |Easy|NaN|NaN|NaN|NaN|
+|1029|[Two City Scheduling](https://leetcode.com/problems/two-city-scheduling/description/) |Medium|NaN|NaN|NaN|NaN|
 |1031|[Maximum Sum of Two Non-Overlapping Subarrays](https://leetcode.com/problems/maximum-sum-of-two-non-overlapping-subarrays/description/) |Medium|NaN|NaN|NaN|NaN|
 |1032|[Stream of Characters](https://leetcode.com/problems/stream-of-characters/description/) |Hard|NaN|NaN|NaN|NaN|
 |1133|[Largest Unique Number](https://leetcode.com/problems/largest-unique-number/description/) :lock:|Easy|NaN|NaN|NaN|NaN|
 |1102|[Path With Maximum Minimum Value](https://leetcode.com/problems/path-with-maximum-minimum-value/description/) :lock:|Medium|NaN|NaN|NaN|NaN|
 |1135|[Connecting Cities With Minimum Cost](https://leetcode.com/problems/connecting-cities-with-minimum-cost/description/) :lock:|Medium|NaN|NaN|NaN|NaN|
-|1136|[Parallel Courses](https://leetcode.com/problems/parallel-courses/description/) :lock:|Hard|NaN|NaN|NaN|NaN|
+|1136|[Parallel Courses](https://leetcode.com/problems/parallel-courses/description/) :lock:|Medium|NaN|NaN|NaN|NaN|
 |1150|[Check If a Number Is Majority Element in a Sorted Array](https://leetcode.com/problems/check-if-a-number-is-majority-element-in-a-sorted-array/description/) :lock:|Easy|NaN|NaN|NaN|NaN|
 |1033|[Moving Stones Until Consecutive](https://leetcode.com/problems/moving-stones-until-consecutive/description/) |Easy|NaN|NaN|NaN|NaN|
 |1034|[Coloring A Border](https://leetcode.com/problems/coloring-a-border/description/) |Medium|NaN|NaN|NaN|NaN|
@@ -1033,7 +1036,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |1162|[As Far from Land as Possible](https://leetcode.com/problems/as-far-from-land-as-possible/description/) |Medium|NaN|NaN|NaN|NaN|
 |1121|[Divide Array Into Increasing Sequences](https://leetcode.com/problems/divide-array-into-increasing-sequences/description/) :lock:|Hard|NaN|NaN|NaN|NaN|
 |1041|[Robot Bounded In Circle](https://leetcode.com/problems/robot-bounded-in-circle/description/) |Medium|NaN|NaN|NaN|NaN|
-|1042|[Flower Planting With No Adjacent](https://leetcode.com/problems/flower-planting-with-no-adjacent/description/) |Easy|NaN|NaN|NaN|NaN|
+|1042|[Flower Planting With No Adjacent](https://leetcode.com/problems/flower-planting-with-no-adjacent/description/) |Medium|NaN|NaN|NaN|NaN|
 |1043|[Partition Array for Maximum Sum](https://leetcode.com/problems/partition-array-for-maximum-sum/description/) |Medium|NaN|NaN|NaN|NaN|
 |1044|[Longest Duplicate Substring](https://leetcode.com/problems/longest-duplicate-substring/description/) |Hard|NaN|NaN|NaN|NaN|
 |1165|[Single-Row Keyboard](https://leetcode.com/problems/single-row-keyboard/description/) :lock:|Easy|NaN|NaN|NaN|NaN|
@@ -1100,6 +1103,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |1109|[Corporate Flight Bookings](https://leetcode.com/problems/corporate-flight-bookings/description/) |Medium|NaN|NaN|NaN|NaN|
 |1110|[Delete Nodes And Return Forest](https://leetcode.com/problems/delete-nodes-and-return-forest/description/) |Medium|NaN|NaN|NaN|NaN|
 |1111|[Maximum Nesting Depth of Two Valid Parentheses Strings](https://leetcode.com/problems/maximum-nesting-depth-of-two-valid-parentheses-strings/description/) |Medium|NaN|NaN|NaN|NaN|
+|1619|[Mean of Array After Removing Some Elements](https://leetcode.com/problems/mean-of-array-after-removing-some-elements/description/) |Easy|NaN|NaN|NaN|NaN|
 |1286|[Iterator for Combination](https://leetcode.com/problems/iterator-for-combination/description/) |Medium|NaN|NaN|NaN|NaN|
 |1291|[Sequential Digits](https://leetcode.com/problems/sequential-digits/description/) |Medium|NaN|NaN|NaN|NaN|
 |1259|[Handshakes That Don't Cross](https://leetcode.com/problems/handshakes-that-dont-cross/description/) :lock:|Hard|NaN|NaN|NaN|NaN|
@@ -1109,6 +1113,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |1125|[Smallest Sufficient Team](https://leetcode.com/problems/smallest-sufficient-team/description/) |Hard|NaN|NaN|NaN|NaN|
 |1287|[Element Appearing More Than 25% In Sorted Array](https://leetcode.com/problems/element-appearing-more-than-25-in-sorted-array/description/) |Easy|NaN|NaN|NaN|NaN|
 |1288|[Remove Covered Intervals](https://leetcode.com/problems/remove-covered-intervals/description/) |Medium|NaN|NaN|NaN|NaN|
+|1627|[Graph Connectivity With Threshold](https://leetcode.com/problems/graph-connectivity-with-threshold/description/) |Hard|NaN|NaN|NaN|NaN|
 |1289|[Minimum Falling Path Sum II](https://leetcode.com/problems/minimum-falling-path-sum-ii/description/) |Hard|NaN|NaN|NaN|NaN|
 |1128|[Number of Equivalent Domino Pairs](https://leetcode.com/problems/number-of-equivalent-domino-pairs/description/) |Easy|NaN|NaN|NaN|NaN|
 |1130|[Minimum Cost Tree From Leaf Values](https://leetcode.com/problems/minimum-cost-tree-from-leaf-values/description/) |Medium|NaN|NaN|NaN|NaN|
@@ -1136,6 +1141,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |1302|[Deepest Leaves Sum](https://leetcode.com/problems/deepest-leaves-sum/description/) |Medium|NaN|NaN|NaN|NaN|
 |1330|[Reverse Subarray To Maximize Array Value](https://leetcode.com/problems/reverse-subarray-to-maximize-array-value/description/) |Hard|NaN|NaN|NaN|NaN|
 |1331|[Rank Transform of an Array](https://leetcode.com/problems/rank-transform-of-an-array/description/) |Easy|NaN|NaN|NaN|NaN|
+|1632|[Rank Transform of a Matrix](https://leetcode.com/problems/rank-transform-of-a-matrix/description/) |Hard|NaN|NaN|NaN|NaN|
 |1154|[Day of the Year](https://leetcode.com/problems/day-of-the-year/description/) |Easy|NaN|NaN|NaN|NaN|
 |1156|[Swap For Longest Repeated Character Substring](https://leetcode.com/problems/swap-for-longest-repeated-character-substring/description/) |Medium|NaN|NaN|NaN|NaN|
 |1157|[Online Majority Element In Subarray](https://leetcode.com/problems/online-majority-element-in-subarray/description/) |Hard|NaN|NaN|NaN|NaN|
@@ -1144,7 +1150,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |1172|[Dinner Plate Stacks](https://leetcode.com/problems/dinner-plate-stacks/description/) |Hard|NaN|NaN|NaN|NaN|
 |1236|[Web Crawler](https://leetcode.com/problems/web-crawler/description/) :lock:|Medium|NaN|NaN|NaN|NaN|
 |1169|[Invalid Transactions](https://leetcode.com/problems/invalid-transactions/description/) |Medium|NaN|NaN|NaN|NaN|
-|1170|[Compare Strings by Frequency of the Smallest Character](https://leetcode.com/problems/compare-strings-by-frequency-of-the-smallest-character/description/) |Easy|NaN|NaN|NaN|NaN|
+|1170|[Compare Strings by Frequency of the Smallest Character](https://leetcode.com/problems/compare-strings-by-frequency-of-the-smallest-character/description/) |Medium|NaN|NaN|NaN|NaN|
 |1360|[Number of Days Between Two Dates](https://leetcode.com/problems/number-of-days-between-two-dates/description/) |Easy|NaN|NaN|NaN|NaN|
 |1361|[Validate Binary Tree Nodes](https://leetcode.com/problems/validate-binary-tree-nodes/description/) |Medium|NaN|NaN|NaN|NaN|
 |1362|[Closest Divisors](https://leetcode.com/problems/closest-divisors/description/) |Medium|NaN|NaN|NaN|NaN|
@@ -1153,6 +1159,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |1176|[Diet Plan Performance](https://leetcode.com/problems/diet-plan-performance/description/) :lock:|Easy|NaN|NaN|NaN|NaN|
 |1177|[Can Make Palindrome from Substring](https://leetcode.com/problems/can-make-palindrome-from-substring/description/) |Medium|NaN|NaN|NaN|NaN|
 |1178|[Number of Valid Words for Each Puzzle](https://leetcode.com/problems/number-of-valid-words-for-each-puzzle/description/) |Hard|NaN|NaN|NaN|NaN|
+|1507|[Reformat Date](https://leetcode.com/problems/reformat-date/description/) |Easy|NaN|NaN|NaN|NaN|
 |1390|[Four Divisors](https://leetcode.com/problems/four-divisors/description/) |Medium|NaN|NaN|NaN|NaN|
 |1382|[Balance a Binary Search Tree](https://leetcode.com/problems/balance-a-binary-search-tree/description/) |Medium|NaN|NaN|NaN|NaN|
 |1425|[Constrained Subsequence Sum](https://leetcode.com/problems/constrained-subsequence-sum/description/) |Hard|NaN|NaN|NaN|NaN|
@@ -1160,6 +1167,8 @@ Note: :lock: means you need to buy a book from LeetCode
 |1186|[Maximum Subarray Sum with One Deletion](https://leetcode.com/problems/maximum-subarray-sum-with-one-deletion/description/) |Medium|NaN|NaN|NaN|NaN|
 |1185|[Day of the Week](https://leetcode.com/problems/day-of-the-week/description/) |Easy|NaN|NaN|NaN|NaN|
 |1187|[Make Array Strictly Increasing](https://leetcode.com/problems/make-array-strictly-increasing/description/) |Hard|NaN|NaN|NaN|NaN|
+|1550|[Three Consecutive Odds](https://leetcode.com/problems/three-consecutive-odds/description/) |Easy|NaN|NaN|NaN|NaN|
+|1483|[Kth Ancestor of a Tree Node](https://leetcode.com/problems/kth-ancestor-of-a-tree-node/description/) |Hard|NaN|NaN|NaN|NaN|
 |1189|[Maximum Number of Balloons](https://leetcode.com/problems/maximum-number-of-balloons/description/) |Easy|NaN|NaN|NaN|NaN|
 |1190|[Reverse Substrings Between Each Pair of Parentheses](https://leetcode.com/problems/reverse-substrings-between-each-pair-of-parentheses/description/) |Medium|NaN|NaN|NaN|NaN|
 |1191|[K-Concatenation Maximum Sum](https://leetcode.com/problems/k-concatenation-maximum-sum/description/) |Medium|NaN|NaN|NaN|NaN|
@@ -1173,26 +1182,30 @@ Note: :lock: means you need to buy a book from LeetCode
 |1209|[Remove All Adjacent Duplicates in String II](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string-ii/description/) |Medium|NaN|NaN|NaN|NaN|
 |1208|[Get Equal Substrings Within Budget](https://leetcode.com/problems/get-equal-substrings-within-budget/description/) |Medium|NaN|NaN|NaN|NaN|
 |1210|[Minimum Moves to Reach Target with Rotations](https://leetcode.com/problems/minimum-moves-to-reach-target-with-rotations/description/) |Hard|NaN|NaN|NaN|NaN|
-|1217|[Play with Chips](https://leetcode.com/problems/play-with-chips/description/) |Easy|NaN|NaN|NaN|NaN|
+|1706|[Where Will the Ball Fall](https://leetcode.com/problems/where-will-the-ball-fall/description/) |Medium|NaN|NaN|NaN|NaN|
+|1514|[Path with Maximum Probability](https://leetcode.com/problems/path-with-maximum-probability/description/) |Medium|NaN|NaN|NaN|NaN|
+|1217|[Minimum Cost to Move Chips to The Same Position](https://leetcode.com/problems/minimum-cost-to-move-chips-to-the-same-position/description/) |Easy|NaN|NaN|NaN|NaN|
 |1218|[Longest Arithmetic Subsequence of Given Difference](https://leetcode.com/problems/longest-arithmetic-subsequence-of-given-difference/description/) |Medium|NaN|NaN|NaN|NaN|
 |1219|[Path with Maximum Gold](https://leetcode.com/problems/path-with-maximum-gold/description/) |Medium|NaN|NaN|NaN|NaN|
 |1220|[Count Vowels Permutation](https://leetcode.com/problems/count-vowels-permutation/description/) |Hard|NaN|NaN|NaN|NaN|
 |1206|[Design Skiplist](https://leetcode.com/problems/design-skiplist/description/) |Hard|NaN|NaN|NaN|NaN|
 |1221|[Split a String in Balanced Strings](https://leetcode.com/problems/split-a-string-in-balanced-strings/description/) |Easy|NaN|NaN|NaN|NaN|
 |1222|[Queens That Can Attack the King](https://leetcode.com/problems/queens-that-can-attack-the-king/description/) |Medium|NaN|NaN|NaN|NaN|
-|1223|[Dice Roll Simulation](https://leetcode.com/problems/dice-roll-simulation/description/) |Medium|NaN|NaN|NaN|NaN|
+|1223|[Dice Roll Simulation](https://leetcode.com/problems/dice-roll-simulation/description/) |Hard|NaN|NaN|NaN|NaN|
 |1224|[Maximum Equal Frequency](https://leetcode.com/problems/maximum-equal-frequency/description/) |Hard|NaN|NaN|NaN|NaN|
 |1427|[Perform String Shifts](https://leetcode.com/problems/perform-string-shifts/description/) :lock:|Easy|NaN|NaN|NaN|NaN|
 |1232|[Check If It Is a Straight Line](https://leetcode.com/problems/check-if-it-is-a-straight-line/description/) |Easy|NaN|NaN|NaN|NaN|
 |1233|[Remove Sub-Folders from the Filesystem](https://leetcode.com/problems/remove-sub-folders-from-the-filesystem/description/) |Medium|NaN|NaN|NaN|NaN|
 |1234|[Replace the Substring for Balanced String](https://leetcode.com/problems/replace-the-substring-for-balanced-string/description/) |Medium|NaN|NaN|NaN|NaN|
 |1235|[Maximum Profit in Job Scheduling](https://leetcode.com/problems/maximum-profit-in-job-scheduling/description/) |Hard|NaN|NaN|NaN|NaN|
-|1237|[Find Positive Integer Solution for a Given Equation](https://leetcode.com/problems/find-positive-integer-solution-for-a-given-equation/description/) |Easy|NaN|NaN|NaN|NaN|
+|1237|[Find Positive Integer Solution for a Given Equation](https://leetcode.com/problems/find-positive-integer-solution-for-a-given-equation/description/) |Medium|NaN|NaN|NaN|NaN|
 |1238|[Circular Permutation in Binary Representation](https://leetcode.com/problems/circular-permutation-in-binary-representation/description/) |Medium|NaN|NaN|NaN|NaN|
 |1239|[Maximum Length of a Concatenated String with Unique Characters](https://leetcode.com/problems/maximum-length-of-a-concatenated-string-with-unique-characters/description/) |Medium|NaN|NaN|NaN|NaN|
 |1240|[Tiling a Rectangle with the Fewest Squares](https://leetcode.com/problems/tiling-a-rectangle-with-the-fewest-squares/description/) |Hard|NaN|NaN|NaN|NaN|
 |1227|[Airplane Seat Assignment Probability](https://leetcode.com/problems/airplane-seat-assignment-probability/description/) |Medium|NaN|NaN|NaN|NaN|
+|1726|[Tuple with Same Product](https://leetcode.com/problems/tuple-with-same-product/description/) |Medium|NaN|NaN|NaN|NaN|
 |1429|[First Unique Number](https://leetcode.com/problems/first-unique-number/description/) :lock:|Medium|NaN|NaN|NaN|NaN|
+|1691|[Maximum Height by Stacking Cuboids ](https://leetcode.com/problems/maximum-height-by-stacking-cuboids/description/) |Hard|NaN|NaN|NaN|NaN|
 |1247|[Minimum Swaps to Make Strings Equal](https://leetcode.com/problems/minimum-swaps-to-make-strings-equal/description/) |Medium|NaN|NaN|NaN|NaN|
 |1248|[Count Number of Nice Subarrays](https://leetcode.com/problems/count-number-of-nice-subarrays/description/) |Medium|NaN|NaN|NaN|NaN|
 |1249|[Minimum Remove to Make Valid Parentheses](https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses/description/) |Medium|NaN|NaN|NaN|NaN|
@@ -1202,6 +1215,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |1253|[Reconstruct a 2-Row Binary Matrix](https://leetcode.com/problems/reconstruct-a-2-row-binary-matrix/description/) |Medium|NaN|NaN|NaN|NaN|
 |1254|[Number of Closed Islands](https://leetcode.com/problems/number-of-closed-islands/description/) |Medium|NaN|NaN|NaN|NaN|
 |1255|[Maximum Score Words Formed by Letters](https://leetcode.com/problems/maximum-score-words-formed-by-letters/description/) |Hard|NaN|NaN|NaN|NaN|
+|1618|[Maximum Font to Fit a Sentence in a Screen](https://leetcode.com/problems/maximum-font-to-fit-a-sentence-in-a-screen/description/) :lock:|Medium|NaN|NaN|NaN|NaN|
 |1260|[Shift 2D Grid](https://leetcode.com/problems/shift-2d-grid/description/) |Easy|NaN|NaN|NaN|NaN|
 |1261|[Find Elements in a Contaminated Binary Tree](https://leetcode.com/problems/find-elements-in-a-contaminated-binary-tree/description/) |Medium|NaN|NaN|NaN|NaN|
 |1262|[Greatest Sum Divisible by Three](https://leetcode.com/problems/greatest-sum-divisible-by-three/description/) |Medium|NaN|NaN|NaN|NaN|
@@ -1321,7 +1335,325 @@ Note: :lock: means you need to buy a book from LeetCode
 |1422|[Maximum Score After Splitting a String](https://leetcode.com/problems/maximum-score-after-splitting-a-string/description/) |Easy|NaN|NaN|NaN|NaN|
 |1423|[Maximum Points You Can Obtain from Cards](https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards/description/) |Medium|NaN|NaN|NaN|NaN|
 |1424|[Diagonal Traverse II](https://leetcode.com/problems/diagonal-traverse-ii/description/) |Medium|NaN|NaN|NaN|NaN|
+|1446|[Consecutive Characters](https://leetcode.com/problems/consecutive-characters/description/) |Easy|NaN|NaN|NaN|NaN|
+|1447|[Simplified Fractions](https://leetcode.com/problems/simplified-fractions/description/) |Medium|NaN|NaN|NaN|NaN|
+|1448|[Count Good Nodes in Binary Tree](https://leetcode.com/problems/count-good-nodes-in-binary-tree/description/) |Medium|NaN|NaN|NaN|NaN|
+|1449|[Form Largest Integer With Digits That Add up to Target](https://leetcode.com/problems/form-largest-integer-with-digits-that-add-up-to-target/description/) |Hard|NaN|NaN|NaN|NaN|
 |1436|[Destination City](https://leetcode.com/problems/destination-city/description/) |Easy|NaN|NaN|NaN|NaN|
-|1437|[Check If All 1's Are at Least Length K Places Away](https://leetcode.com/problems/check-if-all-1s-are-at-least-length-k-places-away/description/) |Medium|NaN|NaN|NaN|NaN|
+|1437|[Check If All 1's Are at Least Length K Places Away](https://leetcode.com/problems/check-if-all-1s-are-at-least-length-k-places-away/description/) |Easy|NaN|NaN|NaN|NaN|
 |1438|[Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit](https://leetcode.com/problems/longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/description/) |Medium|NaN|NaN|NaN|NaN|
 |1439|[Find the Kth Smallest Sum of a Matrix With Sorted Rows](https://leetcode.com/problems/find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows/description/) |Hard|NaN|NaN|NaN|NaN|
+|1441|[Build an Array With Stack Operations](https://leetcode.com/problems/build-an-array-with-stack-operations/description/) |Easy|NaN|NaN|NaN|NaN|
+|1442|[Count Triplets That Can Form Two Arrays of Equal XOR](https://leetcode.com/problems/count-triplets-that-can-form-two-arrays-of-equal-xor/description/) |Medium|NaN|NaN|NaN|NaN|
+|1443|[Minimum Time to Collect All Apples in a Tree](https://leetcode.com/problems/minimum-time-to-collect-all-apples-in-a-tree/description/) |Medium|NaN|NaN|NaN|NaN|
+|1444|[Number of Ways of Cutting a Pizza](https://leetcode.com/problems/number-of-ways-of-cutting-a-pizza/description/) |Hard|NaN|NaN|NaN|NaN|
+|1460|[Make Two Arrays Equal by Reversing Sub-arrays](https://leetcode.com/problems/make-two-arrays-equal-by-reversing-sub-arrays/description/) |Easy|NaN|NaN|NaN|NaN|
+|1461|[Check If a String Contains All Binary Codes of Size K](https://leetcode.com/problems/check-if-a-string-contains-all-binary-codes-of-size-k/description/) |Medium|NaN|NaN|NaN|NaN|
+|1462|[Course Schedule IV](https://leetcode.com/problems/course-schedule-iv/description/) |Medium|NaN|NaN|NaN|NaN|
+|1463|[Cherry Pickup II](https://leetcode.com/problems/cherry-pickup-ii/description/) |Hard|NaN|NaN|NaN|NaN|
+|1450|[Number of Students Doing Homework at a Given Time](https://leetcode.com/problems/number-of-students-doing-homework-at-a-given-time/description/) |Easy|NaN|NaN|NaN|NaN|
+|1451|[Rearrange Words in a Sentence](https://leetcode.com/problems/rearrange-words-in-a-sentence/description/) |Medium|NaN|NaN|NaN|NaN|
+|1452|[People Whose List of Favorite Companies Is Not a Subset of Another List](https://leetcode.com/problems/people-whose-list-of-favorite-companies-is-not-a-subset-of-another-list/description/) |Medium|NaN|NaN|NaN|NaN|
+|1453|[Maximum Number of Darts Inside of a Circular Dartboard](https://leetcode.com/problems/maximum-number-of-darts-inside-of-a-circular-dartboard/description/) |Hard|NaN|NaN|NaN|NaN|
+|1455|[Check If a Word Occurs As a Prefix of Any Word in a Sentence](https://leetcode.com/problems/check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence/description/) |Easy|NaN|NaN|NaN|NaN|
+|1456|[Maximum Number of Vowels in a Substring of Given Length](https://leetcode.com/problems/maximum-number-of-vowels-in-a-substring-of-given-length/description/) |Medium|NaN|NaN|NaN|NaN|
+|1457|[Pseudo-Palindromic Paths in a Binary Tree](https://leetcode.com/problems/pseudo-palindromic-paths-in-a-binary-tree/description/) |Medium|NaN|NaN|NaN|NaN|
+|1458|[Max Dot Product of Two Subsequences](https://leetcode.com/problems/max-dot-product-of-two-subsequences/description/) |Hard|NaN|NaN|NaN|NaN|
+|1475|[Final Prices With a Special Discount in a Shop](https://leetcode.com/problems/final-prices-with-a-special-discount-in-a-shop/description/) |Easy|NaN|NaN|NaN|NaN|
+|1478|[Allocate Mailboxes](https://leetcode.com/problems/allocate-mailboxes/description/) |Hard|NaN|NaN|NaN|NaN|
+|1476|[Subrectangle Queries](https://leetcode.com/problems/subrectangle-queries/description/) |Medium|NaN|NaN|NaN|NaN|
+|1477|[Find Two Non-overlapping Sub-arrays Each With Target Sum](https://leetcode.com/problems/find-two-non-overlapping-sub-arrays-each-with-target-sum/description/) |Medium|NaN|NaN|NaN|NaN|
+|1464|[Maximum Product of Two Elements in an Array](https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array/description/) |Easy|NaN|NaN|NaN|NaN|
+|1465|[Maximum Area of a Piece of Cake After Horizontal and Vertical Cuts](https://leetcode.com/problems/maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts/description/) |Medium|NaN|NaN|NaN|NaN|
+|1466|[Reorder Routes to Make All Paths Lead to the City Zero](https://leetcode.com/problems/reorder-routes-to-make-all-paths-lead-to-the-city-zero/description/) |Medium|NaN|NaN|NaN|NaN|
+|1467|[Probability of a Two Boxes Having The Same Number of Distinct Balls](https://leetcode.com/problems/probability-of-a-two-boxes-having-the-same-number-of-distinct-balls/description/) |Hard|NaN|NaN|NaN|NaN|
+|1470|[Shuffle the Array](https://leetcode.com/problems/shuffle-the-array/description/) |Easy|NaN|NaN|NaN|NaN|
+|1471|[The k Strongest Values in an Array](https://leetcode.com/problems/the-k-strongest-values-in-an-array/description/) |Medium|NaN|NaN|NaN|NaN|
+|1472|[Design Browser History](https://leetcode.com/problems/design-browser-history/description/) |Medium|NaN|NaN|NaN|NaN|
+|1473|[Paint House III](https://leetcode.com/problems/paint-house-iii/description/) |Hard|NaN|NaN|NaN|NaN|
+|1491|[Average Salary Excluding the Minimum and Maximum Salary](https://leetcode.com/problems/average-salary-excluding-the-minimum-and-maximum-salary/description/) |Easy|NaN|NaN|NaN|NaN|
+|1492|[The kth Factor of n](https://leetcode.com/problems/the-kth-factor-of-n/description/) |Medium|NaN|NaN|NaN|NaN|
+|1493|[Longest Subarray of 1's After Deleting One Element](https://leetcode.com/problems/longest-subarray-of-1s-after-deleting-one-element/description/) |Medium|NaN|NaN|NaN|NaN|
+|1494|[Parallel Courses II](https://leetcode.com/problems/parallel-courses-ii/description/) |Hard|NaN|NaN|NaN|NaN|
+|1480|[Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/description/) |Easy|NaN|NaN|NaN|NaN|
+|1481|[Least Number of Unique Integers after K Removals](https://leetcode.com/problems/least-number-of-unique-integers-after-k-removals/description/) |Medium|NaN|NaN|NaN|NaN|
+|1482|[Minimum Number of Days to Make m Bouquets](https://leetcode.com/problems/minimum-number-of-days-to-make-m-bouquets/description/) |Medium|NaN|NaN|NaN|NaN|
+|1469|[Find All The Lonely Nodes](https://leetcode.com/problems/find-all-the-lonely-nodes/description/) :lock:|Easy|NaN|NaN|NaN|NaN|
+|1486|[XOR Operation in an Array](https://leetcode.com/problems/xor-operation-in-an-array/description/) |Easy|NaN|NaN|NaN|NaN|
+|1487|[Making File Names Unique](https://leetcode.com/problems/making-file-names-unique/description/) |Medium|NaN|NaN|NaN|NaN|
+|1488|[Avoid Flood in The City](https://leetcode.com/problems/avoid-flood-in-the-city/description/) |Medium|NaN|NaN|NaN|NaN|
+|1489|[Find Critical and Pseudo-Critical Edges in Minimum Spanning Tree](https://leetcode.com/problems/find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree/description/) |Hard|NaN|NaN|NaN|NaN|
+|1508|[Range Sum of Sorted Subarray Sums](https://leetcode.com/problems/range-sum-of-sorted-subarray-sums/description/) |Medium|NaN|NaN|NaN|NaN|
+|1509|[Minimum Difference Between Largest and Smallest Value in Three Moves](https://leetcode.com/problems/minimum-difference-between-largest-and-smallest-value-in-three-moves/description/) |Medium|NaN|NaN|NaN|NaN|
+|1510|[Stone Game IV](https://leetcode.com/problems/stone-game-iv/description/) |Hard|NaN|NaN|NaN|NaN|
+|1474|[Delete N Nodes After M Nodes of a Linked List](https://leetcode.com/problems/delete-n-nodes-after-m-nodes-of-a-linked-list/description/) :lock:|Easy|NaN|NaN|NaN|NaN|
+|1496|[Path Crossing](https://leetcode.com/problems/path-crossing/description/) |Easy|NaN|NaN|NaN|NaN|
+|1497|[Check If Array Pairs Are Divisible by k](https://leetcode.com/problems/check-if-array-pairs-are-divisible-by-k/description/) |Medium|NaN|NaN|NaN|NaN|
+|1498|[Number of Subsequences That Satisfy the Given Sum Condition](https://leetcode.com/problems/number-of-subsequences-that-satisfy-the-given-sum-condition/description/) |Medium|NaN|NaN|NaN|NaN|
+|1499|[Max Value of Equation](https://leetcode.com/problems/max-value-of-equation/description/) |Hard|NaN|NaN|NaN|NaN|
+|1485|[Clone Binary Tree With Random Pointer](https://leetcode.com/problems/clone-binary-tree-with-random-pointer/description/) :lock:|Medium|NaN|NaN|NaN|NaN|
+|1502|[Can Make Arithmetic Progression From Sequence](https://leetcode.com/problems/can-make-arithmetic-progression-from-sequence/description/) |Easy|NaN|NaN|NaN|NaN|
+|1503|[Last Moment Before All Ants Fall Out of a Plank](https://leetcode.com/problems/last-moment-before-all-ants-fall-out-of-a-plank/description/) |Medium|NaN|NaN|NaN|NaN|
+|1504|[Count Submatrices With All Ones](https://leetcode.com/problems/count-submatrices-with-all-ones/description/) |Medium|NaN|NaN|NaN|NaN|
+|1505|[Minimum Possible Integer After at Most K Adjacent Swaps On Digits](https://leetcode.com/problems/minimum-possible-integer-after-at-most-k-adjacent-swaps-on-digits/description/) |Hard|NaN|NaN|NaN|NaN|
+|1523|[Count Odd Numbers in an Interval Range](https://leetcode.com/problems/count-odd-numbers-in-an-interval-range/description/) |Easy|NaN|NaN|NaN|NaN|
+|1524|[Number of Sub-arrays With Odd Sum](https://leetcode.com/problems/number-of-sub-arrays-with-odd-sum/description/) |Medium|NaN|NaN|NaN|NaN|
+|1525|[Number of Good Ways to Split a String](https://leetcode.com/problems/number-of-good-ways-to-split-a-string/description/) |Medium|NaN|NaN|NaN|NaN|
+|1526|[Minimum Number of Increments on Subarrays to Form a Target Array](https://leetcode.com/problems/minimum-number-of-increments-on-subarrays-to-form-a-target-array/description/) |Hard|NaN|NaN|NaN|NaN|
+|1490|[Clone N-ary Tree](https://leetcode.com/problems/clone-n-ary-tree/description/) :lock:|Medium|NaN|NaN|NaN|NaN|
+|1512|[Number of Good Pairs](https://leetcode.com/problems/number-of-good-pairs/description/) |Easy|NaN|NaN|NaN|NaN|
+|1513|[Number of Substrings With Only 1s](https://leetcode.com/problems/number-of-substrings-with-only-1s/description/) |Medium|NaN|NaN|NaN|NaN|
+|1531|[String Compression II](https://leetcode.com/problems/string-compression-ii/description/) |Hard|NaN|NaN|NaN|NaN|
+|1515|[Best Position for a Service Centre](https://leetcode.com/problems/best-position-for-a-service-centre/description/) |Hard|NaN|NaN|NaN|NaN|
+|1500|[Design a File Sharing System](https://leetcode.com/problems/design-a-file-sharing-system/description/) :lock:|Medium|NaN|NaN|NaN|NaN|
+|1518|[Water Bottles](https://leetcode.com/problems/water-bottles/description/) |Easy|NaN|NaN|NaN|NaN|
+|1519|[Number of Nodes in the Sub-Tree With the Same Label](https://leetcode.com/problems/number-of-nodes-in-the-sub-tree-with-the-same-label/description/) |Medium|NaN|NaN|NaN|NaN|
+|1520|[Maximum Number of Non-Overlapping Substrings](https://leetcode.com/problems/maximum-number-of-non-overlapping-substrings/description/) |Hard|NaN|NaN|NaN|NaN|
+|1521|[Find a Value of a Mysterious Function Closest to Target](https://leetcode.com/problems/find-a-value-of-a-mysterious-function-closest-to-target/description/) |Hard|NaN|NaN|NaN|NaN|
+|1539|[Kth Missing Positive Number](https://leetcode.com/problems/kth-missing-positive-number/description/) |Easy|NaN|NaN|NaN|NaN|
+|1540|[Can Convert String in K Moves](https://leetcode.com/problems/can-convert-string-in-k-moves/description/) |Medium|NaN|NaN|NaN|NaN|
+|1541|[Minimum Insertions to Balance a Parentheses String](https://leetcode.com/problems/minimum-insertions-to-balance-a-parentheses-string/description/) |Medium|NaN|NaN|NaN|NaN|
+|1546|[Maximum Number of Non-Overlapping Subarrays With Sum Equals Target](https://leetcode.com/problems/maximum-number-of-non-overlapping-subarrays-with-sum-equals-target/description/) |Medium|NaN|NaN|NaN|NaN|
+|1506|[Find Root of N-Ary Tree](https://leetcode.com/problems/find-root-of-n-ary-tree/description/) :lock:|Medium|NaN|NaN|NaN|NaN|
+|1528|[Shuffle String](https://leetcode.com/problems/shuffle-string/description/) |Easy|NaN|NaN|NaN|NaN|
+|1529|[Bulb Switcher IV](https://leetcode.com/problems/bulb-switcher-iv/description/) |Medium|NaN|NaN|NaN|NaN|
+|1530|[Number of Good Leaf Nodes Pairs](https://leetcode.com/problems/number-of-good-leaf-nodes-pairs/description/) |Medium|NaN|NaN|NaN|NaN|
+|1516|[Move Sub-Tree of N-Ary Tree](https://leetcode.com/problems/move-sub-tree-of-n-ary-tree/description/) :lock:|Hard|NaN|NaN|NaN|NaN|
+|1534|[Count Good Triplets](https://leetcode.com/problems/count-good-triplets/description/) |Easy|NaN|NaN|NaN|NaN|
+|1535|[Find the Winner of an Array Game](https://leetcode.com/problems/find-the-winner-of-an-array-game/description/) |Medium|NaN|NaN|NaN|NaN|
+|1536|[Minimum Swaps to Arrange a Binary Grid](https://leetcode.com/problems/minimum-swaps-to-arrange-a-binary-grid/description/) |Medium|NaN|NaN|NaN|NaN|
+|1537|[Get the Maximum Score](https://leetcode.com/problems/get-the-maximum-score/description/) |Hard|NaN|NaN|NaN|NaN|
+|1556|[Thousand Separator](https://leetcode.com/problems/thousand-separator/description/) |Easy|NaN|NaN|NaN|NaN|
+|1557|[Minimum Number of Vertices to Reach All Nodes](https://leetcode.com/problems/minimum-number-of-vertices-to-reach-all-nodes/description/) |Medium|NaN|NaN|NaN|NaN|
+|1558|[Minimum Numbers of Function Calls to Make Target Array](https://leetcode.com/problems/minimum-numbers-of-function-calls-to-make-target-array/description/) |Medium|NaN|NaN|NaN|NaN|
+|1559|[Detect Cycles in 2D Grid](https://leetcode.com/problems/detect-cycles-in-2d-grid/description/) |Hard|NaN|NaN|NaN|NaN|
+|1522|[Diameter of N-Ary Tree](https://leetcode.com/problems/diameter-of-n-ary-tree/description/) :lock:|Medium|NaN|NaN|NaN|NaN|
+|1544|[Make The String Great](https://leetcode.com/problems/make-the-string-great/description/) |Easy|NaN|NaN|NaN|NaN|
+|1545|[Find Kth Bit in Nth Binary String](https://leetcode.com/problems/find-kth-bit-in-nth-binary-string/description/) |Medium|NaN|NaN|NaN|NaN|
+|1542|[Find Longest Awesome Substring](https://leetcode.com/problems/find-longest-awesome-substring/description/) |Hard|NaN|NaN|NaN|NaN|
+|1547|[Minimum Cost to Cut a Stick](https://leetcode.com/problems/minimum-cost-to-cut-a-stick/description/) |Hard|NaN|NaN|NaN|NaN|
+|1533|[Find the Index of the Large Integer](https://leetcode.com/problems/find-the-index-of-the-large-integer/description/) :lock:|Medium|NaN|NaN|NaN|NaN|
+|1551|[Minimum Operations to Make Array Equal](https://leetcode.com/problems/minimum-operations-to-make-array-equal/description/) |Medium|NaN|NaN|NaN|NaN|
+|1552|[Magnetic Force Between Two Balls](https://leetcode.com/problems/magnetic-force-between-two-balls/description/) |Medium|NaN|NaN|NaN|NaN|
+|1553|[Minimum Number of Days to Eat N Oranges](https://leetcode.com/problems/minimum-number-of-days-to-eat-n-oranges/description/) |Hard|NaN|NaN|NaN|NaN|
+|1572|[Matrix Diagonal Sum](https://leetcode.com/problems/matrix-diagonal-sum/description/) |Easy|NaN|NaN|NaN|NaN|
+|1573|[Number of Ways to Split a String](https://leetcode.com/problems/number-of-ways-to-split-a-string/description/) |Medium|NaN|NaN|NaN|NaN|
+|1574|[Shortest Subarray to be Removed to Make Array Sorted](https://leetcode.com/problems/shortest-subarray-to-be-removed-to-make-array-sorted/description/) |Medium|NaN|NaN|NaN|NaN|
+|1575|[Count All Possible Routes](https://leetcode.com/problems/count-all-possible-routes/description/) |Hard|NaN|NaN|NaN|NaN|
+|1538|[Guess the Majority in a Hidden Array](https://leetcode.com/problems/guess-the-majority-in-a-hidden-array/description/) :lock:|Medium|NaN|NaN|NaN|NaN|
+|1560|[Most Visited Sector in  a Circular Track](https://leetcode.com/problems/most-visited-sector-in-a-circular-track/description/) |Easy|NaN|NaN|NaN|NaN|
+|1561|[Maximum Number of Coins You Can Get](https://leetcode.com/problems/maximum-number-of-coins-you-can-get/description/) |Medium|NaN|NaN|NaN|NaN|
+|1562|[Find Latest Group of Size M](https://leetcode.com/problems/find-latest-group-of-size-m/description/) |Medium|NaN|NaN|NaN|NaN|
+|1563|[Stone Game V](https://leetcode.com/problems/stone-game-v/description/) |Hard|NaN|NaN|NaN|NaN|
+|1548|[The Most Similar Path in a Graph](https://leetcode.com/problems/the-most-similar-path-in-a-graph/description/) :lock:|Hard|NaN|NaN|NaN|NaN|
+|1566|[Detect Pattern of Length M Repeated K or More Times](https://leetcode.com/problems/detect-pattern-of-length-m-repeated-k-or-more-times/description/) |Easy|NaN|NaN|NaN|NaN|
+|1567|[Maximum Length of Subarray With Positive Product](https://leetcode.com/problems/maximum-length-of-subarray-with-positive-product/description/) |Medium|NaN|NaN|NaN|NaN|
+|1568|[Minimum Number of Days to Disconnect Island](https://leetcode.com/problems/minimum-number-of-days-to-disconnect-island/description/) |Hard|NaN|NaN|NaN|NaN|
+|1569|[Number of Ways to Reorder Array to Get Same BST](https://leetcode.com/problems/number-of-ways-to-reorder-array-to-get-same-bst/description/) |Hard|NaN|NaN|NaN|NaN|
+|1588|[Sum of All Odd Length Subarrays](https://leetcode.com/problems/sum-of-all-odd-length-subarrays/description/) |Easy|NaN|NaN|NaN|NaN|
+|1590|[Make Sum Divisible by P](https://leetcode.com/problems/make-sum-divisible-by-p/description/) |Medium|NaN|NaN|NaN|NaN|
+|1589|[Maximum Sum Obtained of Any Permutation](https://leetcode.com/problems/maximum-sum-obtained-of-any-permutation/description/) |Medium|NaN|NaN|NaN|NaN|
+|1591|[Strange Printer II](https://leetcode.com/problems/strange-printer-ii/description/) |Hard|NaN|NaN|NaN|NaN|
+|1554|[Strings Differ by One Character](https://leetcode.com/problems/strings-differ-by-one-character/description/) :lock:|Medium|NaN|NaN|NaN|NaN|
+|1576|[Replace All ?'s to Avoid Consecutive Repeating Characters](https://leetcode.com/problems/replace-all-s-to-avoid-consecutive-repeating-characters/description/) |Easy|NaN|NaN|NaN|NaN|
+|1577|[Number of Ways Where Square of Number Is Equal to Product of Two Numbers](https://leetcode.com/problems/number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers/description/) |Medium|NaN|NaN|NaN|NaN|
+|1578|[Minimum Deletion Cost to Avoid Repeating Letters](https://leetcode.com/problems/minimum-deletion-cost-to-avoid-repeating-letters/description/) |Medium|NaN|NaN|NaN|NaN|
+|1579|[Remove Max Number of Edges to Keep Graph Fully Traversable](https://leetcode.com/problems/remove-max-number-of-edges-to-keep-graph-fully-traversable/description/) |Hard|NaN|NaN|NaN|NaN|
+|1564|[Put Boxes Into the Warehouse I](https://leetcode.com/problems/put-boxes-into-the-warehouse-i/description/) :lock:|Medium|NaN|NaN|NaN|NaN|
+|1582|[Special Positions in a Binary Matrix](https://leetcode.com/problems/special-positions-in-a-binary-matrix/description/) |Easy|NaN|NaN|NaN|NaN|
+|1583|[Count Unhappy Friends](https://leetcode.com/problems/count-unhappy-friends/description/) |Medium|NaN|NaN|NaN|NaN|
+|1584|[Min Cost to Connect All Points](https://leetcode.com/problems/min-cost-to-connect-all-points/description/) |Medium|NaN|NaN|NaN|NaN|
+|1585|[Check If String Is Transformable With Substring Sort Operations](https://leetcode.com/problems/check-if-string-is-transformable-with-substring-sort-operations/description/) |Hard|NaN|NaN|NaN|NaN|
+|1603|[Design Parking System](https://leetcode.com/problems/design-parking-system/description/) |Easy|NaN|NaN|NaN|NaN|
+|1604|[Alert Using Same Key-Card Three or More Times in a One Hour Period](https://leetcode.com/problems/alert-using-same-key-card-three-or-more-times-in-a-one-hour-period/description/) |Medium|NaN|NaN|NaN|NaN|
+|1606|[Find Servers That Handled Most Number of Requests](https://leetcode.com/problems/find-servers-that-handled-most-number-of-requests/description/) |Hard|NaN|NaN|NaN|NaN|
+|1605|[Find Valid Matrix Given Row and Column Sums](https://leetcode.com/problems/find-valid-matrix-given-row-and-column-sums/description/) |Medium|NaN|NaN|NaN|NaN|
+|1570|[Dot Product of Two Sparse Vectors](https://leetcode.com/problems/dot-product-of-two-sparse-vectors/description/) :lock:|Medium|NaN|NaN|NaN|NaN|
+|1592|[Rearrange Spaces Between Words](https://leetcode.com/problems/rearrange-spaces-between-words/description/) |Easy|NaN|NaN|NaN|NaN|
+|1593|[Split a String Into the Max Number of Unique Substrings](https://leetcode.com/problems/split-a-string-into-the-max-number-of-unique-substrings/description/) |Medium|NaN|NaN|NaN|NaN|
+|1594|[Maximum Non Negative Product in a Matrix](https://leetcode.com/problems/maximum-non-negative-product-in-a-matrix/description/) |Medium|NaN|NaN|NaN|NaN|
+|1595|[Minimum Cost to Connect Two Groups of Points](https://leetcode.com/problems/minimum-cost-to-connect-two-groups-of-points/description/) |Hard|NaN|NaN|NaN|NaN|
+|1580|[Put Boxes Into the Warehouse II](https://leetcode.com/problems/put-boxes-into-the-warehouse-ii/description/) :lock:|Medium|NaN|NaN|NaN|NaN|
+|1598|[Crawler Log Folder](https://leetcode.com/problems/crawler-log-folder/description/) |Easy|NaN|NaN|NaN|NaN|
+|1599|[Maximum Profit of Operating a Centennial Wheel](https://leetcode.com/problems/maximum-profit-of-operating-a-centennial-wheel/description/) |Medium|NaN|NaN|NaN|NaN|
+|1600|[Throne Inheritance](https://leetcode.com/problems/throne-inheritance/description/) |Medium|NaN|NaN|NaN|NaN|
+|1601|[Maximum Number of Achievable Transfer Requests](https://leetcode.com/problems/maximum-number-of-achievable-transfer-requests/description/) |Hard|NaN|NaN|NaN|NaN|
+|1621|[Number of Sets of K Non-Overlapping Line Segments](https://leetcode.com/problems/number-of-sets-of-k-non-overlapping-line-segments/description/) |Medium|NaN|NaN|NaN|NaN|
+|1620|[Coordinate With Maximum Network Quality](https://leetcode.com/problems/coordinate-with-maximum-network-quality/description/) |Medium|NaN|NaN|NaN|NaN|
+|1728|[Cat and Mouse II](https://leetcode.com/problems/cat-and-mouse-ii/description/) |Hard|NaN|NaN|NaN|NaN|
+|1622|[Fancy Sequence](https://leetcode.com/problems/fancy-sequence/description/) |Hard|NaN|NaN|NaN|NaN|
+|1586|[Binary Search Tree Iterator II](https://leetcode.com/problems/binary-search-tree-iterator-ii/description/) :lock:|Medium|NaN|NaN|NaN|NaN|
+|1608|[Special Array With X Elements Greater Than or Equal X](https://leetcode.com/problems/special-array-with-x-elements-greater-than-or-equal-x/description/) |Easy|NaN|NaN|NaN|NaN|
+|1609|[Even Odd Tree](https://leetcode.com/problems/even-odd-tree/description/) |Medium|NaN|NaN|NaN|NaN|
+|1611|[Minimum One Bit Operations to Make Integers Zero](https://leetcode.com/problems/minimum-one-bit-operations-to-make-integers-zero/description/) |Hard|NaN|NaN|NaN|NaN|
+|1610|[Maximum Number of Visible Points](https://leetcode.com/problems/maximum-number-of-visible-points/description/) |Hard|NaN|NaN|NaN|NaN|
+|1597|[Build Binary Expression Tree From Infix Expression](https://leetcode.com/problems/build-binary-expression-tree-from-infix-expression/description/) :lock:|Hard|NaN|NaN|NaN|NaN|
+|1614|[Maximum Nesting Depth of the Parentheses](https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses/description/) |Easy|NaN|NaN|NaN|NaN|
+|1615|[Maximal Network Rank](https://leetcode.com/problems/maximal-network-rank/description/) |Medium|NaN|NaN|NaN|NaN|
+|1616|[Split Two Strings to Make Palindrome](https://leetcode.com/problems/split-two-strings-to-make-palindrome/description/) |Medium|NaN|NaN|NaN|NaN|
+|1617|[Count Subtrees With Max Distance Between Cities](https://leetcode.com/problems/count-subtrees-with-max-distance-between-cities/description/) |Hard|NaN|NaN|NaN|NaN|
+|1636|[Sort Array by Increasing Frequency](https://leetcode.com/problems/sort-array-by-increasing-frequency/description/) |Easy|NaN|NaN|NaN|NaN|
+|1637|[Widest Vertical Area Between Two Points Containing No Points](https://leetcode.com/problems/widest-vertical-area-between-two-points-containing-no-points/description/) |Medium|NaN|NaN|NaN|NaN|
+|1638|[Count Substrings That Differ by One Character](https://leetcode.com/problems/count-substrings-that-differ-by-one-character/description/) |Medium|NaN|NaN|NaN|NaN|
+|1639|[Number of Ways to Form a Target String Given a Dictionary](https://leetcode.com/problems/number-of-ways-to-form-a-target-string-given-a-dictionary/description/) |Hard|NaN|NaN|NaN|NaN|
+|1602|[Find Nearest Right Node in Binary Tree](https://leetcode.com/problems/find-nearest-right-node-in-binary-tree/description/) :lock:|Medium|NaN|NaN|NaN|NaN|
+|1624|[Largest Substring Between Two Equal Characters](https://leetcode.com/problems/largest-substring-between-two-equal-characters/description/) |Easy|NaN|NaN|NaN|NaN|
+|1625|[Lexicographically Smallest String After Applying Operations](https://leetcode.com/problems/lexicographically-smallest-string-after-applying-operations/description/) |Medium|NaN|NaN|NaN|NaN|
+|1626|[Best Team With No Conflicts](https://leetcode.com/problems/best-team-with-no-conflicts/description/) |Medium|NaN|NaN|NaN|NaN|
+|1612|[Check If Two Expression Trees are Equivalent](https://leetcode.com/problems/check-if-two-expression-trees-are-equivalent/description/) :lock:|Medium|NaN|NaN|NaN|NaN|
+|1629|[Slowest Key](https://leetcode.com/problems/slowest-key/description/) |Easy|NaN|NaN|NaN|NaN|
+|1630|[Arithmetic Subarrays](https://leetcode.com/problems/arithmetic-subarrays/description/) |Medium|NaN|NaN|NaN|NaN|
+|1631|[Path With Minimum Effort](https://leetcode.com/problems/path-with-minimum-effort/description/) |Medium|NaN|NaN|NaN|NaN|
+|1652|[Defuse the Bomb](https://leetcode.com/problems/defuse-the-bomb/description/) |Easy|NaN|NaN|NaN|NaN|
+|1653|[Minimum Deletions to Make String Balanced](https://leetcode.com/problems/minimum-deletions-to-make-string-balanced/description/) |Medium|NaN|NaN|NaN|NaN|
+|1654|[Minimum Jumps to Reach Home](https://leetcode.com/problems/minimum-jumps-to-reach-home/description/) |Medium|NaN|NaN|NaN|NaN|
+|1655|[Distribute Repeating Integers](https://leetcode.com/problems/distribute-repeating-integers/description/) |Hard|NaN|NaN|NaN|NaN|
+|1640|[Check Array Formation Through Concatenation](https://leetcode.com/problems/check-array-formation-through-concatenation/description/) |Easy|NaN|NaN|NaN|NaN|
+|1641|[Count Sorted Vowel Strings](https://leetcode.com/problems/count-sorted-vowel-strings/description/) |Medium|NaN|NaN|NaN|NaN|
+|1642|[Furthest Building You Can Reach](https://leetcode.com/problems/furthest-building-you-can-reach/description/) |Medium|NaN|NaN|NaN|NaN|
+|1668|[Maximum Repeating Substring](https://leetcode.com/problems/maximum-repeating-substring/description/) |Easy|NaN|NaN|NaN|NaN|
+|1669|[Merge In Between Linked Lists](https://leetcode.com/problems/merge-in-between-linked-lists/description/) |Medium|NaN|NaN|NaN|NaN|
+|1671|[Minimum Number of Removals to Make Mountain Array](https://leetcode.com/problems/minimum-number-of-removals-to-make-mountain-array/description/) |Hard|NaN|NaN|NaN|NaN|
+|1670|[Design Front Middle Back Queue](https://leetcode.com/problems/design-front-middle-back-queue/description/) |Medium|NaN|NaN|NaN|NaN|
+|1628|[Design an Expression Tree With Evaluate Function](https://leetcode.com/problems/design-an-expression-tree-with-evaluate-function/description/) :lock:|Medium|NaN|NaN|NaN|NaN|
+|1646|[Get Maximum in Generated Array](https://leetcode.com/problems/get-maximum-in-generated-array/description/) |Easy|NaN|NaN|NaN|NaN|
+|1647|[Minimum Deletions to Make Character Frequencies Unique](https://leetcode.com/problems/minimum-deletions-to-make-character-frequencies-unique/description/) |Medium|NaN|NaN|NaN|NaN|
+|1648|[Sell Diminishing-Valued Colored Balls](https://leetcode.com/problems/sell-diminishing-valued-colored-balls/description/) |Medium|NaN|NaN|NaN|NaN|
+|1649|[Create Sorted Array through Instructions](https://leetcode.com/problems/create-sorted-array-through-instructions/description/) |Hard|NaN|NaN|NaN|NaN|
+|1634|[Add Two Polynomials Represented as Linked Lists](https://leetcode.com/problems/add-two-polynomials-represented-as-linked-lists/description/) :lock:|Medium|NaN|NaN|NaN|NaN|
+|1656|[Design an Ordered Stream](https://leetcode.com/problems/design-an-ordered-stream/description/) |Easy|NaN|NaN|NaN|NaN|
+|1658|[Minimum Operations to Reduce X to Zero](https://leetcode.com/problems/minimum-operations-to-reduce-x-to-zero/description/) |Medium|NaN|NaN|NaN|NaN|
+|1657|[Determine if Two Strings Are Close](https://leetcode.com/problems/determine-if-two-strings-are-close/description/) |Medium|NaN|NaN|NaN|NaN|
+|1659|[Maximize Grid Happiness](https://leetcode.com/problems/maximize-grid-happiness/description/) |Hard|NaN|NaN|NaN|NaN|
+|1644|[Lowest Common Ancestor of a Binary Tree II](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree-ii/description/) :lock:|Medium|NaN|NaN|NaN|NaN|
+|1662|[Check If Two String Arrays are Equivalent](https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/description/) |Easy|NaN|NaN|NaN|NaN|
+|1663|[Smallest String With A Given Numeric Value](https://leetcode.com/problems/smallest-string-with-a-given-numeric-value/description/) |Medium|NaN|NaN|NaN|NaN|
+|1664|[Ways to Make a Fair Array](https://leetcode.com/problems/ways-to-make-a-fair-array/description/) |Medium|NaN|NaN|NaN|NaN|
+|1665|[Minimum Initial Energy to Finish Tasks](https://leetcode.com/problems/minimum-initial-energy-to-finish-tasks/description/) |Hard|NaN|NaN|NaN|NaN|
+|1684|[Count the Number of Consistent Strings](https://leetcode.com/problems/count-the-number-of-consistent-strings/description/) |Easy|NaN|NaN|NaN|NaN|
+|1685|[Sum of Absolute Differences in a Sorted Array](https://leetcode.com/problems/sum-of-absolute-differences-in-a-sorted-array/description/) |Medium|NaN|NaN|NaN|NaN|
+|1686|[Stone Game VI](https://leetcode.com/problems/stone-game-vi/description/) |Medium|NaN|NaN|NaN|NaN|
+|1687|[Delivering Boxes from Storage to Ports](https://leetcode.com/problems/delivering-boxes-from-storage-to-ports/description/) |Hard|NaN|NaN|NaN|NaN|
+|1650|[Lowest Common Ancestor of a Binary Tree III](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree-iii/description/) :lock:|Medium|NaN|NaN|NaN|NaN|
+|1672|[Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth/description/) |Easy|NaN|NaN|NaN|NaN|
+|1673|[Find the Most Competitive Subsequence](https://leetcode.com/problems/find-the-most-competitive-subsequence/description/) |Medium|NaN|NaN|NaN|NaN|
+|1674|[Minimum Moves to Make Array Complementary](https://leetcode.com/problems/minimum-moves-to-make-array-complementary/description/) |Medium|NaN|NaN|NaN|NaN|
+|1675|[Minimize Deviation in Array](https://leetcode.com/problems/minimize-deviation-in-array/description/) |Hard|NaN|NaN|NaN|NaN|
+|1660|[Correct a Binary Tree](https://leetcode.com/problems/correct-a-binary-tree/description/) :lock:|Medium|NaN|NaN|NaN|NaN|
+|1678|[Goal Parser Interpretation](https://leetcode.com/problems/goal-parser-interpretation/description/) |Easy|NaN|NaN|NaN|NaN|
+|1679|[Max Number of K-Sum Pairs](https://leetcode.com/problems/max-number-of-k-sum-pairs/description/) |Medium|NaN|NaN|NaN|NaN|
+|1681|[Minimum Incompatibility](https://leetcode.com/problems/minimum-incompatibility/description/) |Hard|NaN|NaN|NaN|NaN|
+|1680|[Concatenation of Consecutive Binary Numbers](https://leetcode.com/problems/concatenation-of-consecutive-binary-numbers/description/) |Medium|NaN|NaN|NaN|NaN|
+|1700|[Number of Students Unable to Eat Lunch](https://leetcode.com/problems/number-of-students-unable-to-eat-lunch/description/) |Easy|NaN|NaN|NaN|NaN|
+|1701|[Average Waiting Time](https://leetcode.com/problems/average-waiting-time/description/) |Medium|NaN|NaN|NaN|NaN|
+|1702|[Maximum Binary String After Change](https://leetcode.com/problems/maximum-binary-string-after-change/description/) |Medium|NaN|NaN|NaN|NaN|
+|1703|[Minimum Adjacent Swaps for K Consecutive Ones](https://leetcode.com/problems/minimum-adjacent-swaps-for-k-consecutive-ones/description/) |Hard|NaN|NaN|NaN|NaN|
+|1688|[Count of Matches in Tournament](https://leetcode.com/problems/count-of-matches-in-tournament/description/) |Easy|NaN|NaN|NaN|NaN|
+|1689|[Partitioning Into Minimum Number Of Deci-Binary Numbers](https://leetcode.com/problems/partitioning-into-minimum-number-of-deci-binary-numbers/description/) |Medium|NaN|NaN|NaN|NaN|
+|1690|[Stone Game VII](https://leetcode.com/problems/stone-game-vii/description/) |Medium|NaN|NaN|NaN|NaN|
+|1714|[Sum Of Special Evenly-Spaced Elements In Array](https://leetcode.com/problems/sum-of-special-evenly-spaced-elements-in-array/description/) :lock:|Hard|NaN|NaN|NaN|NaN|
+|1666|[Change the Root of a Binary Tree](https://leetcode.com/problems/change-the-root-of-a-binary-tree/description/) :lock:|Medium|NaN|NaN|NaN|NaN|
+|1694|[Reformat Phone Number](https://leetcode.com/problems/reformat-phone-number/description/) |Easy|NaN|NaN|NaN|NaN|
+|1695|[Maximum Erasure Value](https://leetcode.com/problems/maximum-erasure-value/description/) |Medium|NaN|NaN|NaN|NaN|
+|1696|[Jump Game VI](https://leetcode.com/problems/jump-game-vi/description/) |Medium|NaN|NaN|NaN|NaN|
+|1697|[Checking Existence of Edge Length Limited Paths](https://leetcode.com/problems/checking-existence-of-edge-length-limited-paths/description/) |Hard|NaN|NaN|NaN|NaN|
+|1676|[Lowest Common Ancestor of a Binary Tree IV](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree-iv/description/) :lock:|Medium|NaN|NaN|NaN|NaN|
+|1716|[Calculate Money in Leetcode Bank](https://leetcode.com/problems/calculate-money-in-leetcode-bank/description/) |Easy|NaN|NaN|NaN|NaN|
+|1717|[Maximum Score From Removing Substrings](https://leetcode.com/problems/maximum-score-from-removing-substrings/description/) |Medium|NaN|NaN|NaN|NaN|
+|1718|[Construct the Lexicographically Largest Valid Sequence](https://leetcode.com/problems/construct-the-lexicographically-largest-valid-sequence/description/) |Medium|NaN|NaN|NaN|NaN|
+|1719|[Number Of Ways To Reconstruct A Tree](https://leetcode.com/problems/number-of-ways-to-reconstruct-a-tree/description/) |Hard|NaN|NaN|NaN|NaN|
+|1682|[Longest Palindromic Subsequence II](https://leetcode.com/problems/longest-palindromic-subsequence-ii/description/) :lock:|Medium|NaN|NaN|NaN|NaN|
+|1704|[Determine if String Halves Are Alike](https://leetcode.com/problems/determine-if-string-halves-are-alike/description/) |Easy|NaN|NaN|NaN|NaN|
+|1705|[Maximum Number of Eaten Apples](https://leetcode.com/problems/maximum-number-of-eaten-apples/description/) |Medium|NaN|NaN|NaN|NaN|
+|1723|[Find Minimum Time to Finish All Jobs](https://leetcode.com/problems/find-minimum-time-to-finish-all-jobs/description/) |Hard|NaN|NaN|NaN|NaN|
+|1707|[Maximum XOR With an Element From Array](https://leetcode.com/problems/maximum-xor-with-an-element-from-array/description/) |Hard|NaN|NaN|NaN|NaN|
+|1692|[Count Ways to Distribute Candies](https://leetcode.com/problems/count-ways-to-distribute-candies/description/) :lock:|Hard|NaN|NaN|NaN|NaN|
+|1710|[Maximum Units on a Truck](https://leetcode.com/problems/maximum-units-on-a-truck/description/) |Easy|NaN|NaN|NaN|NaN|
+|1711|[Count Good Meals](https://leetcode.com/problems/count-good-meals/description/) |Medium|NaN|NaN|NaN|NaN|
+|1712|[Ways to Split Array Into Three Subarrays](https://leetcode.com/problems/ways-to-split-array-into-three-subarrays/description/) |Medium|NaN|NaN|NaN|NaN|
+|1713|[Minimum Operations to Make a Subsequence](https://leetcode.com/problems/minimum-operations-to-make-a-subsequence/description/) |Hard|NaN|NaN|NaN|NaN|
+|1732|[Find the Highest Altitude](https://leetcode.com/problems/find-the-highest-altitude/description/) |Easy|NaN|NaN|NaN|NaN|
+|1733|[Minimum Number of People to Teach](https://leetcode.com/problems/minimum-number-of-people-to-teach/description/) |Medium|NaN|NaN|NaN|NaN|
+|1734|[Decode XORed Permutation](https://leetcode.com/problems/decode-xored-permutation/description/) |Medium|NaN|NaN|NaN|NaN|
+|1735|[Count Ways to Make Array With Product](https://leetcode.com/problems/count-ways-to-make-array-with-product/description/) |Hard|NaN|NaN|NaN|NaN|
+|1698|[Number of Distinct Substrings in a String](https://leetcode.com/problems/number-of-distinct-substrings-in-a-string/description/) :lock:|Medium|NaN|NaN|NaN|NaN|
+|1720|[Decode XORed Array](https://leetcode.com/problems/decode-xored-array/description/) |Easy|NaN|NaN|NaN|NaN|
+|1722|[Minimize Hamming Distance After Swap Operations](https://leetcode.com/problems/minimize-hamming-distance-after-swap-operations/description/) |Medium|NaN|NaN|NaN|NaN|
+|1725|[Number Of Rectangles That Can Form The Largest Square](https://leetcode.com/problems/number-of-rectangles-that-can-form-the-largest-square/description/) |Easy|NaN|NaN|NaN|NaN|
+|1742|[Maximum Number of Balls in a Box](https://leetcode.com/problems/maximum-number-of-balls-in-a-box/description/) |Easy|NaN|NaN|NaN|NaN|
+|1727|[Largest Submatrix With Rearrangements](https://leetcode.com/problems/largest-submatrix-with-rearrangements/description/) |Medium|NaN|NaN|NaN|NaN|
+|1708|[Largest Subarray Length K](https://leetcode.com/problems/largest-subarray-length-k/description/) :lock:|Easy|NaN|NaN|NaN|NaN|
+|1748|[Sum of Unique Elements](https://leetcode.com/problems/sum-of-unique-elements/description/) |Easy|NaN|NaN|NaN|NaN|
+|1749|[Maximum Absolute Sum of Any Subarray](https://leetcode.com/problems/maximum-absolute-sum-of-any-subarray/description/) |Medium|NaN|NaN|NaN|NaN|
+|1750|[Minimum Length of String After Deleting Similar Ends](https://leetcode.com/problems/minimum-length-of-string-after-deleting-similar-ends/description/) |Medium|NaN|NaN|NaN|NaN|
+|1751|[Maximum Number of Events That Can Be Attended II](https://leetcode.com/problems/maximum-number-of-events-that-can-be-attended-ii/description/) |Hard|NaN|NaN|NaN|NaN|
+|1736|[Latest Time by Replacing Hidden Digits](https://leetcode.com/problems/latest-time-by-replacing-hidden-digits/description/) |Easy|NaN|NaN|NaN|NaN|
+|1737|[Change Minimum Characters to Satisfy One of Three Conditions](https://leetcode.com/problems/change-minimum-characters-to-satisfy-one-of-three-conditions/description/) |Medium|NaN|NaN|NaN|NaN|
+|1738|[Find Kth Largest XOR Coordinate Value](https://leetcode.com/problems/find-kth-largest-xor-coordinate-value/description/) |Medium|NaN|NaN|NaN|NaN|
+|1739|[Building Boxes](https://leetcode.com/problems/building-boxes/description/) |Hard|NaN|NaN|NaN|NaN|
+|1724|[Checking Existence of Edge Length Limited Paths II](https://leetcode.com/problems/checking-existence-of-edge-length-limited-paths-ii/description/) :lock:|Hard|NaN|NaN|NaN|NaN|
+|1743|[Restore the Array From Adjacent Pairs](https://leetcode.com/problems/restore-the-array-from-adjacent-pairs/description/) |Medium|NaN|NaN|NaN|NaN|
+|1745|[Palindrome Partitioning IV](https://leetcode.com/problems/palindrome-partitioning-iv/description/) |Hard|NaN|NaN|NaN|NaN|
+|1744|[Can You Eat Your Favorite Candy on Your Favorite Day?](https://leetcode.com/problems/can-you-eat-your-favorite-candy-on-your-favorite-day/description/) |Medium|NaN|NaN|NaN|NaN|
+|1763|[Longest Nice Substring](https://leetcode.com/problems/longest-nice-substring/description/) |Easy|NaN|NaN|NaN|NaN|
+|1764|[Form Array by Concatenating Subarrays of Another Array](https://leetcode.com/problems/form-array-by-concatenating-subarrays-of-another-array/description/) |Medium|NaN|NaN|NaN|NaN|
+|1766|[Tree of Coprimes](https://leetcode.com/problems/tree-of-coprimes/description/) |Hard|NaN|NaN|NaN|NaN|
+|1765|[Map of Highest Peak](https://leetcode.com/problems/map-of-highest-peak/description/) |Medium|NaN|NaN|NaN|NaN|
+|1752|[Check if Array Is Sorted and Rotated](https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/description/) |Easy|NaN|NaN|NaN|NaN|
+|1753|[Maximum Score From Removing Stones](https://leetcode.com/problems/maximum-score-from-removing-stones/description/) |Medium|NaN|NaN|NaN|NaN|
+|1754|[Largest Merge Of Two Strings](https://leetcode.com/problems/largest-merge-of-two-strings/description/) |Medium|NaN|NaN|NaN|NaN|
+|1755|[Closest Subsequence Sum](https://leetcode.com/problems/closest-subsequence-sum/description/) |Hard|NaN|NaN|NaN|NaN|
+|1740|[Find Distance in a Binary Tree](https://leetcode.com/problems/find-distance-in-a-binary-tree/description/) :lock:|Medium|NaN|NaN|NaN|NaN|
+|1758|[Minimum Changes To Make Alternating Binary String](https://leetcode.com/problems/minimum-changes-to-make-alternating-binary-string/description/) |Easy|NaN|NaN|NaN|NaN|
+|1759|[Count Number of Homogenous Substrings](https://leetcode.com/problems/count-number-of-homogenous-substrings/description/) |Medium|NaN|NaN|NaN|NaN|
+|1760|[Minimum Limit of Balls in a Bag](https://leetcode.com/problems/minimum-limit-of-balls-in-a-bag/description/) |Medium|NaN|NaN|NaN|NaN|
+|1761|[Minimum Degree of a Connected Trio in a Graph](https://leetcode.com/problems/minimum-degree-of-a-connected-trio-in-a-graph/description/) |Hard|NaN|NaN|NaN|NaN|
+|1779|[Find Nearest Point That Has the Same X or Y Coordinate](https://leetcode.com/problems/find-nearest-point-that-has-the-same-x-or-y-coordinate/description/) |Easy|NaN|NaN|NaN|NaN|
+|1780|[Check if Number is a Sum of Powers of Three](https://leetcode.com/problems/check-if-number-is-a-sum-of-powers-of-three/description/) |Medium|NaN|NaN|NaN|NaN|
+|1781|[Sum of Beauty of All Substrings](https://leetcode.com/problems/sum-of-beauty-of-all-substrings/description/) |Medium|NaN|NaN|NaN|NaN|
+|1782|[Count Pairs Of Nodes](https://leetcode.com/problems/count-pairs-of-nodes/description/) |Hard|NaN|NaN|NaN|NaN|
+|1746|[Maximum Subarray Sum After One Operation](https://leetcode.com/problems/maximum-subarray-sum-after-one-operation/description/) :lock:|Medium|NaN|NaN|NaN|NaN|
+|1768|[Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately/description/) |Easy|NaN|NaN|NaN|NaN|
+|1769|[Minimum Number of Operations to Move All Balls to Each Box](https://leetcode.com/problems/minimum-number-of-operations-to-move-all-balls-to-each-box/description/) |Medium|NaN|NaN|NaN|NaN|
+|1770|[Maximum Score from Performing Multiplication Operations](https://leetcode.com/problems/maximum-score-from-performing-multiplication-operations/description/) |Medium|NaN|NaN|NaN|NaN|
+|1771|[Maximize Palindrome Length From Subsequences](https://leetcode.com/problems/maximize-palindrome-length-from-subsequences/description/) |Hard|NaN|NaN|NaN|NaN|
+|1773|[Count Items Matching a Rule](https://leetcode.com/problems/count-items-matching-a-rule/description/) |Easy|NaN|NaN|NaN|NaN|
+|1774|[Closest Dessert Cost](https://leetcode.com/problems/closest-dessert-cost/description/) |Medium|NaN|NaN|NaN|NaN|
+|1775|[Equal Sum Arrays With Minimum Number of Operations](https://leetcode.com/problems/equal-sum-arrays-with-minimum-number-of-operations/description/) |Medium|NaN|NaN|NaN|NaN|
+|1776|[Car Fleet II](https://leetcode.com/problems/car-fleet-ii/description/) |Hard|NaN|NaN|NaN|NaN|
+|1756|[Design Most Recently Used Queue](https://leetcode.com/problems/design-most-recently-used-queue/description/) :lock:|Medium|NaN|NaN|NaN|NaN|
+|1796|[Second Largest Digit in a String](https://leetcode.com/problems/second-largest-digit-in-a-string/description/) |Easy|NaN|NaN|NaN|NaN|
+|1797|[Design Authentication Manager](https://leetcode.com/problems/design-authentication-manager/description/) |Medium|NaN|NaN|NaN|NaN|
+|1799|[Maximize Score After N Operations](https://leetcode.com/problems/maximize-score-after-n-operations/description/) |Hard|NaN|NaN|NaN|NaN|
+|1803|[Count Pairs With XOR in a Range](https://leetcode.com/problems/count-pairs-with-xor-in-a-range/description/) |Hard|NaN|NaN|NaN|NaN|
+|1762|[Buildings With an Ocean View](https://leetcode.com/problems/buildings-with-an-ocean-view/description/) :lock:|Medium|NaN|NaN|NaN|NaN|
+|1784|[Check if Binary String Has at Most One Segment of Ones](https://leetcode.com/problems/check-if-binary-string-has-at-most-one-segment-of-ones/description/) |Easy|NaN|NaN|NaN|NaN|
+|1785|[Minimum Elements to Add to Form a Given Sum](https://leetcode.com/problems/minimum-elements-to-add-to-form-a-given-sum/description/) |Medium|NaN|NaN|NaN|NaN|
+|1786|[Number of Restricted Paths From First to Last Node](https://leetcode.com/problems/number-of-restricted-paths-from-first-to-last-node/description/) |Medium|NaN|NaN|NaN|NaN|
+|1787|[Make the XOR of All Segments Equal to Zero](https://leetcode.com/problems/make-the-xor-of-all-segments-equal-to-zero/description/) |Hard|NaN|NaN|NaN|NaN|
+|1790|[Check if One String Swap Can Make Strings Equal](https://leetcode.com/problems/check-if-one-string-swap-can-make-strings-equal/description/) |Easy|NaN|NaN|NaN|NaN|
+|1791|[Find Center of Star Graph](https://leetcode.com/problems/find-center-of-star-graph/description/) |Medium|NaN|NaN|NaN|NaN|
+|1792|[Maximum Average Pass Ratio](https://leetcode.com/problems/maximum-average-pass-ratio/description/) |Medium|NaN|NaN|NaN|NaN|
+|1793|[Maximum Score of a Good Subarray](https://leetcode.com/problems/maximum-score-of-a-good-subarray/description/) |Hard|NaN|NaN|NaN|NaN|
+|1772|[Sort Features by Popularity](https://leetcode.com/problems/sort-features-by-popularity/description/) :lock:|Medium|NaN|NaN|NaN|NaN|
+|1812|[Determine Color of a Chessboard Square](https://leetcode.com/problems/determine-color-of-a-chessboard-square/description/) |Easy|NaN|NaN|NaN|NaN|
+|1813|[Sentence Similarity III](https://leetcode.com/problems/sentence-similarity-iii/description/) |Medium|NaN|NaN|NaN|NaN|
+|1815|[Maximum Number of Groups Getting Fresh Donuts](https://leetcode.com/problems/maximum-number-of-groups-getting-fresh-donuts/description/) |Hard|NaN|NaN|NaN|NaN|
+|1814|[Count Nice Pairs in an Array](https://leetcode.com/problems/count-nice-pairs-in-an-array/description/) |Medium|NaN|NaN|NaN|NaN|
+|1800|[Maximum Ascending Subarray Sum](https://leetcode.com/problems/maximum-ascending-subarray-sum/description/) |Easy|NaN|NaN|NaN|NaN|
+|1801|[Number of Orders in the Backlog](https://leetcode.com/problems/number-of-orders-in-the-backlog/description/) |Medium|NaN|NaN|NaN|NaN|
+|1802|[Maximum Value at a Given Index in a Bounded Array](https://leetcode.com/problems/maximum-value-at-a-given-index-in-a-bounded-array/description/) |Medium|NaN|NaN|NaN|NaN|
+|1798|[Maximum Number of Consecutive Values You Can Make](https://leetcode.com/problems/maximum-number-of-consecutive-values-you-can-make/description/) |Medium|NaN|NaN|NaN|NaN|
+|1778|[Shortest Path in a Hidden Grid](https://leetcode.com/problems/shortest-path-in-a-hidden-grid/description/) :lock:|Medium|NaN|NaN|NaN|NaN|
+|1805|[Number of Different Integers in a String](https://leetcode.com/problems/number-of-different-integers-in-a-string/description/) |Easy|NaN|NaN|NaN|NaN|
+|1807|[Evaluate the Bracket Pairs of a String](https://leetcode.com/problems/evaluate-the-bracket-pairs-of-a-string/description/) |Medium|NaN|NaN|NaN|NaN|
+|1806|[Minimum Number of Operations to Reinitialize a Permutation](https://leetcode.com/problems/minimum-number-of-operations-to-reinitialize-a-permutation/description/) |Medium|NaN|NaN|NaN|NaN|
+|1808|[Maximize Number of Nice Divisors](https://leetcode.com/problems/maximize-number-of-nice-divisors/description/) |Hard|NaN|NaN|NaN|NaN|
+|1788|[Maximize the Beauty of the Garden](https://leetcode.com/problems/maximize-the-beauty-of-the-garden/description/) :lock:|Hard|NaN|NaN|NaN|NaN|
+|1794|[Count Pairs of Equal Substrings With Minimum Difference](https://leetcode.com/problems/count-pairs-of-equal-substrings-with-minimum-difference/description/) :lock:|Medium|NaN|NaN|NaN|NaN|
+|1816|[Truncate Sentence](https://leetcode.com/problems/truncate-sentence/description/) |Easy|NaN|NaN|NaN|NaN|
+|1817|[Finding the Users Active Minutes](https://leetcode.com/problems/finding-the-users-active-minutes/description/) |Medium|NaN|NaN|NaN|NaN|
+|1818|[Minimum Absolute Sum Difference](https://leetcode.com/problems/minimum-absolute-sum-difference/description/) |Medium|NaN|NaN|NaN|NaN|
+|1819|[Number of Different Subsequences GCDs](https://leetcode.com/problems/number-of-different-subsequences-gcds/description/) |Hard|NaN|NaN|NaN|NaN|
+|1804|[Implement Trie II (Prefix Tree)](https://leetcode.com/problems/implement-trie-ii-prefix-tree/description/) :lock:|Medium|NaN|NaN|NaN|NaN|
+|1810|[Minimum Path Cost in a Hidden Grid](https://leetcode.com/problems/minimum-path-cost-in-a-hidden-grid/description/) :lock:|Medium|NaN|NaN|NaN|NaN|
