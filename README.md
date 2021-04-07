@@ -1,5 +1,5 @@
 # My LeetCode
-Current Progress: **77** / **1650** problems (4%) while **257** problems are still locked.
+Current Progress: **79** / **1650** problems (4%) while **257** problems are still locked.
 
 Note: :lock: means you need to buy a book from LeetCode
 
@@ -195,7 +195,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |202|[Happy Number](https://leetcode.com/problems/happy-number/description/) |Easy|NaN|NaN|[.py](https://github.com/TheoKlein/leetcode/blob/master/src/202.%20Happy%20Number/202.happy-number.py)|NaN|
 |203|[Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/description/) |Easy|NaN|NaN|NaN|NaN|
 |204|[Count Primes](https://leetcode.com/problems/count-primes/description/) |Easy|NaN|NaN|[.py](https://github.com/TheoKlein/leetcode/blob/master/src/204.%20Count%20Primes/204.count-primes.py)|NaN|
-|205|[Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/description/) |Easy|NaN|NaN|NaN|NaN|
+|205|[Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/description/) |Easy|NaN|NaN|[.py](https://github.com/TheoKlein/leetcode/blob/master/src/205.%20Isomorphic%20Strings/205.isomorphic-strings.py)|NaN|
 |206|[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/description/) |Easy|NaN|NaN|[.py](https://github.com/TheoKlein/leetcode/blob/master/src/206.%20Reverse%20Linked%20List/206.reverse-linked-list.py)|NaN|
 |207|[Course Schedule](https://leetcode.com/problems/course-schedule/description/) |Medium|NaN|NaN|NaN|NaN|
 |208|[Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/description/) |Medium|NaN|NaN|NaN|NaN|
@@ -221,7 +221,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |228|[Summary Ranges](https://leetcode.com/problems/summary-ranges/description/) |Easy|NaN|NaN|NaN|NaN|
 |229|[Majority Element II](https://leetcode.com/problems/majority-element-ii/description/) |Medium|NaN|NaN|NaN|NaN|
 |230|[Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/description/) |Medium|NaN|NaN|[.py](https://github.com/TheoKlein/leetcode/blob/master/src/230.%20Kth%20Smallest%20Element%20in%20a%20BST/230.kth-smallest-element-in-a-bst.py)|NaN|
-|231|[Power of Two](https://leetcode.com/problems/power-of-two/description/) |Easy|NaN|NaN|NaN|NaN|
+|231|[Power of Two](https://leetcode.com/problems/power-of-two/description/) |Easy|NaN|NaN|[.py](https://github.com/TheoKlein/leetcode/blob/master/src/231.%20Power%20of%20Two/231.power-of-two.py)|NaN|
 |232|[Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/description/) |Easy|NaN|NaN|NaN|NaN|
 |233|[Number of Digit One](https://leetcode.com/problems/number-of-digit-one/description/) |Hard|NaN|NaN|NaN|NaN|
 |234|[Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/description/) |Easy|NaN|NaN|[.py](https://github.com/TheoKlein/leetcode/blob/master/src/234.%20Palindrome%20Linked%20List/234.palindrome-linked-list.py)|NaN|
